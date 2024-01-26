@@ -1,4 +1,4 @@
-# Import necessary Python modules
+# Import Python modules
 
 from pytrials.client import ClinicalTrials
 import pandas as pd
@@ -49,8 +49,9 @@ vaccine_trials = get_clinical_trials(
     search_terms, target_fields, max_no_studies, target_format)
 
 # Create a DataFrame using the retrieved information
-
 # The first list in the result represents column labels
+
+
 df = pd.DataFrame(vaccine_trials[1:], columns=vaccine_trials[0])
 
 # Save the DataFrame to a CSV file
