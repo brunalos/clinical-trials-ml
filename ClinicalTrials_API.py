@@ -4,7 +4,7 @@ from pytrials.client import ClinicalTrials
 import pandas as pd
 
 
-# Function to retrieve information of interest from clinical trials
+# Function to retrieve information of interest from https://clinicaltrials.gov/
 
 
 def get_clinical_trials(search_terms, target_fields, max_no_studies, target_format):
