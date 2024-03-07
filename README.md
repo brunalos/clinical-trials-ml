@@ -54,7 +54,7 @@ For example:
 
 ## 4. Machine Learning Model Building:
 
-For this project, four algorithms will be used to make predictions:
+For this project, four algorithms were used to make predictions:
 
 1. Logistic Regression
 2. K Nearest Neighbor
@@ -63,11 +63,9 @@ For this project, four algorithms will be used to make predictions:
 
 ### Evaluation Metrics:
 
-Various values can be utilized to evaluate model performance:
+To assess model performance, the following parameters are utilized:
 
-- **Accuracy:** Correct values divided by total values. (TP + TN)/(TP + FP + TN + FN).
-- **Precision:** True Positives divided by the sum of True Positives and False Negatives. TP/(TP + FP).
-- **Recall:** True Positives divided by the sum of True Positives and False Positives. TP/(TP + FN).
-- **F1-score:** Weighted average of precision and recall. 2*((Precision*Recall)/(Precision+Recall)).
-- **Macro Avg:** Unweighted mean value of precision and recall.
-- **Weighted Avg:** Weighted mean value of precision and recall by the support values for each class.
+- **Accuracy:** 
+- **Precision:** 
+- **Recall:** 
+- **F1-score:** 
