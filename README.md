@@ -56,16 +56,8 @@ For example:
 
 For this project, four algorithms were used to make predictions:
 
-1. Logistic Regression
+1. Linear Regression
 2. K Nearest Neighbor
 3. Decision Trees
 4. Random Forests
 
-### Evaluation Metrics:
-
-To assess model performance, the following parameters are utilized:
-
-- **Accuracy:** 
-- **Precision:** 
-- **Recall:** 
-- **F1-score:** 
