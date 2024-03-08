@@ -61,3 +61,7 @@ For this project, four algorithms were used to make predictions:
 3. Decision Trees
 4. Random Forests
 
+## References
+```
+Hutchison, E., Zhang, Y., Nampally, S., Neelufer, I. K., Malkov, V., Weatherall, J., Khan, F., & Shameer, K. (2021). Modeling Clinical Trial Attrition Using Machine Intelligence: A driver analytics case study using 1,325 trials representing one million patients [Preprint]. doi: https://doi.org/10.1101/2021.11.12.21266277
+
