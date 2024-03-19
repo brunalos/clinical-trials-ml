@@ -1,1029 +1,1029 @@
-nct_id,phase,enrollment,condition_name,actual_duration,gender,dropout_rate,AE_total_serious,AE_total_other
-NCT00444951,Phase 3,450.0,infectious diseases,12.0,All,3.111111111111111,1.0,1082.0
-NCT00623831,Phase 1,17.0,cancer,60.0,All,11.76470588235294,3.0,100.0
-NCT00434577,Phase 2,715.0,infectious diseases,7.0,All,1.8181818181818181,349.0,1716.0
-NCT00616421,Phase 3,2907.0,infectious diseases,13.0,All,3.611971104231166,119.0,4625.0
-NCT04515147,Phase 2,668.0,infectious diseases,17.0,All,8.532934131736528,140.0,3398.0
-NCT01340937,Phase 3,2808.0,infectious diseases,19.0,All,18.58974358974359,5488.0,16292.0
-NCT00635830,Phase 1,40.0,infectious diseases,1.0,Female,0.0,0.0,42.0
-NCT00683410,Not Applicable,3366.0,infectious diseases,30.0,All,0.0,47.0,121.0
-NCT00727636,Not Applicable,53.0,inflammatory diseases,23.0,Female,7.547169811320755,5.0,11.0
-NCT00734734,Phase 2,64.0,infectious diseases,1.0,All,0.0,0.0,7.0
-NCT01984697,Phase 3,1518.0,infectious diseases,18.0,All,10.474308300395258,42.0,298.0
-NCT04622592,Phase 1/Phase 2,209.0,infectious diseases,18.0,All,9.569377990430622,58.0,179.0
-NCT03848065,Phase 1,133.0,infectious diseases,14.0,All,2.2556390977443606,6.0,829.0
-NCT00496626,Phase 3,600.0,infectious diseases,7.0,All,2.0,1.0,475.0
-NCT01734811,Phase 3,120.0,infectious diseases,43.0,All,5.833333333333333,1.0,0.0
-NCT01777321,Phase 3,60.0,infectious diseases,3.0,All,1.6666666666666667,3.0,311.0
-NCT01776541,Phase 2,979.0,infectious diseases,5.0,All,13.381001021450459,64.0,4407.0
-NCT00834106,Phase 3,3006.0,infectious diseases,40.0,Female,13.872255489021956,834.0,4258.0
-NCT01165177,Phase 3,16165.0,infectious diseases,45.0,All,11.283637488400867,13928.0,22966.0
-NCT01948193,Phase 3,177.0,infectious diseases,10.0,All,5.084745762711865,4.0,217.0
-NCT01617629,Phase 2,9.0,cancer,28.0,Female,66.66666666666666,3.0,53.0
-NCT02151448,Phase 1/Phase 2,64.0,cancer,55.0,All,0.0,186.0,358.0
-NCT01928225,Phase 2,180.0,cancer,39.0,Female,3.3333333333333335,2.0,0.0
-NCT01910519,Phase 2,50.0,infectious diseases,19.0,All,8.0,1.0,46.0
-NCT01616693,Phase 4,620.0,infectious diseases,12.0,All,11.129032258064516,17.0,1945.0
-NCT01616459,Phase 2,953.0,infectious diseases,9.0,All,4.092339979013642,505.0,7289.0
-NCT01737710,Not Applicable,368.0,inflammatory diseases,7.0,Female,2.4456521739130435,2.0,2.0
-NCT00303316,Phase 3,458.0,infectious diseases,14.0,All,1.0917030567685588,4.0,1204.0
-NCT01712984,Phase 3,3360.0,infectious diseases,8.0,All,1.25,1135.0,8970.0
-NCT01711736,Phase 3,606.0,infectious diseases,3.0,All,3.3003300330033,100.0,1261.0
-NCT00380367,Phase 3,110.0,infectious diseases,9.0,Female,1.8181818181818181,0.0,146.0
-NCT00963430,Phase 2,120.0,infectious diseases,8.0,Female,3.3333333333333335,18.0,359.0
-NCT00968890,Phase 2,168.0,infectious diseases,12.0,All,0.0,5.0,539.0
-NCT01896869,Phase 2,83.0,cancer,66.0,All,8.433734939759036,112.0,498.0
-NCT00391053,Phase 3,3851.0,infectious diseases,9.0,All,0.5712801869644248,1571.0,4078.0
-NCT01003288,Not Applicable,255.0,healthy,3.0,All,0.0,0.0,196.0
-NCT01894919,Phase 3,851.0,infectious diseases,27.0,All,0.9400705052878966,0.0,2614.0
-NCT00518180,Phase 3,1620.0,infectious diseases,9.0,All,13.333333333333334,12.0,7753.0
-NCT00430521,Phase 2,512.0,infectious diseases,20.0,All,12.3046875,21.0,2518.0
-NCT00465816,Phase 3,611.0,infectious diseases,12.0,All,0.32733224222585927,6.0,1396.0
-NCT00485732,Phase 3,225.0,infectious diseases,9.0,Female,7.555555555555555,3.0,1054.0
-NCT02193347,Phase 1,24.0,cancer,48.0,All,0.0,47.0,440.0
-NCT01827839,Phase 3,96.0,infectious diseases,8.0,All,3.125,5.0,322.0
-NCT01827371,Phase 2,435.0,infectious diseases,22.0,All,12.413793103448276,5.0,2256.0
-NCT01483378,Not Applicable,170.0,infectious diseases,0.0,All,0.0,0.0,11.0
-NCT01492582,Phase 2,1499.0,infectious diseases,79.0,All,8.872581721147432,18.0,493.0
-NCT01570036,Phase 2,275.0,cancer,65.0,Female,87.27272727272727,318.0,2710.0
-NCT04786444,Phase 3,409.0,infectious diseases,5.0,All,10.757946210268948,5.0,797.0
-NCT04109222,Phase 4,90.0,infectious diseases,2.0,All,1.1111111111111112,1.0,0.0
-NCT01447407,Phase 1,164.0,infectious diseases,6.0,All,3.048780487804878,0.0,329.0
-NCT02677493,Phase 3,1794.0,infectious diseases,3.0,All,0.8918617614269788,3.0,0.0
-NCT01636102,Phase 2,126.0,infectious diseases,0.0,All,0.0,0.0,85.0
-NCT01691326,Phase 4,60.0,infectious diseases,3.0,All,0.0,0.0,119.0
-NCT01669096,Phase 2,20.0,infectious diseases,3.0,All,0.0,1.0,109.0
-NCT00550745,Phase 4,11999.0,infectious diseases,16.0,All,1.2251020918409867,969.0,0.0
-NCT01152814,Phase 2,64.0,infectious diseases,0.0,All,3.125,0.0,8.0
-NCT00508742,Phase 3,1866.0,infectious diseases,44.0,All,7.770632368703108,4549.0,4561.0
-NCT00398073,Phase 1,35.0,cancer,53.0,All,2.857142857142857,4.0,13.0
-NCT00397215,Phase 2,437.0,infectious diseases,34.0,All,7.322654462242563,57.0,568.0
-NCT01767467,Phase 3,568.0,infectious diseases,34.0,All,25.880281690140844,522.0,1368.0
-NCT01897402,Phase 2,525.0,infectious diseases,10.0,All,6.666666666666667,3.0,1088.0
-NCT01766921,Phase 2,1393.0,infectious diseases,6.0,All,2.9432878679109833,1016.0,3656.0
-NCT01751165,Phase 3,354.0,infectious diseases,14.0,All,2.2598870056497176,38.0,1341.0
-NCT03617523,Phase 4,240.0,infectious diseases,2.0,All,0.0,0.0,303.0
-NCT00299728,Phase 1,22.0,cancer,6.0,All,13.636363636363635,0.0,191.0
-NCT01150123,Phase 1,678.0,infectious diseases,18.0,Female,5.604719764011799,390.0,3508.0
-NCT03562377,Phase 2,215.0,inflammatory diseases,14.0,All,66.04651162790698,14.0,61.0
-NCT01148017,Phase 3,433.0,infectious diseases,33.0,All,26.32794457274827,0.0,396.0
-NCT00053482,Phase 2,357.0,infectious diseases,2.0,All,0.0,2.0,1412.0
-NCT05101486,Phase 3,755.0,infectious diseases,4.0,All,7.28476821192053,23.0,0.0
-NCT05083585,Phase 3,250.0,infectious diseases,5.0,All,3.2,5.0,5.0
-NCT05071313,Phase 3,777.0,infectious diseases,6.0,All,8.622908622908623,40.0,41.0
-NCT00082641,Phase 1/Phase 2,24.0,cancer,64.0,Female,0.0,8.0,30.0
-NCT02097849,Phase 2,71.0,autoimmune diseases,14.0,All,0.0,0.0,51.0
-NCT00521586,Phase 3,1116.0,infectious diseases,76.0,All,36.200716845878134,126.0,14378.0
-NCT00344032,Phase 3,354.0,infectious diseases,16.0,Female,6.779661016949152,6.0,944.0
-NCT01700621,Phase 4,482.0,infectious diseases,8.0,All,4.149377593360995,19.0,149.0
-NCT02451514,Phase 2,129.0,infectious diseases,4.0,All,0.0,0.0,620.0
-NCT02539108,Phase 4,60.0,infectious diseases,4.0,All,0.0,1.0,155.0
-NCT02542462,Phase 4,144.0,infectious diseases,18.0,All,0.6944444444444444,0.0,112.0
-NCT00342628,Phase 2,301.0,infectious diseases,21.0,All,19.93355481727575,2.0,0.0
-NCT01688921,Phase 4,1250.0,infectious diseases,5.0,All,2.48,6.0,4285.0
-NCT00121173,Phase 1/Phase 2,16.0,cancer,75.0,Female,6.25,0.0,15.0
-NCT01567865,Phase 4,818.0,infectious diseases,7.0,All,11.124694376528117,67.0,757.0
-NCT00604175,Phase 2,319.0,infectious diseases,47.0,Female,11.598746081504702,33.0,1097.0
-NCT00452790,Phase 3,708.0,infectious diseases,28.0,All,44.2090395480226,225.0,7776.0
-NCT01553279,Phase 3,284.0,infectious diseases,18.0,All,6.338028169014084,248.0,1742.0
-NCT01529645,Phase 1,420.0,infectious diseases,4.0,All,3.0952380952380953,15.0,987.0
-NCT00339040,Phase 2,130.0,infectious diseases,34.0,All,11.538461538461538,70.0,572.0
-NCT00133575,Phase 1/Phase 2,72.0,infectious diseases,30.0,All,15.277777777777779,3.0,747.0
-NCT01519817,Phase 1,34.0,cancer,50.0,All,5.88235294117647,49.0,292.0
-NCT00289341,Phase 1/Phase 2,24.0,cancer,81.0,Male,0.0,4.0,133.0
-NCT00308061,Phase 1,40.0,infectious diseases,14.0,All,0.0,2.0,404.0
-NCT00463476,Phase 4,305.0,infectious diseases,3.0,All,1.639344262295082,113.0,226.0
-NCT02550197,Phase 3,300.0,infectious diseases,7.0,All,0.0,0.0,537.0
-NCT00309166,Phase 2,270.0,infectious diseases,14.0,Male,2.9629629629629632,4.0,853.0
-NCT00349713,Phase 1,60.0,infectious diseases,13.0,All,0.0,0.0,622.0
-NCT01551745,Phase 2,5.0,cancer,49.0,All,60.0,3.0,2.0
-NCT00389610,Phase 2,56.0,cancer,183.0,All,39.285714285714285,1.0,449.0
-NCT00439335,Phase 1/Phase 2,227.0,infectious diseases,11.0,All,0.881057268722467,4.0,3072.0
-NCT00471081,Phase 2,385.0,infectious diseases,15.0,All,7.792207792207792,79.0,1072.0
-NCT01505647,Phase 3,498.0,infectious diseases,3.0,All,1.4056224899598393,18.0,609.0
-NCT01466387,Phase 3,552.0,infectious diseases,5.0,All,0.9057971014492754,2.0,120.0
-NCT00463437,Phase 3,1437.0,infectious diseases,9.0,All,1.9485038274182327,118.0,4204.0
-NCT00545025,Phase 2,243.0,infectious diseases,1.0,All,0.0,1.0,699.0
-NCT01579916,Phase 4,303.0,infectious diseases,6.0,All,3.3003300330033,3.0,28.0
-NCT00449670,Phase 3,1206.0,infectious diseases,3.0,All,1.5754560530679935,696.0,4483.0
-NCT01542632,Phase 1,140.0,healthy,23.0,All,5.714285714285714,0.0,372.0
-NCT01444781,Phase 3,1106.0,infectious diseases,19.0,All,0.9041591320072333,38.0,3081.0
-NCT01575197,Phase 4,456.0,infectious diseases,5.0,All,3.9473684210526314,8.0,366.0
-NCT00623181,Phase 2,110.0,infectious diseases,4.0,All,0.0,0.0,652.0
-NCT00674583,Phase 3,414.0,infectious diseases,3.0,All,0.0,8.0,631.0
-NCT01439165,Phase 4,1330.0,infectious diseases,49.0,All,1.7293233082706767,9.0,3035.0
-NCT01446289,Phase 2,86.0,infectious diseases,19.0,Female,2.3255813953488373,69.0,176.0
-NCT01416571,Phase 2,78.0,infectious diseases,3.0,All,2.564102564102564,3.0,254.0
-NCT01430611,Phase 4,666.0,infectious diseases,12.0,All,4.804804804804805,3.0,682.0
-NCT00661557,Phase 2,271.0,infectious diseases,7.0,All,3.3210332103321036,1.0,460.0
-NCT01412801,Phase 2,270.0,infectious diseases,13.0,Female,9.62962962962963,600.0,1352.0
-NCT00707967,Phase 2,37.0,infectious diseases,11.0,All,0.0,2.0,207.0
-NCT03934541,Phase 1,24.0,infectious diseases,17.0,All,4.166666666666666,29.0,55.0
-NCT00325156,Phase 4,2590.0,infectious diseases,34.0,All,4.324324324324325,1605.0,7691.0
-NCT00310804,Phase 3,1200.0,infectious diseases,1.0,All,0.4166666666666667,44.0,695.0
-NCT02908269,Phase 4,180.0,infectious diseases,2.0,All,0.0,6.0,193.0
-NCT00197054,Phase 2,255.0,infectious diseases,14.0,All,19.607843137254903,108.0,1980.0
-NCT00196976,Phase 2,461.0,infectious diseases,11.0,All,4.3383947939262475,5.0,682.0
-NCT00474266,Phase 3,1000.0,infectious diseases,8.0,All,3.8,205.0,2549.0
-NCT00441012,Phase 3,546.0,infectious diseases,18.0,All,5.677655677655678,9.0,2473.0
-NCT01080716,Phase 1/Phase 2,30.0,infectious diseases,4.0,All,3.3333333333333335,0.0,135.0
-NCT03632720,Phase 3,788.0,infectious diseases,50.0,All,4.060913705583756,647.0,6685.0
-NCT00464672,Phase 3,1893.0,infectious diseases,3.0,All,2.641310089804543,18.0,2008.0
-NCT01119625,Phase 3,238.0,infectious diseases,7.0,All,2.941176470588235,16.0,803.0
-NCT00359619,Phase 2,383.0,infectious diseases,4.0,Female,9.138381201044385,27.0,0.0
-NCT00345579,Phase 3,4432.0,infectious diseases,13.0,All,5.1669675090252705,260.0,0.0
-NCT00427908,Phase 2,613.0,infectious diseases,9.0,All,1.794453507340946,34.0,1420.0
-NCT00329901,Phase 3,1072.0,infectious diseases,13.0,All,1.6791044776119404,3.0,2627.0
-NCT00323115,Phase 2,11.0,cancer,23.0,All,81.81818181818183,0.0,1.0
-NCT00453986,Phase 3,1352.0,infectious diseases,7.0,All,1.4053254437869822,11.0,818.0
-NCT00422292,Phase 3,1664.0,infectious diseases,25.0,All,7.8125,72.0,657.0
-NCT00325143,Phase 3,702.0,infectious diseases,38.0,All,3.7037037037037033,319.0,2378.0
-NCT02756208,Phase 1,65.0,infectious diseases,32.0,All,20.0,5.0,117.0
-NCT00392808,Phase 4,389.0,infectious diseases,16.0,All,3.8560411311053984,14.0,16.0
-NCT03546192,Phase 4,120.0,infectious diseases,1.0,All,0.0,0.0,64.0
-NCT00414050,Phase 3,1718.0,infectious diseases,12.0,All,1.8044237485448196,607.0,2484.0
-NCT02580201,Phase 4,154.0,infectious diseases,8.0,All,0.0,0.0,60.0
-NCT01427309,Phase 4,31989.0,infectious diseases,20.0,All,4.739129075619744,3433.0,0.0
-NCT00290355,Phase 2,182.0,cancer,111.0,All,12.087912087912088,132.0,1211.0
-NCT00287469,Phase 2,2000.0,infectious diseases,30.0,All,21.7,877.0,976.0
-NCT00791037,Phase 1/Phase 2,23.0,cancer,57.0,All,0.0,1.0,319.0
-NCT01198756,Phase 3,3109.0,infectious diseases,9.0,All,4.3100675458346736,34.0,5954.0
-NCT00360230,Phase 2,540.0,infectious diseases,12.0,All,4.62962962962963,1150.0,2633.0
-NCT00258856,Phase 2,234.0,infectious diseases,14.0,All,2.564102564102564,0.0,98.0
-NCT00258154,Phase 3,403.0,infectious diseases,9.0,All,3.970223325062035,440.0,717.0
-NCT00831675,Phase 4,30.0,infectious diseases,19.0,All,0.0,0.0,74.0
-NCT00831753,Phase 3,263.0,infectious diseases,12.0,All,0.0,5.0,1656.0
-NCT00831987,Phase 4,120.0,infectious diseases,18.0,All,0.0,1.0,226.0
-NCT03579459,Phase 3,1317.0,infectious diseases,12.0,All,7.517084282460136,137.0,2176.0
-NCT00398138,Phase 1,22.0,cancer,32.0,All,9.090909090909092,4.0,37.0
-NCT04449276,Phase 1,280.0,infectious diseases,18.0,All,6.071428571428571,17.0,332.0
-NCT00637195,Phase 3,152.0,infectious diseases,3.0,Female,2.631578947368421,5.0,665.0
-NCT00985465,Phase 3,218.0,infectious diseases,7.0,All,1.834862385321101,0.0,474.0
-NCT00985153,Phase 3,3927.0,infectious diseases,14.0,All,4.329004329004329,2973.0,9265.0
-NCT00980005,Phase 3,2116.0,infectious diseases,4.0,All,5.198487712665406,24.0,3377.0
-NCT00366678,Phase 3,613.0,infectious diseases,25.0,All,9.29853181076672,329.0,8192.0
-NCT00373958,Phase 3,666.0,infectious diseases,21.0,All,22.52252252252252,884.0,10232.0
-NCT00347958,Phase 4,545.0,infectious diseases,18.0,All,0.7339449541284404,7.0,1700.0
-NCT00390884,Phase 4,173.0,infectious diseases,8.0,All,2.312138728323699,1.0,290.0
-NCT00239577,Phase 2,86.0,infectious diseases,14.0,All,12.790697674418606,4.0,326.0
-NCT00262041,Phase 2,524.0,infectious diseases,17.0,All,2.2900763358778624,15.0,1027.0
-NCT00365378,Phase 2,2409.0,infectious diseases,54.0,Female,38.81278538812785,1235.0,4851.0
-NCT00369824,Phase 3,1330.0,infectious diseases,14.0,Female,6.7669172932330826,25.0,5621.0
-NCT00630331,Phase 3,11404.0,infectious diseases,9.0,All,4.910557699052964,1859.0,10306.0
-NCT00368966,Phase 3,619.0,infectious diseases,21.0,All,6.623586429725363,696.0,7427.0
-NCT00337428,Phase 3,843.0,cancer,12.0,All,0.8303677342823249,6.0,3288.0
-NCT00972309,Phase 1,41.0,cancer,69.0,Male,60.97560975609756,2.0,142.0
-NCT00944073,Phase 2,583.0,infectious diseases,8.0,All,1.5437392795883362,7.0,1739.0
-NCT00988559,Phase 1,132.0,infectious diseases,83.0,Female,4.545454545454546,0.0,59.0
-NCT00323622,Phase 2,1737.0,infectious diseases,25.0,All,15.659182498560737,202.0,0.0
-NCT00970203,Phase 2,13.0,cancer,109.0,Male,0.0,0.0,91.0
-NCT00981669,Phase 1,80.0,infectious diseases,12.0,Male,1.25,0.0,19.0
-NCT00988143,Phase 2,600.0,infectious diseases,2.0,All,0.0,2.0,642.0
-NCT00992433,Phase 2,192.0,infectious diseases,12.0,All,5.729166666666666,13.0,460.0
-NCT01023711,Not Applicable,107.0,infectious diseases,12.0,All,0.0,0.0,14.0
-NCT02963714,Phase 4,352.0,infectious diseases,7.0,All,28.40909090909091,0.0,16.0
-NCT00319098,Phase 3,5075.0,infectious diseases,8.0,All,3.2906403940886704,65.0,19021.0
-NCT00985751,Phase 2,257.0,infectious diseases,10.0,All,0.38910505836575876,62.0,1571.0
-NCT00985673,Phase 2,611.0,infectious diseases,2.0,All,9.165302782324058,15.0,2200.0
-NCT01547715,Phase 3,180.0,infectious diseases,25.0,All,0.0,2.0,104.0
-NCT01556451,Phase 4,180.0,infectious diseases,6.0,All,0.0,3.0,199.0
-NCT01509105,Not Applicable,649.0,healthy,52.0,All,0.0,49.0,261.0
-NCT00326118,Phase 3,433.0,infectious diseases,17.0,All,1.1547344110854503,100.0,1418.0
-NCT00091273,Phase 1,9.0,cancer,20.0,Female,0.0,0.0,81.0
-NCT01654263,Phase 2,884.0,infectious diseases,34.0,All,0.5656108597285068,27.0,2310.0
-NCT00053495,Phase 2,353.0,infectious diseases,5.0,All,0.0,3.0,2111.0
-NCT01666782,Phase 2,105.0,infectious diseases,34.0,All,4.761904761904762,0.0,198.0
-NCT01439360,Phase 3,12046.0,infectious diseases,37.0,All,3.3704134152415737,5242.0,18387.0
-NCT01193907,Phase 2,88.0,infectious diseases,1.0,All,2.272727272727273,0.0,244.0
-NCT01299480,Phase 2,1714.0,infectious diseases,14.0,All,9.509918319719954,178.0,611.0
-NCT00084383,Phase 2,60.0,cancer,47.0,All,78.33333333333333,2.0,329.0
-NCT00258817,Phase 4,30.0,infectious diseases,5.0,All,0.0,0.0,57.0
-NCT01141491,Phase 2,136.0,cancer,39.0,All,69.85294117647058,12.0,1.0
-NCT00267085,Phase 2,11.0,cancer,31.0,All,0.0,5.0,45.0
-NCT02581410,Phase 3,430.0,infectious diseases,8.0,All,4.883720930232558,153.0,1424.0
-NCT00128219,Phase 2,667.0,infectious diseases,66.0,Female,20.98950524737631,103.0,2559.0
-NCT00366548,Phase 3,500.0,infectious diseases,19.0,All,3.2,490.0,6154.0
-NCT00283283,Phase 2,1316.0,infectious diseases,0.0,All,0.0,3.0,37.0
-NCT02263131,Phase 3,416.0,healthy,3.0,All,2.644230769230769,9.0,422.0
-NCT00290147,Phase 1,22.0,infectious diseases,11.0,All,0.0,1.0,249.0
-NCT01857297,Phase 4,120.0,infectious diseases,1.0,All,0.0,0.0,103.0
-NCT00304265,Phase 4,215.0,infectious diseases,7.0,All,0.0,0.0,599.0
-NCT00322231,Phase 3,101.0,infectious diseases,14.0,All,0.0,0.0,106.0
-NCT01432262,Phase 3,324.0,infectious diseases,5.0,All,0.9259259259259258,3.0,1941.0
-NCT00551031,Phase 2,2098.0,infectious diseases,8.0,All,0.905624404194471,135.0,4841.0
-NCT00492557,Phase 3,1185.0,infectious diseases,5.0,All,3.9662447257383966,36.0,5180.0
-NCT00378560,Phase 2,1021.0,infectious diseases,39.0,Female,11.165523996082271,126.0,1997.0
-NCT00389857,Phase 4,31.0,infectious diseases,11.0,All,0.0,0.0,71.0
-NCT00441259,Phase 2,96.0,infectious diseases,49.0,All,0.0,0.0,11.0
-NCT00460525,Phase 2,400.0,infectious diseases,26.0,All,4.0,299.0,3572.0
-NCT00490529,Phase 2,59.0,cancer,100.0,All,20.33898305084746,35.0,344.0
-NCT00312858,Phase 4,653.0,infectious diseases,23.0,All,24.655436447166924,18.0,1068.0
-NCT00411749,Phase 2,107.0,infectious diseases,33.0,Female,0.0,2.0,246.0
-NCT00534833,Phase 3,362.0,infectious diseases,12.0,All,0.0,21.0,952.0
-NCT00344318,Phase 3,806.0,infectious diseases,8.0,All,1.6129032258064515,1164.0,4425.0
-NCT00538213,Phase 2,133.0,infectious diseases,0.0,All,0.0,0.0,268.0
-NCT00325130,Phase 3,1042.0,cancer,12.0,All,4.702495201535509,2.0,3705.0
-NCT00500357,Phase 3,105.0,infectious diseases,26.0,All,0.9523809523809524,50.0,909.0
-NCT03190265,Phase 2,61.0,cancer,56.0,All,68.85245901639344,301.0,947.0
-NCT03008122,Phase 1,91.0,infectious diseases,53.0,All,29.67032967032967,6.0,100.0
-NCT00307034,Phase 3,351.0,infectious diseases,12.0,All,2.564102564102564,33.0,3194.0
-NCT05045144,Phase 3,1586.0,infectious diseases,7.0,Female,1.7654476670870116,19.0,3997.0
-NCT00319592,Phase 2,60.0,infectious diseases,16.0,All,3.3333333333333335,0.0,253.0
-NCT04657198,Phase 2,126.0,infectious diseases,5.0,All,0.7936507936507936,4.0,144.0
-NCT01422200,Phase 4,22.0,congenital disorders,4.0,All,0.0,0.0,19.0
-NCT01193920,Phase 1/Phase 2,380.0,infectious diseases,14.0,Female,11.842105263157894,640.0,2006.0
-NCT02993757,Phase 3,528.0,infectious diseases,30.0,All,64.77272727272727,21.0,1767.0
-NCT02979535,Phase 3,480.0,infectious diseases,28.0,Female,40.833333333333336,6.0,1793.0
-NCT02824198,Phase 2,118.0,infectious diseases,8.0,All,15.254237288135593,5.0,131.0
-NCT02628444,Phase 2,1050.0,infectious diseases,48.0,All,65.52380952380953,494.0,1865.0
-NCT02623725,Phase 2,251.0,infectious diseases,7.0,All,8.764940239043826,24.0,400.0
-NCT02587520,Phase 1/Phase 2,1363.0,infectious diseases,16.0,All,2.494497432134996,19.0,2804.0
-NCT00304096,Phase 1,12.0,cancer,18.0,All,0.0,1.0,2.0
-NCT01943825,Phase 2,90.0,infectious diseases,25.0,All,44.44444444444444,4.0,382.0
-NCT00474539,Phase 3,449.0,infectious diseases,20.0,All,4.67706013363029,248.0,24864.0
-NCT01436396,Phase 3,792.0,infectious diseases,25.0,All,9.343434343434344,290.0,3343.0
-NCT00607243,Phase 2/Phase 3,123.0,infectious diseases,5.0,All,5.691056910569105,0.0,152.0
-NCT01411241,Phase 3,720.0,infectious diseases,31.0,All,4.583333333333333,209.0,2086.0
-NCT01187433,Phase 2,150.0,infectious diseases,26.0,All,10.0,26.0,493.0
-NCT00316706,Phase 3,1245.0,infectious diseases,39.0,Female,6.907630522088354,43.0,0.0
-NCT00993447,Phase 2,600.0,infectious diseases,23.0,All,9.333333333333334,28.0,1887.0
-NCT00880893,Phase 2,1198.0,infectious diseases,67.0,All,12.687813021702837,166.0,2940.0
-NCT00510497,Phase 1/Phase 2,11.0,infectious diseases,62.0,All,27.27272727272727,0.0,2.0
-NCT00514709,Phase 3,1843.0,infectious diseases,15.0,All,0.0,3.0,2597.0
-NCT00314132,Phase 3,2004.0,infectious diseases,13.0,All,1.2974051896207583,7.0,3609.0
-NCT05310084,Phase 3,1134.0,infectious diseases,5.0,All,1.6754850088183422,12.0,3963.0
-NCT00264576,Phase 2,613.0,infectious diseases,2.0,All,0.3262642740619902,8.0,1523.0
-NCT00464945,Phase 3,269.0,infectious diseases,15.0,All,2.973977695167286,170.0,3130.0
-NCT00726739,Phase 2,21.0,cancer,36.0,All,4.761904761904762,8.0,65.0
-NCT00090220,Phase 3,3819.0,infectious diseases,60.0,Female,15.187221785807804,75.0,5342.0
-NCT00461981,Phase 2,101.0,infectious diseases,7.0,All,19.801980198019802,0.0,87.0
-NCT00249769,Phase 3,600.0,infectious diseases,6.0,All,7.5,42.0,182.0
-NCT00248833,Phase 1,34.0,infectious diseases,12.0,All,23.52941176470588,0.0,241.0
-NCT02290509,Phase 3,1350.0,infectious diseases,7.0,All,4.666666666666667,14.0,87.0
-NCT01488188,Phase 1,40.0,healthy,17.0,All,0.0,0.0,13.0
-NCT00643097,Phase 2,40.0,cancer,52.0,All,0.0,28.0,280.0
-NCT00450437,Phase 3,3539.0,infectious diseases,5.0,All,2.740887256287087,35.0,5265.0
-NCT02959775,Phase 4,480.0,infectious diseases,9.0,Male,18.75,0.0,36.0
-NCT01959945,Phase 3,219.0,infectious diseases,7.0,All,19.17808219178082,1.0,50.0
-NCT02991599,Phase 4,196.0,infectious diseases,9.0,All,38.265306122448976,0.0,26.0
-NCT00766753,Phase 1/Phase 2,22.0,cancer,33.0,All,0.0,19.0,164.0
-NCT01339923,Phase 3,1409.0,infectious diseases,33.0,All,4.9680624556423,4740.0,19150.0
-NCT02153671,Phase 2,43.0,infectious diseases,4.0,All,0.0,0.0,89.0
-NCT01379937,Phase 3,520.0,infectious diseases,12.0,All,1.3461538461538463,7.0,1396.0
-NCT04084769,Phase 3,570.0,infectious diseases,12.0,All,1.7543859649122806,7.0,1054.0
-NCT00857545,Phase 2,171.0,cancer,62.0,Female,0.0,101.0,1243.0
-NCT00836407,Phase 1,30.0,cancer,41.0,All,63.33333333333333,10.0,137.0
-NCT01346592,Phase 3,6104.0,infectious diseases,15.0,All,5.242463958060288,2134.0,10731.0
-NCT01193335,Phase 4,200.0,infectious diseases,39.0,All,19.5,224.0,6113.0
-NCT01049035,Phase 2,580.0,infectious diseases,26.0,All,21.20689655172414,212.0,3523.0
-NCT03321968,Phase 3,1202.0,infectious diseases,2.0,All,0.6655574043261231,1.0,458.0
-NCT01042535,Phase 1/Phase 2,44.0,cancer,59.0,All,18.181818181818183,122.0,313.0
-NCT00956761,Phase 2,63.0,infectious diseases,0.0,All,0.0,0.0,3.0
-NCT00950833,Phase 3,466.0,infectious diseases,13.0,All,0.0,0.0,1222.0
-NCT02964910,Phase 4,475.0,infectious diseases,12.0,All,18.31578947368421,8.0,34.0
-NCT00963157,Phase 2,789.0,infectious diseases,15.0,All,2.915082382762991,49.0,3110.0
-NCT00971737,Phase 2,63.0,cancer,81.0,All,0.0,0.0,623.0
-NCT03158038,Phase 4,300.0,infectious diseases,6.0,All,0.0,1.0,24.0
-NCT00992719,Phase 2,84.0,infectious diseases,15.0,Female,2.380952380952381,23.0,166.0
-NCT00633074,Phase 2,720.0,infectious diseases,1.0,All,0.1388888888888889,4.0,2181.0
-NCT00985790,Phase 2,599.0,infectious diseases,7.0,All,2.5041736227045077,2.0,1176.0
-NCT00985166,Phase 3,801.0,infectious diseases,21.0,All,2.4968789013732833,1.0,1504.0
-NCT04142242,Phase 3,471.0,infectious diseases,6.0,All,4.670912951167728,4.0,269.0
-NCT00943631,Phase 2,406.0,infectious diseases,7.0,All,1.477832512315271,14.0,888.0
-NCT02865135,Phase 1/Phase 2,11.0,cancer,30.0,All,100.0,12.0,131.0
-NCT01173211,Phase 2,183.0,infectious diseases,14.0,Female,2.73224043715847,72.0,447.0
-NCT01181323,Phase 2,240.0,infectious diseases,20.0,Female,3.3333333333333335,4.0,1338.0
-NCT00972725,Phase 2,28.0,infectious diseases,10.0,All,0.0,0.0,153.0
-NCT00101166,Phase 2,43.0,cancer,65.0,All,23.25581395348837,0.0,14.0
-NCT03890367,Phase 3,707.0,infectious diseases,13.0,All,1.5558698727015559,6.0,1968.0
-NCT01755689,Phase 3,1300.0,infectious diseases,15.0,Female,2.0,25.0,3615.0
-NCT00282308,Phase 2,103.0,autoimmune diseases,24.0,All,33.980582524271846,32.0,232.0
-NCT00262002,Phase 2,601.0,infectious diseases,10.0,All,6.988352745424292,464.0,3533.0
-NCT01365494,Phase 4,250.0,infectious diseases,4.0,All,2.0,0.0,11.0
-NCT01342796,Phase 2,84.0,infectious diseases,9.0,All,7.142857142857142,2.0,194.0
-NCT00085436,Phase 2,18.0,cancer,71.0,All,0.0,20.0,0.0
-NCT01326546,Phase 2,378.0,infectious diseases,43.0,All,7.936507936507936,1.0,98.0
-NCT01171963,Phase 3,3340.0,infectious diseases,20.0,All,9.461077844311378,1140.0,4527.0
-NCT01412281,Phase 3,440.0,infectious diseases,2.0,All,0.0,1.0,245.0
-NCT00118274,Phase 1/Phase 2,170.0,cancer,59.0,All,43.529411764705884,0.0,1756.0
-NCT00258830,Phase 4,120.0,infectious diseases,5.0,All,0.0,0.0,24.0
-NCT01035749,Phase 2,310.0,infectious diseases,7.0,All,0.0,10.0,1336.0
-NCT00258908,Phase 3,115.0,infectious diseases,9.0,All,0.0,0.0,10.0
-NCT01777295,Phase 2,81.0,infectious diseases,39.0,All,8.641975308641975,1.0,37.0
-NCT02425098,Phase 2,351.0,infectious diseases,27.0,All,8.262108262108262,8.0,128.0
-NCT04379713,Phase 3,1511.0,infectious diseases,27.0,All,9.927200529450694,78.0,6038.0
-NCT00129129,Phase 2,756.0,infectious diseases,13.0,All,8.465608465608465,327.0,7472.0
-NCT00128661,Phase 3,7466.0,cancer,79.0,Female,7.125636217519421,13189.0,23341.0
-NCT00436046,Phase 1,95.0,infectious diseases,1.0,All,0.0,0.0,277.0
-NCT00445484,Phase 2,22.0,cancer,27.0,All,22.727272727272727,1.0,8.0
-NCT01323972,Phase 3,327.0,infectious diseases,6.0,All,2.4464831804281344,239.0,868.0
-NCT00561002,Phase 4,34.0,infectious diseases,7.0,All,0.0,0.0,84.0
-NCT01591837,Phase 4,120.0,infectious diseases,1.0,All,0.0,0.0,109.0
-NCT01090453,Phase 2,480.0,infectious diseases,17.0,All,5.625,65.0,2653.0
-NCT00006184,Phase 2,20.0,cancer,84.0,All,5.0,138.0,436.0
-NCT00440297,Phase 3,277.0,infectious diseases,17.0,All,14.801444043321299,36.0,235.0
-NCT00596102,Not Applicable,3258.0,infectious diseases,65.0,All,96.86924493554328,75.0,404.0
-NCT01113580,Phase 4,120.0,infectious diseases,0.0,All,0.8333333333333334,0.0,48.0
-NCT00601796,Phase 2,24.0,cancer,68.0,All,0.0,88.0,223.0
-NCT01073293,Phase 3,1054.0,infectious diseases,14.0,All,1.5180265654648957,16.0,2728.0
-NCT00706550,Not Applicable,107.0,infectious diseases,35.0,All,32.71028037383177,23.0,4.0
-NCT00127803,Phase 1,50.0,infectious diseases,6.0,All,8.0,0.0,288.0
-NCT00262028,Phase 2,910.0,infectious diseases,19.0,All,18.461538461538463,120.0,1442.0
-NCT01264601,Not Applicable,31.0,allergy,19.0,All,0.0,0.0,3.0
-NCT00169442,Phase 3,745.0,infectious diseases,12.0,All,0.6711409395973155,1.0,3104.0
-NCT01106092,Phase 2,312.0,infectious diseases,3.0,All,0.3205128205128205,8.0,1429.0
-NCT03554798,Phase 2,1025.0,infectious diseases,14.0,All,2.1463414634146343,118.0,1934.0
-NCT00840801,Phase 3,302.0,infectious diseases,15.0,All,1.6556291390728477,96.0,1062.0
-NCT01027351,Phase 2,163.0,infectious diseases,8.0,All,14.11042944785276,13.0,950.0
-NCT01430819,Phase 4,300.0,infectious diseases,5.0,All,0.0,1.0,314.0
-NCT00427895,Phase 3,2141.0,infectious diseases,53.0,All,71.22839794488557,79.0,13580.0
-NCT00231816,Phase 3,763.0,infectious diseases,6.0,All,3.669724770642202,18.0,1039.0
-NCT01266993,Phase 3,271.0,infectious diseases,39.0,All,2.5830258302583027,0.0,460.0
-NCT01011049,Phase 2,1250.0,infectious diseases,8.0,All,0.5599999999999999,22.0,4101.0
-NCT01578317,Phase 1/Phase 2,43.0,infectious diseases,47.0,All,2.3255813953488373,0.0,78.0
-NCT01045460,Phase 2,36.0,cancer,60.0,All,25.0,0.0,36.0
-NCT02492958,Phase 2,136.0,infectious diseases,15.0,All,2.2058823529411766,12.0,94.0
-NCT02461758,Phase 4,81.0,inflammatory diseases,20.0,All,2.4691358024691357,0.0,101.0
-NCT02459262,Phase 1,240.0,infectious diseases,22.0,Female,0.4166666666666667,1.0,327.0
-NCT01640327,Phase 3,126.0,infectious diseases,1.0,All,0.0,0.0,170.0
-NCT01691339,Phase 4,200.0,infectious diseases,2.0,All,0.0,2.0,232.0
-NCT00943202,Phase 2,531.0,infectious diseases,9.0,All,0.7532956685499058,6.0,2399.0
-NCT00950612,Phase 2,60.0,infectious diseases,9.0,All,0.0,0.0,234.0
-NCT04648241,Phase 3,165.0,infectious diseases,13.0,All,0.6060606060606061,3.0,355.0
-NCT01686503,Phase 2,231.0,infectious diseases,11.0,All,3.0303030303030303,1.0,118.0
-NCT01023776,Phase 4,20.0,infectious diseases,5.0,All,0.0,0.0,25.0
-NCT00989612,Phase 2,100.0,infectious diseases,6.0,All,0.0,3.0,420.0
-NCT01030822,Phase 3,282.0,infectious diseases,16.0,All,28.723404255319153,4.0,307.0
-NCT02474901,Phase 2,101.0,infectious diseases,32.0,All,0.9900990099009901,1.0,140.0
-NCT02434770,Phase 3,750.0,infectious diseases,9.0,All,10.133333333333333,261.0,1645.0
-NCT01262976,Phase 2,240.0,infectious diseases,18.0,All,51.24999999999999,7.0,405.0
-NCT03917654,Phase 2,1301.0,infectious diseases,27.0,All,11.068408916218294,792.0,4602.0
-NCT01797029,Phase 3,1761.0,infectious diseases,19.0,All,12.49290176036343,61.0,103.0
-NCT04674189,Phase 3,2357.0,infectious diseases,17.0,All,31.014000848536277,31.0,7989.0
-NCT02690181,Phase 2,80.0,infectious diseases,7.0,Female,0.0,0.0,226.0
-NCT04368429,Phase 3,360.0,infectious diseases,5.0,All,0.2777777777777778,0.0,334.0
-NCT00134082,Phase 1/Phase 2,31.0,cancer,87.0,All,9.67741935483871,18.0,153.0
-NCT01231503,Phase 2,480.0,infectious diseases,40.0,All,18.333333333333332,219.0,665.0
-NCT00129116,Phase 2,388.0,infectious diseases,9.0,All,3.0927835051546393,96.0,1852.0
-NCT04537234,Phase 3,165.0,infectious diseases,3.0,All,1.2121212121212122,0.0,164.0
-NCT01223235,Not Applicable,22.0,cancer,84.0,Female,4.545454545454546,14.0,26.0
-NCT00130832,Phase 3,735.0,infectious diseases,9.0,All,4.489795918367347,438.0,2009.0
-NCT01018732,Phase 2,155.0,infectious diseases,6.0,All,4.516129032258064,0.0,349.0
-NCT00992017,Phase 2,130.0,infectious diseases,13.0,Female,7.6923076923076925,45.0,433.0
-NCT00984295,Phase 3,1913.0,infectious diseases,16.0,All,7.004704652378463,777.0,7996.0
-NCT04024228,Phase 3,1539.0,infectious diseases,2.0,All,0.649772579597141,40.0,2233.0
-NCT04546425,Phase 3,1258.0,infectious diseases,19.0,All,2.7821939586645468,90.0,5229.0
-NCT00404651,Phase 3,1189.0,infectious diseases,17.0,All,11.185870479394449,29.0,3657.0
-NCT00092456,Phase 3,793.0,infectious diseases,15.0,All,10.970996216897856,586.0,2786.0
-NCT00401531,Phase 3,412.0,infectious diseases,13.0,All,4.611650485436893,36.0,1852.0
-NCT00391391,Phase 2,520.0,infectious diseases,5.0,All,11.73076923076923,16.0,1949.0
-NCT00388583,Phase 2,817.0,infectious diseases,9.0,All,1.2239902080783354,75.0,1522.0
-NCT00384059,Phase 3,286.0,infectious diseases,24.0,All,12.587412587412588,115.0,3248.0
-NCT00380393,Phase 2,894.0,infectious diseases,19.0,All,22.595078299776286,1391.0,1839.0
-NCT03567382,Phase 4,179.0,infectious diseases,17.0,All,40.78212290502793,0.0,2.0
-NCT00094653,Phase 3,1783.0,cancer,59.0,All,31.015143017386425,3114.0,3315.0
-NCT03583606,Phase 1,61.0,infectious diseases,14.0,All,3.278688524590164,0.0,511.0
-NCT01204671,Phase 3,4659.0,infectious diseases,8.0,All,1.2663661729984974,849.0,4631.0
-NCT02212106,Phase 4,402.0,infectious diseases,3.0,All,3.482587064676617,1.0,798.0
-NCT02222870,Phase 4,60.0,infectious diseases,4.0,All,0.0,1.0,187.0
-NCT00972517,Phase 3,245.0,infectious diseases,13.0,All,2.0408163265306123,8.0,1030.0
-NCT00971425,Phase 3,145.0,infectious diseases,2.0,All,2.0689655172413794,33.0,470.0
-NCT02013245,Phase 1,36.0,infectious diseases,17.0,All,2.7777777777777777,0.0,158.0
-NCT01981967,Phase 4,10000.0,infectious diseases,17.0,All,0.0,287.0,0.0
-NCT01352793,Phase 3,5715.0,infectious diseases,22.0,All,14.52318460192476,822.0,4175.0
-NCT03278067,Not Applicable,23939.0,infectious diseases,2.0,All,0.0,38.0,3919.0
-NCT01854632,Phase 3,1761.0,infectious diseases,7.0,All,2.2146507666098807,14.0,89.0
-NCT02305446,Phase 3,55.0,infectious diseases,4.0,All,1.8181818181818181,1.0,0.0
-NCT03701061,Phase 4,12.0,infectious diseases,4.0,All,0.0,0.0,1.0
-NCT02648282,Phase 2,58.0,cancer,71.0,All,0.0,9.0,264.0
-NCT03481816,Phase 1,18.0,cancer,18.0,Male,72.22222222222221,7.0,87.0
-NCT03814590,Phase 1/Phase 2,1053.0,infectious diseases,10.0,All,3.133903133903134,159.0,2495.0
-NCT00968539,Phase 3,130.0,infectious diseases,12.0,All,0.7692307692307693,3.0,377.0
-NCT03409276,Phase 1,60.0,infectious diseases,26.0,All,8.333333333333332,0.0,254.0
-NCT01171989,Phase 2,391.0,infectious diseases,3.0,All,0.2557544757033248,11.0,1115.0
-NCT01631071,Not Applicable,110.0,infectious diseases,1.0,All,0.0,0.0,105.0
-NCT01251276,Phase 3,204.0,infectious diseases,4.0,All,0.9803921568627451,1.0,81.0
-NCT01168401,Phase 1,102.0,infectious diseases,28.0,All,5.88235294117647,5.0,95.0
-NCT00963235,Phase 3,331.0,infectious diseases,30.0,All,18.12688821752266,119.0,5429.0
-NCT01165203,Phase 2,123.0,infectious diseases,21.0,All,14.634146341463413,9.0,449.0
-NCT00958243,Phase 2,473.0,infectious diseases,3.0,All,9.30232558139535,7.0,306.0
-NCT00363545,Phase 3,1274.0,infectious diseases,7.0,All,7.927786499215071,517.0,3672.0
-NCT00397943,Phase 2,110.0,infectious diseases,37.0,All,19.090909090909093,4.0,589.0
-NCT01232868,Not Applicable,66.0,infectious diseases,12.0,All,9.090909090909092,4.0,65.0
-NCT03384316,Phase 1,11.0,cancer,3.0,All,9.090909090909092,10.0,76.0
-NCT02438423,Phase 1,100.0,infectious diseases,8.0,All,0.0,1.0,347.0
-NCT02566265,Phase 2,122.0,infectious diseases,25.0,All,12.295081967213115,10.0,0.0
-NCT00356369,Phase 2,500.0,infectious diseases,8.0,All,0.6,2.0,442.0
-NCT01153893,Phase 3,105.0,infectious diseases,4.0,All,0.9523809523809524,1.0,112.0
-NCT00348881,Phase 3,2133.0,infectious diseases,16.0,All,1.3595874355368025,579.0,8325.0
-NCT02598089,Phase 1,60.0,infectious diseases,3.0,All,0.0,0.0,2.0
-NCT01843621,Phase 1/Phase 2,7.0,infectious diseases,0.0,All,0.0,0.0,19.0
-NCT00345683,Phase 3,4021.0,infectious diseases,14.0,All,0.845560805769709,112.0,0.0
-NCT00345293,Phase 1/Phase 2,13.0,cancer,91.0,Male,15.384615384615385,3.0,145.0
-NCT02737475,Phase 1/Phase 2,166.0,cancer,53.0,All,22.289156626506024,704.0,1328.0
-NCT00355121,Phase 2,882.0,infectious diseases,32.0,All,6.235827664399093,3.0,2185.0
-NCT00343889,Phase 3,379.0,infectious diseases,15.0,All,1.0554089709762533,28.0,1898.0
-NCT02639351,Phase 1,80.0,infectious diseases,18.0,All,0.0,2.0,254.0
-NCT03390166,Phase 2/Phase 3,945.0,infectious diseases,8.0,All,2.328042328042328,2.0,387.0
-NCT02499835,Phase 1/Phase 2,66.0,cancer,74.0,Male,62.121212121212125,126.0,598.0
-NCT02692859,Phase 3,1992.0,infectious diseases,11.0,All,8.9859437751004,25.0,0.0
-NCT00322049,Phase 1/Phase 2,51.0,infectious diseases,64.0,All,3.9215686274509802,4.0,101.0
-NCT02748785,Phase 4,277.0,autoimmune diseases,11.0,All,30.324909747292416,2.0,96.0
-NCT00992836,Phase 2,155.0,infectious diseases,10.0,All,3.225806451612903,6.0,347.0
-NCT02340338,Phase 1,46.0,infectious diseases,11.0,All,0.0,0.0,35.0
-NCT03165617,Phase 3,4514.0,infectious diseases,28.0,All,0.39875941515285773,59.0,2499.0
-NCT03089879,Phase 1,35.0,infectious diseases,5.0,All,0.0,0.0,97.0
-NCT03101111,Phase 2,34.0,infectious diseases,20.0,All,11.76470588235294,0.0,75.0
-NCT03314662,Phase 3,1778.0,infectious diseases,1.0,All,1.0123734533183353,109.0,2168.0
-NCT00969436,Phase 3,450.0,infectious diseases,15.0,All,12.666666666666668,18.0,491.0
-NCT00310817,Phase 2,623.0,infectious diseases,14.0,All,5.617977528089887,95.0,1372.0
-NCT01216332,Phase 1,50.0,cancer,31.0,All,8.0,22.0,155.0
-NCT00057330,Phase 3,8323.0,infectious diseases,80.0,Female,24.654571668869398,7544.0,24423.0
-NCT01214850,Phase 3,2968.0,infectious diseases,16.0,All,16.442048517520217,102.0,1700.0
-NCT02548078,Phase 2,600.0,infectious diseases,18.0,All,1.8333333333333333,5.0,506.0
-NCT02063724,Phase 1,15.0,cancer,36.0,Female,6.666666666666667,0.0,32.0
-NCT00366899,Phase 3,605.0,infectious diseases,21.0,All,6.6115702479338845,588.0,6524.0
-NCT03702231,Phase 2,116.0,cancer,21.0,All,8.620689655172415,1.0,497.0
-NCT01258595,Phase 2,300.0,infectious diseases,4.0,All,0.6666666666666667,0.0,590.0
-NCT00306527,Phase 3,2235.0,infectious diseases,3.0,All,1.0738255033557047,82.0,1472.0
-NCT02935192,Phase 3,480.0,infectious diseases,1.0,All,2.5,2.0,21.0
-NCT00329849,Phase 3,1500.0,infectious diseases,10.0,All,0.6666666666666667,10.0,1229.0
-NCT03942406,Phase 2,300.0,infectious diseases,8.0,All,12.0,6.0,107.0
-NCT00688870,Phase 3,168.0,infectious diseases,19.0,All,2.380952380952381,202.0,2159.0
-NCT03220737,Phase 4,550.0,infectious diseases,26.0,All,10.545454545454545,6.0,830.0
-NCT00071981,Phase 2,175.0,cancer,76.0,All,96.57142857142857,255.0,375.0
-NCT03587207,Phase 2,520.0,infectious diseases,5.0,All,0.0,10.0,2345.0
-NCT02258334,Phase 4,208.0,infectious diseases,1.0,All,0.4807692307692308,1.0,306.0
-NCT03615911,Phase 1,26.0,infectious diseases,16.0,All,11.538461538461538,0.0,74.0
-NCT04428359,Not Applicable,66.0,infectious diseases,7.0,All,7.575757575757576,6.0,99.0
-NCT01345240,Phase 3,705.0,infectious diseases,13.0,All,8.794326241134751,1091.0,2164.0
-NCT00003222,Phase 2,40.0,cancer,65.0,All,2.5,60.0,396.0
-NCT02314923,Phase 1,513.0,infectious diseases,18.0,All,4.678362573099415,5.0,1347.0
-NCT04887948,Phase 3,570.0,infectious diseases,6.0,All,4.736842105263158,9.0,1345.0
-NCT02531698,Phase 2,400.0,infectious diseases,19.0,All,3.25,37.0,1831.0
-NCT02526550,Phase 4,50.0,infectious diseases,1.0,All,2.0,0.0,42.0
-NCT04382326,Phase 3,1997.0,infectious diseases,27.0,All,18.42764146219329,86.0,8413.0
-NCT01092507,Phase 3,300.0,infectious diseases,18.0,All,0.6666666666666667,71.0,697.0
-NCT01250756,Phase 4,321.0,healthy,16.0,All,16.1993769470405,356.0,5118.0
-NCT00907777,Phase 3,52.0,infectious diseases,3.0,All,1.9230769230769231,0.0,124.0
-NCT01235975,Phase 3,400.0,infectious diseases,8.0,All,6.0,1.0,0.0
-NCT00847171,Phase 2,20.0,cancer,54.0,All,0.0,0.0,193.0
-NCT02956837,Phase 2,406.0,infectious diseases,9.0,Female,1.9704433497536946,11.0,954.0
-NCT02549365,Phase 4,276.0,infectious diseases,6.0,All,0.0,0.0,43.0
-NCT02563093,Phase 4,208.0,infectious diseases,3.0,All,0.0,3.0,275.0
-NCT02451358,Phase 3,400.0,infectious diseases,18.0,All,1.0,0.0,209.0
-NCT03039790,Phase 2,528.0,infectious diseases,53.0,All,10.037878787878787,21.0,0.0
-NCT00953524,Phase 2,849.0,infectious diseases,7.0,All,6.9493521790341575,30.0,937.0
-NCT00953056,Phase 1,144.0,infectious diseases,6.0,All,4.166666666666666,27.0,85.0
-NCT03493919,Phase 4,1021.0,infectious diseases,51.0,All,2.546523016650343,5.0,0.0
-NCT04041570,Phase 1,40.0,infectious diseases,14.0,All,5.0,0.0,189.0
-NCT02753413,Phase 2,102.0,infectious diseases,2.0,Female,0.0,0.0,216.0
-NCT02852005,Phase 1,27.0,infectious diseases,19.0,All,7.4074074074074066,0.0,68.0
-NCT01344057,Phase 2,63.0,infectious diseases,1.0,All,1.5873015873015872,0.0,16.0
-NCT00583024,Phase 2,32.0,cancer,158.0,Male,12.5,3.0,18.0
-NCT00952276,Phase 2,548.0,infectious diseases,14.0,All,0.36496350364963503,31.0,1044.0
-NCT01196988,Phase 3,3027.0,infectious diseases,8.0,All,2.708952758506772,102.0,6117.0
-NCT00938392,Phase 3,726.0,infectious diseases,2.0,All,0.8264462809917356,3.0,1367.0
-NCT01436370,Phase 2,102.0,infectious diseases,16.0,All,0.9803921568627451,3.0,393.0
-NCT01162122,Phase 3,7109.0,infectious diseases,12.0,All,5.443803629202419,1382.0,6441.0
-NCT01392378,Phase 4,908.0,infectious diseases,17.0,All,1.762114537444934,478.0,1803.0
-NCT03476135,Phase 3,91.0,infectious diseases,6.0,All,0.0,0.0,254.0
-NCT02173704,Phase 3,225.0,infectious diseases,15.0,All,7.555555555555555,438.0,2105.0
-NCT02814643,Phase 3,103.0,chronic diseases,6.0,All,3.8834951456310676,8.0,52.0
-NCT02473510,Phase 4,301.0,infectious diseases,7.0,All,0.9966777408637874,1.0,19.0
-NCT03553940,Phase 1,43.0,infectious diseases,24.0,All,0.0,0.0,74.0
-NCT01021293,Phase 3,1101.0,infectious diseases,7.0,All,3.2697547683923704,208.0,1946.0
-NCT01410474,Phase 3,341.0,infectious diseases,5.0,All,0.2932551319648094,2.0,1112.0
-NCT01027845,Phase 3,360.0,infectious diseases,8.0,All,1.9444444444444444,515.0,2283.0
-NCT03510481,Phase 1,478.0,infectious diseases,18.0,All,7.949790794979079,2.0,174.0
-NCT03410953,Phase 4,67.0,infectious diseases,18.0,All,0.0,0.0,32.0
-NCT02719743,Phase 2,185.0,infectious diseases,19.0,All,3.783783783783784,180.0,738.0
-NCT02640404,Phase 2,224.0,infectious diseases,6.0,All,0.8928571428571428,42.0,354.0
-NCT01222403,Phase 4,767.0,infectious diseases,48.0,All,0.2607561929595828,0.0,592.0
-NCT01218113,Phase 2,191.0,infectious diseases,24.0,All,6.282722513089005,12.0,672.0
-NCT04453202,Phase 2,459.0,healthy,2.0,All,3.485838779956427,13.0,934.0
-NCT01214837,Phase 3,751.0,infectious diseases,18.0,All,23.96804260985353,566.0,5212.0
-NCT01396512,Phase 3,274.0,infectious diseases,20.0,All,0.36496350364963503,82.0,684.0
-NCT02842853,Phase 3,3344.0,infectious diseases,7.0,All,3.050239234449761,38.0,4052.0
-NCT02142504,Phase 2,454.0,infectious diseases,20.0,All,25.55066079295154,26.0,128.0
-NCT01001325,Phase 3,468.0,infectious diseases,5.0,All,5.982905982905983,2.0,0.0
-NCT02106390,Phase 3,750.0,infectious diseases,28.0,All,18.666666666666668,285.0,5274.0
-NCT01001169,Phase 2,60.0,infectious diseases,7.0,All,5.0,2.0,282.0
-NCT02040090,Phase 2/Phase 3,118.0,infectious diseases,16.0,All,4.23728813559322,1.0,164.0
-NCT02049138,Phase 2,493.0,autoimmune diseases,91.0,All,54.76673427991886,390.0,847.0
-NCT00995865,Phase 1,60.0,infectious diseases,4.0,All,5.0,0.0,400.0
-NCT01939158,Phase 3,803.0,infectious diseases,75.0,All,22.91407222914072,375.0,3047.0
-NCT03652610,Phase 2,996.0,infectious diseases,4.0,All,0.9036144578313252,16.0,1870.0
-NCT03571607,Phase 3,206.0,infectious diseases,4.0,All,0.0,0.0,916.0
-NCT04912700,Not Applicable,11834.0,infectious diseases,0.0,All,0.0,5049.0,0.0
-NCT00803569,Phase 1,13.0,cancer,26.0,Female,30.76923076923077,0.0,81.0
-NCT00112957,Phase 2,23.0,cancer,53.0,Female,82.6086956521739,20.0,119.0
-NCT01199861,Phase 3,138.0,autoimmune diseases,9.0,All,1.4492753623188406,3.0,104.0
-NCT01196975,Phase 3,1707.0,infectious diseases,3.0,All,2.8119507908611596,996.0,2483.0
-NCT00992511,Phase 3,300.0,infectious diseases,13.0,All,3.0,23.0,1004.0
-NCT01177722,Phase 3,1375.0,infectious diseases,14.0,All,2.8363636363636364,742.0,4895.0
-NCT00979407,Phase 3,336.0,infectious diseases,0.0,All,3.869047619047619,25.0,1298.0
-NCT03999554,Phase 1,206.0,infectious diseases,10.0,All,19.902912621359224,1.0,441.0
-NCT04526574,Phase 3,1796.0,infectious diseases,10.0,All,3.841870824053452,115.0,3103.0
-NCT00975507,Phase 3,480.0,infectious diseases,10.0,All,5.0,34.0,1145.0
-NCT01154088,Phase 3,1170.0,infectious diseases,4.0,All,1.452991452991453,1.0,1839.0
-NCT04090658,Phase 1,40.0,infectious diseases,3.0,All,0.0,2.0,96.0
-NCT03557008,Phase 4,37.0,infectious diseases,47.0,All,21.62162162162162,0.0,3.0
-NCT02255409,Phase 3,607.0,infectious diseases,15.0,All,7.413509060955518,11.0,1256.0
-NCT01867086,Phase 2,1.0,cancer,34.0,All,100.0,0.0,0.0
-NCT01788228,Phase 3,50.0,infectious diseases,12.0,All,2.0,0.0,182.0
-NCT01777308,Phase 3,156.0,infectious diseases,14.0,All,10.897435897435898,0.0,326.0
-NCT01730118,Phase 1,33.0,cancer,82.0,All,90.9090909090909,184.0,406.0
-NCT04071158,Phase 2,713.0,infectious diseases,2.0,Female,2.524544179523142,1.0,1819.0
-NCT01165242,Phase 2,1013.0,infectious diseases,6.0,All,3.356367226061204,11.0,1586.0
-NCT01215734,Phase 1,44.0,transplant,18.0,All,2.272727272727273,63.0,27.0
-NCT01717638,Phase 3,805.0,infectious diseases,10.0,All,3.602484472049689,11.0,2829.0
-NCT00918580,Phase 3,158.0,infectious diseases,40.0,All,44.936708860759495,205.0,2343.0
-NCT00920218,Phase 2,121.0,infectious diseases,21.0,All,18.181818181818183,136.0,488.0
-NCT02302066,Phase 2,1800.0,infectious diseases,51.0,All,17.833333333333336,194.0,168.0
-NCT01522248,Not Applicable,20.0,infectious diseases,0.0,All,5.0,0.0,23.0
-NCT01509846,Phase 1,82.0,infectious diseases,21.0,All,14.634146341463413,0.0,98.0
-NCT01461096,Phase 3,575.0,infectious diseases,45.0,All,21.391304347826086,248.0,566.0
-NCT00959049,Phase 3,1474.0,infectious diseases,3.0,All,3.1886024423337855,13.0,3793.0
-NCT00952419,Phase 2,474.0,infectious diseases,7.0,All,3.375527426160337,2.0,1015.0
-NCT03600428,Phase 4,152.0,infectious diseases,17.0,All,6.578947368421052,0.0,18.0
-NCT00090285,Phase 3,4065.0,infectious diseases,59.0,Male,39.31119311193112,40.0,4274.0
-NCT03589768,Phase 2,399.0,infectious diseases,17.0,Female,3.7593984962406015,57.0,75.0
-NCT04009824,Phase 1,51.0,infectious diseases,7.0,All,29.411764705882355,0.0,99.0
-NCT01165229,Phase 3,14819.0,infectious diseases,60.0,All,15.992981982589919,6443.0,7065.0
-NCT03629886,Phase 4,3537.0,cancer,18.0,Female,5.089058524173027,1.0,1.0
-NCT01163747,Phase 4,91.0,autoimmune diseases,15.0,All,18.681318681318682,6.0,40.0
-NCT00595465,Phase 3,389.0,infectious diseases,2.0,All,4.370179948586118,7.0,425.0
-NCT03546842,Phase 3,201.0,infectious diseases,7.0,All,1.4925373134328357,1.0,101.0
-NCT01204658,Phase 2,576.0,infectious diseases,13.0,All,0.1736111111111111,267.0,4335.0
-NCT03560258,Phase 1/Phase 2,45.0,infectious diseases,22.0,All,11.11111111111111,1.0,44.0
-NCT01098474,Phase 2,301.0,infectious diseases,9.0,All,5.647840531561462,25.0,319.0
-NCT01148459,Phase 3,200.0,infectious diseases,34.0,All,11.5,814.0,1243.0
-NCT03636906,Phase 1/Phase 2,201.0,infectious diseases,9.0,All,4.477611940298507,41.0,656.0
-NCT00103116,Phase 2,32.0,cancer,42.0,All,0.0,0.0,16.0
-NCT01349569,Phase 2,19.0,cancer,57.0,All,21.052631578947366,1.0,48.0
-NCT00138294,Phase 4,29255.0,infectious diseases,142.0,All,0.0,57.0,1.0
-NCT00358332,Phase 1,100.0,infectious diseases,13.0,All,4.0,13.0,1114.0
-NCT01200368,Phase 3,551.0,healthy,14.0,All,11.252268602540836,705.0,8133.0
-NCT00305760,Phase 2,60.0,cancer,39.0,All,78.33333333333333,12.0,363.0
-NCT00368316,Phase 3,2799.0,infectious diseases,60.0,All,3.1439799928545913,0.0,522.0
-NCT01096056,Phase 1,40.0,infectious diseases,8.0,All,2.5,5.0,164.0
-NCT00839254,Phase 3,6181.0,infectious diseases,35.0,All,8.137841773175863,9096.0,30326.0
-NCT00389532,Phase 4,116.0,infectious diseases,18.0,All,0.0,0.0,27.0
-NCT00574548,Phase 3,720.0,infectious diseases,27.0,All,10.694444444444445,69.0,10972.0
-NCT02915302,Phase 4,1950.0,infectious diseases,5.0,All,7.333333333333333,149.0,5365.0
-NCT00857311,Phase 1,17.0,infectious diseases,20.0,All,5.88235294117647,5.0,64.0
-NCT00856297,Phase 3,389.0,infectious diseases,45.0,All,0.5141388174807198,2.0,251.0
-NCT00836953,Phase 4,33.0,infectious diseases,4.0,All,6.0606060606060606,0.0,35.0
-NCT00937521,Phase 2,1507.0,infectious diseases,16.0,All,3.64963503649635,9145.0,19167.0
-NCT02547974,Phase 1,120.0,respiratory disorders,19.0,All,0.8333333333333334,6.0,294.0
-NCT01034358,Phase 4,15.0,inflammatory diseases,16.0,Female,13.333333333333334,0.0,32.0
-NCT01190228,Phase 3,454.0,infectious diseases,2.0,All,1.1013215859030838,3.0,411.0
-NCT01000974,Phase 3,4003.0,infectious diseases,17.0,All,13.589807644266799,4538.0,19876.0
-NCT00654030,Phase 2,12.0,cancer,37.0,All,8.333333333333332,10.0,130.0
-NCT00755274,Phase 4,32.0,infectious diseases,4.0,All,0.0,0.0,13.0
-NCT00806676,Not Applicable,67.0,chronic diseases,81.0,Female,14.925373134328357,0.0,8.0
-NCT00835926,Phase 4,121.0,infectious diseases,2.0,All,0.0,0.0,10.0
-NCT00858468,Phase 1/Phase 2,394.0,infectious diseases,14.0,All,0.0,7.0,219.0
-NCT00868218,Phase 1,60.0,infectious diseases,16.0,All,0.0,0.0,46.0
-NCT00896064,Phase 2,43.0,infectious diseases,2.0,All,0.0,0.0,112.0
-NCT00943488,Phase 2,408.0,infectious diseases,7.0,All,0.7352941176470588,19.0,1023.0
-NCT00943878,Phase 2,805.0,infectious diseases,8.0,All,1.4906832298136645,44.0,2485.0
-NCT00976404,Phase 2,28.0,infectious diseases,44.0,All,0.0,4.0,0.0
-NCT00992784,Phase 3,370.0,infectious diseases,7.0,All,1.6216216216216217,72.0,470.0
-NCT00986232,Phase 2,1551.0,infectious diseases,12.0,All,10.058027079303674,1383.0,5214.0
-NCT00978120,Phase 2,390.0,infectious diseases,11.0,All,1.7948717948717947,60.0,120.0
-NCT01055184,Phase 1/Phase 2,34.0,infectious diseases,13.0,All,0.0,1.0,12.0
-NCT00879814,Phase 1,48.0,infectious diseases,39.0,All,29.166666666666668,0.0,196.0
-NCT01246999,Phase 4,34.0,infectious diseases,27.0,All,8.823529411764707,0.0,75.0
-NCT01245751,Phase 3,600.0,infectious diseases,15.0,All,1.5,91.0,542.0
-NCT01245673,Phase 2,28.0,cancer,56.0,All,7.142857142857142,51.0,138.0
-NCT01403376,Phase 2,128.0,autoimmune diseases,4.0,All,0.0,0.0,26.0
-NCT03771963,Phase 3,200.0,infectious diseases,6.0,All,16.0,5.0,0.0
-NCT00819013,Phase 1,87.0,infectious diseases,18.0,All,14.942528735632186,3.0,290.0
-NCT00968526,Phase 3,240.0,infectious diseases,12.0,All,1.25,116.0,681.0
-NCT00964158,Phase 3,210.0,infectious diseases,14.0,All,4.285714285714286,1.0,1141.0
-NCT02866942,Phase 4,479.0,chronic diseases,5.0,All,0.20876826722338201,31.0,154.0
-NCT04977479,Phase 2,20.0,allergy,9.0,All,0.0,0.0,481.0
-NCT03382418,Phase 1,45.0,infectious diseases,21.0,All,13.333333333333334,46.0,101.0
-NCT01641042,Phase 3,86.0,infectious diseases,25.0,All,0.0,5.0,212.0
-NCT01651104,Phase 2,63.0,infectious diseases,1.0,All,0.0,0.0,49.0
-NCT03391232,Phase 1/Phase 2,11.0,cancer,14.0,All,27.27272727272727,4.0,14.0
-NCT00875524,Phase 2,180.0,infectious diseases,65.0,All,7.777777777777778,22.0,352.0
-NCT02728102,Phase 2,203.0,cancer,47.0,All,7.8817733990147785,8.0,9.0
-NCT00799825,Phase 3,346.0,infectious diseases,43.0,Female,13.872832369942195,8.0,0.0
-NCT01827462,Phase 4,136.0,infectious diseases,99.0,All,63.970588235294116,138.0,88.0
-NCT01876212,Phase 2,15.0,cancer,50.0,All,0.0,104.0,249.0
-NCT01933776,Phase 1,40.0,infectious diseases,3.0,All,0.0,0.0,45.0
-NCT01967784,Phase 3,100.0,infectious diseases,6.0,All,0.0,0.0,140.0
-NCT03603509,Phase 4,241.0,infectious diseases,4.0,All,2.904564315352697,0.0,79.0
-NCT02005536,Phase 4,60.0,infectious diseases,9.0,All,0.0,0.0,135.0
-NCT00888381,Phase 4,120.0,infectious diseases,0.0,All,0.8333333333333334,0.0,34.0
-NCT03205358,Phase 2,188.0,infectious diseases,4.0,All,0.0,2.0,551.0
-NCT02381418,Phase 3,120.0,infectious diseases,0.0,All,0.0,0.0,34.0
-NCT00842530,Phase 2,4002.0,infectious diseases,55.0,All,4.3478260869565215,842.0,3944.0
-NCT05169905,Phase 3,9.0,infectious diseases,6.0,Female,0.0,0.0,19.0
-NCT02569632,Phase 4,18.0,infectious diseases,23.0,All,5.555555555555555,0.0,1.0
-NCT02585700,Phase 1,60.0,infectious diseases,4.0,All,0.0,0.0,6.0
-NCT01320696,Phase 1/Phase 2,353.0,infectious diseases,3.0,All,5.6657223796034,0.0,298.0
-NCT02649192,Phase 2,87.0,healthy,29.0,All,4.597701149425287,0.0,47.0
-NCT03301051,Phase 3,10160.0,infectious diseases,8.0,All,7.066929133858267,673.0,2971.0
-NCT01337167,Phase 3,1473.0,infectious diseases,25.0,All,16.08961303462322,1548.0,8825.0
-NCT01964989,Phase 3,10644.0,infectious diseases,23.0,All,14.3836903419767,17614.0,31949.0
-NCT02555618,Phase 2,400.0,infectious diseases,3.0,All,0.25,0.0,578.0
-NCT02545868,Phase 3,102.0,autoimmune diseases,15.0,All,100.0,0.0,170.0
-NCT03281876,Phase 2,606.0,respiratory disorders,28.0,All,10.231023102310232,399.0,1909.0
-NCT03945825,Phase 1,241.0,infectious diseases,15.0,All,6.639004149377594,2.0,850.0
-NCT02669121,Phase 2,4748.0,healthy,24.0,All,12.047177759056444,177.0,215.0
-NCT02743117,Phase 4,301.0,infectious diseases,7.0,All,0.6644518272425249,0.0,17.0
-NCT00735475,Phase 4,1268.0,infectious diseases,3.0,All,1.498422712933754,75.0,261.0
-NCT00743275,Phase 4,120.0,infectious diseases,3.0,All,0.8333333333333334,0.0,157.0
-NCT00742885,Phase 2,100.0,infectious diseases,6.0,All,1.0,0.0,549.0
-NCT02893878,Not Applicable,19334.0,infectious diseases,2.0,All,0.0,0.0,2681.0
-NCT00808444,Phase 3,466.0,infectious diseases,10.0,All,0.4291845493562232,103.0,2379.0
-NCT00727441,Phase 2,87.0,cancer,84.0,All,74.71264367816092,0.0,483.0
-NCT01026038,Phase 3,263.0,infectious diseases,7.0,All,0.7604562737642585,0.0,989.0
-NCT00718237,Phase 3,762.0,infectious diseases,12.0,All,3.674540682414698,177.0,543.0
-NCT00775450,Phase 2,807.0,infectious diseases,8.0,All,0.6195786864931847,44.0,1622.0
-NCT02794870,Phase 1,33.0,infectious diseases,11.0,All,6.0606060606060606,7.0,103.0
-NCT02126579,Phase 1/Phase 2,50.0,cancer,67.0,All,4.0,0.0,321.0
-NCT00475033,Phase 3,603.0,infectious diseases,23.0,All,6.301824212271974,322.0,7440.0
-NCT00474487,Phase 3,2831.0,infectious diseases,3.0,All,1.6248675379724478,22.0,4216.0
-NCT00765076,Phase 3,192.0,infectious diseases,13.0,All,1.0416666666666665,21.0,299.0
-NCT04841577,Phase 3,976.0,infectious diseases,4.0,All,3.995901639344263,65.0,1500.0
-NCT03498300,Early Phase 1,129.0,infectious diseases,11.0,Female,8.527131782945736,0.0,24.0
-NCT03525210,Phase 3,271.0,infectious diseases,17.0,All,2.214022140221402,50.0,224.0
-NCT03564444,Phase 4,300.0,infectious diseases,6.0,All,0.0,1.0,27.0
-NCT00474526,Phase 3,4545.0,infectious diseases,18.0,All,15.203520352035206,8113.0,26758.0
-NCT00975884,Phase 3,312.0,infectious diseases,7.0,All,9.935897435897436,23.0,1186.0
-NCT04644484,Phase 3,1000.0,infectious diseases,21.0,All,0.0,146.0,775.0
-NCT04258995,Phase 2,151.0,infectious diseases,7.0,All,1.3245033112582782,1.0,280.0
-NCT00710593,Phase 2,99.0,infectious diseases,36.0,Female,20.2020202020202,0.0,75.0
-NCT04232943,Phase 1,87.0,infectious diseases,12.0,All,10.344827586206897,0.0,244.0
-NCT04094883,Phase 4,11.0,infectious diseases,10.0,All,9.090909090909092,0.0,35.0
-NCT05028374,Phase 2,119.0,cancer,2.0,All,0.8403361344537815,1.0,312.0
-NCT00962780,Phase 3,303.0,infectious diseases,37.0,All,7.920792079207921,16.0,4301.0
-NCT00955682,Phase 3,342.0,infectious diseases,3.0,All,0.5847953216374269,2.0,584.0
-NCT03682107,Phase 1,48.0,infectious diseases,19.0,All,2.083333333333333,1.0,347.0
-NCT00199849,Phase 1,18.0,cancer,23.0,All,16.666666666666664,6.0,113.0
-NCT00721396,Phase 2,1885.0,infectious diseases,23.0,All,4.562334217506631,5974.0,16724.0
-NCT00197002,Phase 3,521.0,infectious diseases,28.0,All,10.9404990403071,32.0,1297.0
-NCT00718666,Phase 2,387.0,infectious diseases,61.0,All,2.0671834625323,1.0,254.0
-NCT01031069,Phase 4,873.0,infectious diseases,63.0,Female,11.225658648339062,35.0,2184.0
-NCT00584194,Phase 2,278.0,infectious diseases,72.0,All,48.561151079136685,11.0,258.0
-NCT01646398,Phase 3,764.0,infectious diseases,4.0,All,0.13089005235602094,1.0,2063.0
-NCT02285998,Phase 3,9003.0,infectious diseases,7.0,All,5.5425969121403975,367.0,2328.0
-NCT00166517,Phase 3,178.0,infectious diseases,11.0,All,3.932584269662921,173.0,676.0
-NCT00970307,Phase 2,421.0,infectious diseases,5.0,All,1.9002375296912115,16.0,1722.0
-NCT01367158,Phase 2,440.0,infectious diseases,6.0,All,2.727272727272727,5.0,1438.0
-NCT00657709,Phase 3,3630.0,infectious diseases,22.0,All,3.608815426997245,9136.0,31291.0
-NCT00652951,Phase 3,780.0,infectious diseases,13.0,All,0.2564102564102564,1177.0,5334.0
-NCT00654901,Phase 3,881.0,infectious diseases,14.0,All,0.681044267877412,3.0,3001.0
-NCT00914732,Phase 2,523.0,infectious diseases,14.0,All,5.353728489483748,4.0,3205.0
-NCT00911144,Phase 3,450.0,infectious diseases,7.0,All,4.666666666666667,14.0,1004.0
-NCT00644059,Phase 3,4902.0,infectious diseases,29.0,All,6.364749082007344,8046.0,21909.0
-NCT00971321,Phase 2,157.0,infectious diseases,14.0,All,8.9171974522293,55.0,877.0
-NCT02783170,Phase 4,81.0,pregnancy,18.0,Female,1.2345679012345678,1.0,4.0
-NCT01656200,Phase 4,17.0,infectious diseases,17.0,All,5.88235294117647,0.0,6.0
-NCT00130793,Phase 3,368.0,infectious diseases,3.0,All,1.9021739130434785,1.0,368.0
-NCT02270944,Phase 2,1053.0,infectious diseases,5.0,Female,1.519468186134853,183.0,2641.0
-NCT00470574,Not Applicable,7.0,cancer,156.0,All,0.0,5.0,52.0
-NCT00620815,Phase 2,601.0,infectious diseases,2.0,All,3.6605657237936775,44.0,2077.0
-NCT02514746,Phase 4,561.0,infectious diseases,16.0,All,6.59536541889483,0.0,182.0
-NCT02752906,Phase 3,810.0,infectious diseases,8.0,All,1.4814814814814816,9.0,1189.0
-NCT00109343,Phase 3,1027.0,infectious diseases,18.0,All,12.755598831548198,20.0,2857.0
-NCT01081223,Phase 1/Phase 2,12.0,cancer,11.0,All,0.0,35.0,49.0
-NCT01059617,Phase 1,133.0,infectious diseases,11.0,All,16.541353383458645,6.0,378.0
-NCT00617851,Phase 3,1507.0,infectious diseases,1.0,All,10.41804910418049,23.0,0.0
-NCT02228980,Phase 4,602.0,infectious diseases,3.0,All,5.3156146179401995,4.0,416.0
-NCT00092495,Phase 3,3055.0,cancer,21.0,All,6.710310965630114,404.0,5304.0
-NCT00092417,Phase 3,695.0,healthy,8.0,All,0.8633093525179856,5.0,1050.0
-NCT02297698,Phase 2,100.0,cancer,87.0,All,33.0,11.0,83.0
-NCT02447432,Phase 3,320.0,infectious diseases,7.0,All,5.625,20.0,894.0
-NCT02475278,Phase 2,50.0,infectious diseases,1.0,All,4.0,1.0,3.0
-NCT01640314,Phase 3,126.0,infectious diseases,1.0,All,0.7936507936507936,0.0,153.0
-NCT03090191,Phase 3,17535.0,infectious diseases,57.0,All,36.6581123467351,2093.0,26722.0
-NCT00951041,Phase 2,130.0,infectious diseases,12.0,All,4.615384615384616,3.0,413.0
-NCT00797511,Phase 3,132.0,infectious diseases,5.0,All,0.7575757575757576,2.0,337.0
-NCT00792909,Phase 3,172.0,infectious diseases,7.0,All,0.5813953488372093,14.0,604.0
-NCT00030823,Not Applicable,14.0,cancer,96.0,All,7.142857142857142,2.0,33.0
-NCT01051661,Phase 3,6154.0,infectious diseases,18.0,All,4.7773805654858625,2708.0,10886.0
-NCT01051349,Phase 2,410.0,autoimmune diseases,77.0,All,42.19512195121951,748.0,838.0
-NCT01366534,Phase 2,67.0,infectious diseases,6.0,All,5.970149253731343,0.0,353.0
-NCT01323946,Phase 2,113.0,infectious diseases,14.0,All,5.3097345132743365,52.0,561.0
-NCT01310413,Phase 3,842.0,infectious diseases,4.0,All,7.007125890736342,17.0,2060.0
-NCT04785794,Phase 1,122.0,infectious diseases,5.0,All,3.278688524590164,0.0,7.0
-NCT04761822,Phase 2,746.0,infectious diseases,12.0,All,5.361930294906166,597.0,1525.0
-NCT01245764,Phase 3,250.0,infectious diseases,25.0,Female,10.8,1.0,448.0
-NCT03104075,Phase 4,40.0,infectious diseases,32.0,All,2.5,0.0,1.0
-NCT00771849,Phase 2,103.0,infectious diseases,7.0,All,5.825242718446602,1.0,45.0
-NCT01240746,Phase 3,4363.0,infectious diseases,13.0,All,8.022003208801284,362.0,11614.0
-NCT00771615,Phase 2,469.0,infectious diseases,7.0,All,1.7057569296375266,11.0,905.0
-NCT04969263,Phase 2,81.0,transplant,15.0,All,11.11111111111111,16.0,138.0
-NCT03771157,Early Phase 1,33.0,cancer,19.0,All,3.0303030303030303,1.0,0.0
-NCT00101101,Phase 2,43.0,cancer,100.0,All,46.51162790697674,6.0,58.0
-NCT00923351,Phase 1/Phase 2,44.0,cancer,63.0,All,27.27272727272727,35.0,330.0
-NCT02735915,Phase 3,70.0,infectious diseases,16.0,All,15.714285714285714,9.0,219.0
-NCT03312231,Phase 2,720.0,infectious diseases,19.0,All,3.0555555555555554,129.0,2565.0
-NCT04247282,Phase 1/Phase 2,21.0,cancer,14.0,All,9.523809523809524,4.0,162.0
-NCT01521897,Not Applicable,1143.0,infectious diseases,28.0,All,2.012248468941382,269.0,1037.0
-NCT00885105,Phase 3,242.0,infectious diseases,3.0,All,4.545454545454546,22.0,183.0
-NCT00892775,Phase 2,501.0,infectious diseases,15.0,All,1.1976047904191618,67.0,1518.0
-NCT01266460,Phase 2,54.0,cancer,89.0,Female,62.96296296296296,397.0,688.0
-NCT01808456,Phase 4,62.0,infectious diseases,38.0,All,9.67741935483871,0.0,180.0
-NCT04032093,Phase 2,1153.0,infectious diseases,26.0,Female,9.800520381613183,758.0,2352.0
-NCT01262872,Phase 2,1320.0,infectious diseases,25.0,All,3.6363636363636362,20.0,3405.0
-NCT01209325,Phase 2,149.0,cancer,78.0,Male,28.859060402684566,8.0,78.0
-NCT03475056,Phase 1,40.0,infectious diseases,14.0,All,7.5,2.0,127.0
-NCT00566345,Phase 3,3670.0,infectious diseases,7.0,All,8.71934604904632,3.0,3131.0
-NCT03101462,Phase 4,38.0,infectious diseases,2.0,All,5.263157894736842,0.0,1.0
-NCT01205581,Phase 2,85.0,infectious diseases,35.0,All,1.1764705882352942,1.0,0.0
-NCT02374814,Phase 4,60.0,infectious diseases,18.0,All,8.333333333333332,0.0,68.0
-NCT01229371,Phase 3,440.0,infectious diseases,2.0,All,0.22727272727272727,0.0,229.0
-NCT01229176,Phase 2,200.0,infectious diseases,15.0,All,5.5,82.0,658.0
-NCT01218646,Phase 3,739.0,infectious diseases,5.0,All,0.5412719891745602,3.0,546.0
-NCT02646891,Phase 1/Phase 2,618.0,healthy,18.0,All,6.634304207119741,636.0,1616.0
-NCT00873912,Phase 4,300.0,healthy,0.0,All,1.0,3.0,27.0
-NCT00866619,Phase 3,15459.0,infectious diseases,23.0,All,29.982534445953814,17115.0,20433.0
-NCT00853749,Phase 3,89.0,infectious diseases,7.0,All,1.1235955056179776,0.0,358.0
-NCT00851643,Phase 1,158.0,cancer,20.0,Female,12.658227848101266,0.0,714.0
-NCT00849381,Phase 3,1239.0,infectious diseases,44.0,Female,11.702986279257466,11.0,0.0
-NCT00710866,Phase 3,262.0,infectious diseases,7.0,All,5.7251908396946565,1.0,780.0
-NCT03443427,Phase 2,200.0,respiratory disorders,21.0,All,11.5,37.0,785.0
-NCT00708682,Phase 3,225.0,infectious diseases,22.0,All,18.666666666666668,59.0,2727.0
-NCT04530838,Phase 3,668.0,infectious diseases,18.0,All,2.694610778443114,76.0,3085.0
-NCT03341637,Phase 3,400.0,infectious diseases,13.0,All,2.25,4.0,175.0
-NCT01272180,Phase 2,484.0,infectious diseases,2.0,All,13.429752066115702,9.0,1832.0
-NCT02636582,Phase 2,43.0,cancer,37.0,Female,2.3255813953488373,2.0,74.0
-NCT00822237,Phase 3,598.0,infectious diseases,9.0,All,11.036789297658862,2.0,764.0
-NCT00508261,Phase 3,793.0,infectious diseases,9.0,All,2.269861286254729,509.0,2175.0
-NCT00693706,Phase 1,200.0,infectious diseases,9.0,All,0.5,1.0,207.0
-NCT03318315,Phase 2,149.0,infectious diseases,17.0,All,7.38255033557047,1.0,662.0
-NCT00861744,Phase 2,1259.0,infectious diseases,13.0,All,8.18109610802224,368.0,3393.0
-NCT00496015,Phase 3,750.0,infectious diseases,8.0,All,0.26666666666666666,467.0,2117.0
-NCT00861380,Phase 3,41188.0,infectious diseases,33.0,All,99.98300475866758,37.0,0.0
-NCT00601835,Phase 4,3651.0,infectious diseases,14.0,All,2.026841961106546,134.0,3783.0
-NCT00464815,Phase 3,1025.0,infectious diseases,11.0,All,0.878048780487805,7.0,807.0
-NCT00835380,Phase 3,80.0,infectious diseases,7.0,All,2.5,0.0,113.0
-NCT00825162,Phase 4,1992.0,infectious diseases,11.0,All,2.7610441767068274,460.0,1304.0
-NCT00824850,Phase 2,75.0,infectious diseases,8.0,All,1.3333333333333335,0.0,302.0
-NCT03077438,Phase 3,1000.0,infectious diseases,7.0,All,2.6,12.0,1622.0
-NCT02787044,Phase 4,5388.0,heart diseases,46.0,All,0.6310319227913883,6.0,3882.0
-NCT03982199,Phase 2,5815.0,infectious diseases,34.0,All,55.83834909716251,552.0,45.0
-NCT00680914,Phase 3,503.0,infectious diseases,11.0,All,2.783300198807157,262.0,2147.0
-NCT00805389,Phase 2,713.0,infectious diseases,21.0,All,7.5736325385694245,45.0,2820.0
-NCT00678652,Phase 1,36.0,infectious diseases,16.0,All,11.11111111111111,0.0,272.0
-NCT00814710,Phase 3,360.0,infectious diseases,8.0,All,3.0555555555555554,12.0,1588.0
-NCT00849680,Phase 1,317.0,infectious diseases,23.0,All,29.33753943217666,31.0,1322.0
-NCT05070546,Phase 3,1124.0,infectious diseases,10.0,All,3.113879003558719,29.0,212.0
-NCT00802464,Phase 2,410.0,infectious diseases,17.0,All,5.609756097560976,38.0,859.0
-NCT00450619,Phase 2,44.0,cancer,70.0,Male,11.363636363636363,170.0,560.0
-NCT00788151,Phase 2,300.0,infectious diseases,16.0,All,8.0,6.0,240.0
-NCT00829010,Phase 3,489.0,infectious diseases,28.0,All,6.5439672801636,658.0,4924.0
-NCT00066729,Phase 1,9.0,cancer,35.0,Female,22.22222222222222,0.0,74.0
-NCT00847145,Phase 3,2249.0,infectious diseases,18.0,All,2.0898176967541127,2995.0,14198.0
-NCT00621322,Phase 2,180.0,infectious diseases,12.0,All,6.111111111111111,6.0,966.0
-NCT00779766,Phase 3,6081.0,infectious diseases,34.0,Female,22.693635915145535,172.0,15223.0
-NCT00845429,Phase 2,729.0,infectious diseases,10.0,All,6.721536351165981,16.0,1498.0
-NCT00841763,Phase 3,3647.0,infectious diseases,6.0,All,6.306553331505346,63.0,13647.0
-NCT00761631,Phase 3,1200.0,healthy,19.0,All,5.666666666666666,66.0,4855.0
-NCT00760617,Phase 3,526.0,infectious diseases,7.0,All,2.2813688212927756,55.0,657.0
-NCT00831311,Phase 2,624.0,infectious diseases,13.0,All,3.205128205128205,482.0,4074.0
-NCT00743652,Phase 3,373.0,infectious diseases,20.0,All,5.093833780160858,68.0,24.0
-NCT00808028,Phase 2,538.0,infectious diseases,61.0,All,16.91449814126394,99.0,452.0
-NCT03205371,Phase 3,1183.0,infectious diseases,20.0,All,2.0287404902789516,29.0,2167.0
-NCT00444457,Phase 3,1712.0,infectious diseases,25.0,All,17.990654205607477,7203.0,26684.0
-NCT00454909,Phase 2,873.0,infectious diseases,6.0,All,1.3745704467353952,14.0,2786.0
-NCT00723489,Phase 1/Phase 2,82.0,inflammatory diseases,32.0,All,9.75609756097561,0.0,267.0
-NCT00719043,Phase 2,841.0,infectious diseases,21.0,All,22.473246135552913,795.0,2616.0
-NCT00806195,Phase 3,7744.0,infectious diseases,27.0,All,13.584710743801654,16273.0,27936.0
-NCT00736476,Phase 1,63.0,infectious diseases,17.0,All,1.5873015873015872,1.0,212.0
-NCT00714285,Phase 1,420.0,infectious diseases,6.0,All,0.9523809523809524,1.0,801.0
-NCT00772928,Phase 3,1167.0,infectious diseases,31.0,All,7.28363324764353,884.0,2619.0
-NCT00772070,Phase 2,173.0,infectious diseases,5.0,All,6.9364161849710975,0.0,331.0
-NCT00758264,Phase 3,363.0,infectious diseases,7.0,All,1.6528925619834711,19.0,1586.0
-NCT00753272,Phase 3,43695.0,infectious diseases,21.0,All,22.631880077812106,15383.0,11127.0
-NCT00746798,Phase 2,479.0,infectious diseases,8.0,All,1.2526096033402923,16.0,452.0
-NCT00579345,Phase 3,1522.0,infectious diseases,8.0,All,0.7227332457293035,87.0,1371.0
-NCT00584844,Phase 2,484.0,infectious diseases,60.0,All,16.32231404958678,52.0,1696.0
-NCT00584454,Phase 2,10.0,infectious diseases,41.0,All,40.0,4.0,23.0
-NCT00578175,Phase 2,1851.0,infectious diseases,15.0,All,7.401404646137223,219.0,2771.0
-NCT00735644,Phase 3,1200.0,infectious diseases,9.0,All,0.33333333333333337,124.0,2717.0
-NCT00694551,Not Applicable,29.0,cancer,51.0,Male,6.896551724137931,1.0,141.0
-NCT05091307,Phase 3,861.0,infectious diseases,7.0,All,16.957026713124275,120.0,113.0
-NCT03589807,Phase 2,180.0,infectious diseases,22.0,All,8.88888888888889,7.0,795.0
-NCT00667563,Phase 1,150.0,cancer,39.0,Female,16.0,14.0,515.0
-NCT00583752,Phase 2,50.0,cancer,158.0,Male,20.0,0.0,69.0
-NCT00426361,Phase 3,751.0,infectious diseases,13.0,Female,1.8641810918774968,10.0,3207.0
-NCT00772889,Phase 3,971.0,infectious diseases,14.0,All,5.76725025746653,273.0,1037.0
-NCT03527173,Phase 2,71.0,infectious diseases,8.0,All,19.718309859154928,4.0,491.0
-NCT02177032,Phase 3,885.0,infectious diseases,4.0,All,1.1299435028248588,87.0,2181.0
-NCT00772109,Phase 3,4292.0,infectious diseases,7.0,All,2.096924510717614,76.0,13491.0
-NCT02109484,Phase 1/Phase 2,204.0,infectious diseases,20.0,All,5.88235294117647,50.0,284.0
-NCT02587221,Phase 3,6790.0,infectious diseases,22.0,All,3.74079528718704,711.0,860.0
-NCT02046148,Phase 2,75.0,infectious diseases,21.0,Female,5.333333333333334,38.0,199.0
-NCT02045836,Phase 3,865.0,infectious diseases,16.0,All,2.6589595375722546,56.0,3436.0
-NCT02067676,Phase 1,48.0,infectious diseases,5.0,All,2.083333333333333,2.0,177.0
-NCT02035696,Phase 1/Phase 2,671.0,infectious diseases,6.0,All,1.7883755588673622,874.0,3494.0
-NCT02699099,Phase 3,699.0,infectious diseases,10.0,All,2.432045779685265,2063.0,2991.0
-NCT02690207,Phase 3,8687.0,infectious diseases,36.0,All,2.9123978358466673,4397.0,14066.0
-NCT05144945,Phase 3,301.0,infectious diseases,8.0,All,0.33222591362126247,0.0,588.0
-NCT01437267,Phase 2,120.0,infectious diseases,10.0,All,1.6666666666666667,21.0,478.0
-NCT00617344,Phase 2,260.0,infectious diseases,20.0,All,21.153846153846153,8.0,688.0
-NCT00652743,Phase 3,845.0,infectious diseases,39.0,All,5.562130177514793,226.0,1856.0
-NCT00546819,Phase 2,309.0,infectious diseases,34.0,All,4.53074433656958,48.0,98.0
-NCT02018458,Phase 1/Phase 2,10.0,cancer,64.0,Female,40.0,8.0,168.0
-NCT02362464,Phase 2,14.0,cancer,83.0,Male,42.857142857142854,1.0,65.0
-NCT00289783,Phase 3,4441.0,infectious diseases,18.0,All,9.952713352848457,8295.0,34589.0
-NCT01964716,Phase 3,500.0,infectious diseases,8.0,All,2.1999999999999997,1.0,2484.0
-NCT00614614,Phase 3,1558.0,infectious diseases,17.0,All,11.0397946084724,1296.0,5343.0
-NCT00645411,Phase 2/Phase 3,3604.0,infectious diseases,4.0,All,7.574916759156493,28.0,5826.0
-NCT00402649,Phase 1/Phase 2,35.0,infectious diseases,8.0,All,5.714285714285714,0.0,76.0
-NCT00399529,Phase 2,22.0,cancer,41.0,All,9.090909090909092,8.0,138.0
-NCT02004262,Phase 2,303.0,cancer,24.0,All,100.0,893.0,2164.0
-NCT02676895,Phase 2,74.0,infectious diseases,7.0,All,10.81081081081081,6.0,396.0
-NCT00393523,Phase 3,1478.0,infectious diseases,21.0,All,2.165087956698241,29.0,1555.0
-NCT00560950,Phase 3,143.0,infectious diseases,10.0,All,0.6993006993006993,0.0,355.0
-NCT00363649,Phase 2,36.0,cancer,133.0,All,22.22222222222222,2.0,534.0
-NCT01973218,Phase 3,264.0,infectious diseases,5.0,All,0.7575757575757576,4.0,1550.0
-NCT00617409,Phase 2,69.0,cancer,97.0,All,88.40579710144928,217.0,633.0
-NCT00384397,Phase 3,1128.0,infectious diseases,23.0,All,9.840425531914894,132.0,954.0
-NCT00677820,Phase 4,300.0,infectious diseases,1.0,All,0.33333333333333337,4.0,18.0
-NCT00540592,Phase 2,2007.0,infectious diseases,8.0,All,0.4982561036372696,547.0,3132.0
-NCT04176133,Phase 2,61.0,healthy,29.0,All,0.0,1.0,250.0
-NCT03739112,Phase 3,12794.0,infectious diseases,8.0,All,2.9388775988744724,1381.0,3129.0
-NCT00344305,Phase 2,200.0,healthy,2.0,All,1.5,1.0,79.0
-NCT00323557,Phase 2,39.0,cancer,84.0,All,2.564102564102564,0.0,10.0
-NCT00652938,Phase 3,744.0,infectious diseases,16.0,Female,1.747311827956989,6.0,2722.0
-NCT00321763,Phase 2,3124.0,infectious diseases,2.0,All,0.6081946222791293,203.0,12339.0
-NCT00321373,Phase 2,1220.0,infectious diseases,1.0,All,0.4098360655737705,159.0,1713.0
-NCT01863433,Phase 4,120.0,infectious diseases,1.0,All,0.8333333333333334,0.0,150.0
-NCT00317473,Phase 1,135.0,infectious diseases,13.0,All,17.037037037037038,14.0,414.0
-NCT00529516,Phase 3,1252.0,infectious diseases,2.0,All,0.4792332268370607,70.0,1792.0
-NCT00316693,Phase 2,1046.0,infectious diseases,34.0,Female,15.487571701720842,684.0,4603.0
-NCT00315055,Phase 3,310.0,infectious diseases,12.0,All,2.5806451612903225,5.0,818.0
-NCT01776554,Phase 2,662.0,infectious diseases,5.0,All,6.042296072507553,464.0,3228.0
-NCT05059301,Phase 3,770.0,infectious diseases,3.0,All,1.5584415584415585,35.0,1534.0
-NCT00778895,Phase 2,390.0,infectious diseases,9.0,All,9.743589743589745,4.0,1017.0
-NCT00744263,Phase 4,84496.0,infectious diseases,61.0,All,12.492899072145427,967.0,3808.0
-NCT00506350,Phase 2,350.0,infectious diseases,26.0,All,10.857142857142858,30.0,1281.0
-NCT02612909,Phase 2/Phase 3,930.0,infectious diseases,5.0,All,0.967741935483871,50.0,265.0
-NCT00518206,Phase 2,46.0,cancer,74.0,All,36.95652173913043,66.0,317.0
-NCT00609492,Phase 3,245.0,infectious diseases,10.0,All,4.489795918367347,4.0,569.0
-NCT01359449,Phase 3,123.0,infectious diseases,14.0,All,6.504065040650407,3.0,589.0
-NCT00572832,Not Applicable,200.0,infectious diseases,19.0,Female,6.0,0.0,113.0
-NCT00643916,Phase 2,378.0,infectious diseases,15.0,All,5.555555555555555,17.0,452.0
-NCT02446743,Phase 3,531.0,infectious diseases,10.0,All,1.8832391713747645,1.0,2425.0
-NCT00568334,Phase 2,244.0,infectious diseases,4.0,All,0.819672131147541,9.0,598.0
-NCT04969276,Phase 2,306.0,infectious diseases,6.0,All,4.248366013071895,6.0,1136.0
-NCT04498832,Phase 3,2100.0,infectious diseases,2.0,All,0.2380952380952381,7.0,2348.0
-NCT04490018,Phase 3,463.0,infectious diseases,14.0,All,3.2397408207343417,1.0,1141.0
-NCT00538473,Phase 2,68.0,infectious diseases,1.0,All,1.4705882352941175,0.0,108.0
-NCT00621764,Phase 2,300.0,infectious diseases,21.0,All,0.33333333333333337,123.0,731.0
-NCT00005780,Phase 2,26.0,cancer,255.0,All,3.8461538461538463,57.0,597.0
-NCT00619502,Phase 3,254.0,infectious diseases,7.0,All,7.086614173228346,6.0,667.0
-NCT02564471,Phase 4,103.0,infectious diseases,21.0,All,8.737864077669903,0.0,155.0
-NCT03965962,Phase 3,640.0,infectious diseases,18.0,All,7.187499999999999,12.0,813.0
-NCT00412516,Phase 3,519.0,infectious diseases,39.0,All,0.0,33.0,0.0
-NCT03894969,Phase 2,541.0,respiratory disorders,16.0,All,6.469500924214418,42.0,1784.0
-NCT00485134,Phase 1/Phase 2,113.0,infectious diseases,26.0,All,15.929203539823009,1.0,345.0
-NCT00500266,Phase 3,1053.0,infectious diseases,11.0,All,1.2345679012345678,103.0,4065.0
-NCT03674177,Phase 1,502.0,infectious diseases,5.0,Female,0.9960159362549801,3.0,1004.0
-NCT00483574,Phase 3,1378.0,infectious diseases,20.0,All,8.34542815674891,216.0,987.0
-NCT02955797,Phase 3,918.0,infectious diseases,8.0,All,0.8714596949891068,28.0,2458.0
-NCT00616928,Phase 3,4561.0,infectious diseases,8.0,All,2.2802017101512826,202.0,11006.0
-NCT02946385,Phase 2,604.0,infectious diseases,15.0,All,0.9933774834437087,281.0,2373.0
-NCT02914184,Phase 3,1612.0,infectious diseases,20.0,All,3.411910669975186,418.0,3007.0
-NCT00496054,Phase 3,110.0,infectious diseases,5.0,All,7.2727272727272725,2.0,73.0
-NCT04952402,Phase 4,43.0,infectious diseases,7.0,All,11.627906976744185,0.0,39.0
-NCT03673462,Phase 3,2797.0,infectious diseases,54.0,All,13.836253128351805,1599.0,15620.0
-NCT02199691,Phase 2,1715.0,infectious diseases,14.0,All,4.314868804664723,16.0,3174.0
-NCT02561195,Phase 2,300.0,infectious diseases,20.0,All,50.0,225.0,2724.0
-NCT01732627,Phase 2,301.0,infectious diseases,2.0,All,0.33222591362126247,0.0,369.0
-NCT02661490,Phase 2,320.0,infectious diseases,9.0,All,3.4375000000000004,94.0,158.0
-NCT02534935,Phase 2,396.0,infectious diseases,24.0,All,5.05050505050505,658.0,2654.0
-NCT02360475,Phase 2,507.0,infectious diseases,3.0,Female,5.9171597633136095,16.0,919.0
-NCT00127855,Phase 2,409.0,infectious diseases,11.0,All,2.2004889975550124,41.0,3947.0
-NCT05301322,Phase 3,1471.0,infectious diseases,6.0,All,1.699524133242692,58.0,3085.0
-NCT02538341,Phase 2,617.0,autoimmune diseases,43.0,All,16.693679092382496,20.0,194.0
-NCT00466726,Phase 2,57.0,cancer,89.0,All,24.561403508771928,0.0,4.0
-NCT00463684,Phase 4,278.0,infectious diseases,4.0,All,1.4388489208633095,146.0,281.0
-NCT00452452,Phase 3,355.0,infectious diseases,8.0,All,0.8450704225352111,76.0,2137.0
-NCT03525119,Phase 3,900.0,healthy,4.0,All,13.555555555555557,22.0,28.0
-NCT00504231,Phase 2,257.0,infectious diseases,4.0,All,0.38910505836575876,6.0,0.0
-NCT00459316,Phase 1/Phase 2,384.0,infectious diseases,70.0,All,8.854166666666668,86.0,964.0
-NCT00092443,Phase 3,1312.0,infectious diseases,21.0,All,8.536585365853659,1165.0,3349.0
-NCT02971670,Phase 1,23.0,infectious diseases,5.0,All,34.78260869565217,1.0,9.0
-NCT00540228,Phase 2,1006.0,infectious diseases,7.0,All,0.3976143141153081,20.0,3230.0
-NCT00562484,Phase 4,7500.0,infectious diseases,20.0,All,4.133333333333333,1844.0,4578.0
-NCT03954743,Phase 3,1351.0,infectious diseases,16.0,All,3.0347890451517396,735.0,3277.0
-NCT00560066,Phase 4,1398.0,infectious diseases,8.0,All,2.0028612303290414,36.0,1649.0
-NCT00549900,Phase 1,30.0,infectious diseases,7.0,Female,3.3333333333333335,1.0,82.0
-NCT00695669,Phase 2,312.0,infectious diseases,2.0,All,4.807692307692308,8.0,904.0
-NCT00434512,Phase 2,180.0,infectious diseases,15.0,All,2.2222222222222223,6.0,1023.0
-NCT00689351,Phase 2,180.0,infectious diseases,18.0,All,4.444444444444445,195.0,2088.0
-NCT00502593,Phase 2,138.0,infectious diseases,28.0,All,26.08695652173913,20.0,1184.0
-NCT03058692,Phase 2,120.0,infectious diseases,9.0,All,4.166666666666666,1.0,256.0
-NCT03316807,Phase 4,182.0,infectious diseases,9.0,All,31.318681318681318,0.0,38.0
-NCT03370289,Phase 4,55.0,infectious diseases,1.0,All,9.090909090909092,0.0,64.0
-NCT03698279,Phase 2,665.0,infectious diseases,12.0,All,3.007518796992481,15.0,1883.0
-NCT03308825,Phase 4,240.0,infectious diseases,2.0,All,2.9166666666666665,3.0,265.0
-NCT03328325,Phase 4,152.0,infectious diseases,26.0,All,7.236842105263158,1.0,24.0
-NCT03201211,Phase 1,81.0,respiratory disorders,33.0,All,4.938271604938271,13.0,0.0
-NCT00492063,Phase 3,2654.0,infectious diseases,3.0,All,1.6955538809344386,57.0,2231.0
-NCT03181789,Phase 1,56.0,infectious diseases,24.0,All,19.642857142857142,0.0,167.0
-NCT00384670,Phase 1/Phase 2,7.0,infectious diseases,9.0,All,0.0,0.0,35.0
-NCT02986854,Phase 3,704.0,infectious diseases,7.0,All,2.556818181818182,23.0,1776.0
-NCT03170609,Phase 2,365.0,infectious diseases,12.0,All,4.657534246575342,3.0,702.0
-NCT02880865,Phase 4,628.0,infectious diseases,7.0,All,0.6369426751592357,269.0,1193.0
-NCT03439657,Phase 3,913.0,infectious diseases,12.0,All,1.2048192771084338,56.0,3754.0
-NCT02921997,Phase 2,30.0,infectious diseases,4.0,All,0.0,1.0,110.0
-NCT02842866,Phase 3,907.0,infectious diseases,7.0,All,1.1025358324145533,39.0,613.0
-NCT01991067,Phase 2,34.0,infectious diseases,51.0,All,32.35294117647059,4.0,40.0
-NCT01340898,Phase 3,753.0,infectious diseases,30.0,All,6.640106241699867,358.0,3337.0
-NCT02927873,Phase 1/Phase 2,107.0,infectious diseases,25.0,All,5.607476635514018,60.0,197.0
-NCT02214225,Phase 3,3484.0,infectious diseases,3.0,All,2.755453501722158,89.0,2570.0
-NCT01934140,Phase 3,311.0,infectious diseases,46.0,All,37.29903536977492,0.0,156.0
-NCT02519855,Phase 3,882.0,infectious diseases,4.0,All,0.7936507936507936,10.0,983.0
-NCT02492165,Phase 3,250.0,infectious diseases,9.0,All,0.4,2.0,294.0
-NCT02286895,Phase 4,600.0,infectious diseases,5.0,All,14.499999999999998,60.0,383.0
-NCT02485301,Phase 2,3024.0,infectious diseases,17.0,All,2.876984126984127,35.0,1528.0
-NCT02089347,Phase 3,534.0,infectious diseases,6.0,All,0.18726591760299627,0.0,55.0
-NCT01823536,Phase 4,465.0,infectious diseases,5.0,All,1.935483870967742,2.0,777.0
-NCT01651949,Phase 3,2520.0,cancer,21.0,All,6.746031746031746,52.0,3557.0
-NCT03630705,Phase 3,525.0,infectious diseases,40.0,All,3.8095238095238098,15.0,1554.0
-NCT01767376,Phase 3,692.0,infectious diseases,12.0,All,1.0115606936416186,3.0,1516.0
-NCT01764256,Phase 1,48.0,infectious diseases,6.0,All,10.416666666666668,1.0,55.0
-NCT01962207,Phase 3,243.0,infectious diseases,50.0,All,40.32921810699588,1.0,403.0
-NCT01755598,Phase 2,3575.0,infectious diseases,51.0,All,15.328671328671328,477.0,5413.0
-NCT01961115,Phase 2,11.0,cancer,38.0,All,54.54545454545454,4.0,104.0
-NCT01960725,Phase 4,66.0,infectious diseases,22.0,All,16.666666666666664,3.0,75.0
-NCT01635283,Phase 2,5.0,cancer,52.0,All,80.0,0.0,17.0
-NCT02207413,Phase 3,1886.0,infectious diseases,8.0,All,1.166489925768823,372.0,4459.0
-NCT01644149,Phase 4,83.0,infectious diseases,0.0,All,6.024096385542169,0.0,336.0
-NCT01706458,Phase 2,18.0,cancer,49.0,Male,38.88888888888889,11.0,91.0
-NCT02203357,Phase 4,353.0,infectious diseases,27.0,All,54.95750708215298,0.0,9.0
-NCT01642589,Phase 3,300.0,infectious diseases,6.0,All,0.6666666666666667,0.0,372.0
-NCT01954251,Phase 3,829.0,infectious diseases,8.0,All,3.8600723763570564,781.0,3398.0
-NCT01629589,Phase 4,423.0,infectious diseases,9.0,All,3.546099290780142,0.0,144.0
-NCT02915016,Phase 1/Phase 2,334.0,infectious diseases,32.0,All,15.269461077844312,364.0,773.0
-NCT02255279,Phase 3,287.0,infectious diseases,7.0,All,4.878048780487805,0.0,582.0
-NCT02290691,Phase 4,985.0,infectious diseases,2.0,All,1.7258883248730965,2.0,2157.0
-NCT02154061,Not Applicable,33.0,infectious diseases,25.0,All,6.0606060606060606,0.0,17.0
-NCT02207816,Phase 3,3084.0,infectious diseases,28.0,All,6.614785992217899,172.0,0.0
-NCT02914275,Phase 3,2250.0,infectious diseases,5.0,All,7.244444444444445,15.0,581.0
-NCT02158364,Not Applicable,3331.0,infectious diseases,47.0,All,1.8012608826178327,2.0,376.0
-NCT01527370,Phase 3,250.0,infectious diseases,5.0,All,2.4,2.0,88.0
-NCT01890759,Phase 3,300.0,infectious diseases,34.0,All,4.666666666666667,4.0,425.0
-NCT02118961,Phase 3,446.0,infectious diseases,4.0,All,0.2242152466367713,0.0,1548.0
-NCT01627340,Phase 4,667.0,infectious diseases,17.0,All,2.39880059970015,33.0,963.0
-NCT01480258,Phase 3,1315.0,infectious diseases,22.0,All,2.585551330798479,1044.0,9244.0
-NCT01453348,Phase 3,252.0,infectious diseases,3.0,All,1.1904761904761905,2.0,69.0
-NCT01625689,Phase 2,309.0,infectious diseases,8.0,All,0.9708737864077669,6.0,313.0
-NCT02124161,Phase 4,882.0,infectious diseases,8.0,All,3.5147392290249435,63.0,450.0
-NCT02117570,Phase 2,185.0,infectious diseases,17.0,All,8.108108108108109,39.0,109.0
-NCT02151773,Not Applicable,3493.0,infectious diseases,38.0,All,1.8322359003721727,1271.0,2151.0
-NCT02052596,Phase 3,935.0,infectious diseases,16.0,All,10.481283422459892,541.0,2953.0
-NCT02058589,Phase 3,265.0,infectious diseases,26.0,All,1.509433962264151,85.0,606.0
-NCT00194714,Phase 1/Phase 2,22.0,cancer,58.0,Female,4.545454545454546,4.0,301.0
-NCT02034877,Phase 4,1200.0,infectious diseases,11.0,All,0.5,0.0,107.0
-NCT02075515,Phase 3,651.0,infectious diseases,8.0,All,2.61136712749616,86.0,2393.0
-NCT02116205,Phase 2,130.0,infectious diseases,29.0,All,14.615384615384617,1.0,525.0
-NCT01981616,Phase 1,127.0,inflammatory diseases,8.0,All,1.574803149606299,1.0,59.0
-NCT01978262,Phase 4,103.0,healthy,46.0,Female,10.679611650485436,0.0,139.0
-NCT02058563,Phase 3,996.0,infectious diseases,10.0,All,5.220883534136546,11.0,295.0
-NCT02055365,Not Applicable,10.0,infectious diseases,10.0,All,10.0,0.0,3.0
-NCT02038907,Phase 2,420.0,infectious diseases,14.0,All,0.4761904761904762,28.0,156.0
-NCT01946438,Phase 4,208.0,infectious diseases,3.0,All,1.9230769230769231,2.0,233.0
-NCT01946425,Phase 4,60.0,infectious diseases,3.0,All,3.3333333333333335,0.0,188.0
-NCT00423046,Phase 3,1106.0,infectious diseases,13.0,Female,61.93490054249548,109.0,3362.0
-NCT00546572,Phase 3,938.0,infectious diseases,32.0,All,15.884861407249467,237.0,7051.0
-NCT00466947,Phase 3,23802.0,infectious diseases,38.0,All,120.8637929585749,50684.0,58645.0
-NCT00676091,Phase 3,354.0,infectious diseases,17.0,All,12.711864406779661,225.0,4311.0
-NCT00536120,Phase 4,60.0,autoimmune diseases,22.0,All,15.0,15.0,102.0
-NCT00535730,Phase 3,473.0,infectious diseases,8.0,All,1.9027484143763214,7.0,950.0
-NCT00532298,Phase 2,1596.0,infectious diseases,1.0,All,0.43859649122807015,421.0,3130.0
-NCT00534248,Phase 3,22439.0,infectious diseases,27.0,All,5.945006461963546,2516.0,20998.0
-NCT00390910,Phase 3,286.0,infectious diseases,9.0,All,5.594405594405594,398.0,1076.0
-NCT01609257,Phase 1/Phase 2,132.0,infectious diseases,19.0,All,10.606060606060606,0.0,19.0
-NCT00385840,Phase 2,678.0,infectious diseases,3.0,All,2.6548672566371683,5.0,1617.0
-NCT01974817,Phase 4,25.0,chronic diseases,7.0,All,32.0,0.0,4.0
-NCT02979639,Phase 3,404.0,infectious diseases,2.0,All,3.4653465346534658,27.0,1631.0
-NCT01949090,Phase 2,363.0,infectious diseases,2.0,All,3.581267217630854,67.0,606.0
-NCT01424644,Phase 4,801.0,infectious diseases,15.0,All,7.490636704119851,9.0,1488.0
-NCT01423084,Phase 3,344.0,infectious diseases,4.0,All,1.744186046511628,0.0,1594.0
-NCT01385566,Phase 1,223.0,infectious diseases,20.0,All,0.8968609865470852,0.0,293.0
-NCT00366340,Phase 3,604.0,infectious diseases,22.0,All,4.801324503311259,1549.0,9480.0
-NCT00365716,Phase 2,1158.0,infectious diseases,48.0,Female,38.255613126079446,9.0,3144.0
-NCT01857206,Phase 3,2055.0,infectious diseases,13.0,All,1.119221411192214,133.0,4662.0
-NCT01610414,Phase 3,1877.0,infectious diseases,52.0,All,25.57272242940863,3517.0,4428.0
-NCT03629080,Phase 2,83.0,infectious diseases,42.0,All,26.506024096385545,68.0,88.0
-NCT01603875,Not Applicable,105.0,infectious diseases,12.0,All,22.857142857142858,0.0,171.0
-NCT01388985,Phase 3,500.0,infectious diseases,51.0,All,17.4,7.0,0.0
-NCT01545375,Phase 2,1806.0,infectious diseases,50.0,All,10.35437430786268,1149.0,2039.0
-NCT01513551,Phase 2,692.0,infectious diseases,11.0,All,2.167630057803468,16.0,1249.0
-NCT01489527,Not Applicable,406.0,infectious diseases,19.0,Female,11.822660098522167,0.0,169.0
-NCT00108732,Phase 2,50.0,cancer,56.0,Male,38.0,38.0,123.0
-NCT01859143,Phase 4,300.0,infectious diseases,7.0,All,0.6666666666666667,3.0,42.0
-NCT01381575,Phase 3,1447.0,infectious diseases,12.0,Female,5.874222529371113,93.0,5699.0
-NCT00214461,Phase 1,48.0,infectious diseases,3.0,All,6.25,6.0,248.0
+nct_id,phase,enrollment,condition_name,actual_duration,gender,dropout_rate,AE_total_serious,AE_total_other,injection site reactions,pyrexia,headache,irritability,pain
+NCT00444951,Phase 3,450.0,infectious diseases,12.0,All,3.111111111111111,1.0,1082.0,470,58,190,0,0
+NCT00623831,Phase 1,17.0,cancer,60.0,All,11.76470588235294,3.0,100.0,8,3,1,0,0
+NCT00434577,Phase 2,715.0,infectious diseases,7.0,All,1.8181818181818181,349.0,1716.0,0,70,204,0,460
+NCT00616421,Phase 3,2907.0,infectious diseases,13.0,All,3.611971104231166,119.0,4625.0,2381,188,287,0,0
+NCT04515147,Phase 2,668.0,infectious diseases,17.0,All,8.532934131736528,140.0,3398.0,604,190,436,0,0
+NCT01340937,Phase 3,2808.0,infectious diseases,19.0,All,18.58974358974359,5488.0,16292.0,5091,2928,0,4636,0
+NCT00635830,Phase 1,40.0,infectious diseases,1.0,Female,0.0,0.0,42.0,11,6,3,0,0
+NCT00683410,Not Applicable,3366.0,infectious diseases,30.0,All,0.0,47.0,121.0,3,74,0,1,0
+NCT00727636,Not Applicable,53.0,inflammatory diseases,23.0,Female,7.547169811320755,5.0,11.0,0,0,0,0,0
+NCT00734734,Phase 2,64.0,infectious diseases,1.0,All,0.0,0.0,7.0,1,0,1,0,0
+NCT01984697,Phase 3,1518.0,infectious diseases,18.0,All,10.474308300395258,42.0,298.0,251,1,47,0,0
+NCT04622592,Phase 1/Phase 2,209.0,infectious diseases,18.0,All,9.569377990430622,58.0,179.0,1,0,1,0,0
+NCT03848065,Phase 1,133.0,infectious diseases,14.0,All,2.2556390977443606,6.0,829.0,408,79,0,100,0
+NCT00496626,Phase 3,600.0,infectious diseases,7.0,All,2.0,1.0,475.0,137,141,34,0,0
+NCT01734811,Phase 3,120.0,infectious diseases,43.0,All,5.833333333333333,1.0,0.0,0,0,0,0,0
+NCT01777321,Phase 3,60.0,infectious diseases,3.0,All,1.6666666666666667,3.0,311.0,31,13,30,0,55
+NCT01776541,Phase 2,979.0,infectious diseases,5.0,All,13.381001021450459,64.0,4407.0,1740,0,509,0,0
+NCT00834106,Phase 3,3006.0,infectious diseases,40.0,Female,13.872255489021956,834.0,4258.0,1756,1482,411,0,0
+NCT01165177,Phase 3,16165.0,infectious diseases,45.0,All,11.283637488400867,13928.0,22966.0,2404,3339,6200,0,8166
+NCT01948193,Phase 3,177.0,infectious diseases,10.0,All,5.084745762711865,4.0,217.0,59,15,0,39,0
+NCT01617629,Phase 2,9.0,cancer,28.0,Female,66.66666666666666,3.0,53.0,1,0,1,0,0
+NCT02151448,Phase 1/Phase 2,64.0,cancer,55.0,All,0.0,186.0,358.0,0,12,15,0,8
+NCT01928225,Phase 2,180.0,cancer,39.0,Female,3.3333333333333335,2.0,0.0,0,0,0,0,0
+NCT01910519,Phase 2,50.0,infectious diseases,19.0,All,8.0,1.0,46.0,0,2,0,0,0
+NCT01616693,Phase 4,620.0,infectious diseases,12.0,All,11.129032258064516,17.0,1945.0,0,437,0,0,0
+NCT01616459,Phase 2,953.0,infectious diseases,9.0,All,4.092339979013642,505.0,7289.0,0,888,0,0,1005
+NCT01737710,Not Applicable,368.0,inflammatory diseases,7.0,Female,2.4456521739130435,2.0,2.0,0,0,0,0,0
+NCT00303316,Phase 3,458.0,infectious diseases,14.0,All,1.0917030567685588,4.0,1204.0,540,91,0,163,0
+NCT01712984,Phase 3,3360.0,infectious diseases,8.0,All,1.25,1135.0,8970.0,5514,0,2168,0,0
+NCT01711736,Phase 3,606.0,infectious diseases,3.0,All,3.3003300330033,100.0,1261.0,0,210,0,0,186
+NCT00380367,Phase 3,110.0,infectious diseases,9.0,Female,1.8181818181818181,0.0,146.0,94,25,5,0,0
+NCT00963430,Phase 2,120.0,infectious diseases,8.0,Female,3.3333333333333335,18.0,359.0,73,0,47,0,0
+NCT00968890,Phase 2,168.0,infectious diseases,12.0,All,0.0,5.0,539.0,0,0,46,0,0
+NCT01896869,Phase 2,83.0,cancer,66.0,All,8.433734939759036,112.0,498.0,0,20,6,0,0
+NCT00391053,Phase 3,3851.0,infectious diseases,9.0,All,0.5712801869644248,1571.0,4078.0,2044,0,1230,0,0
+NCT01003288,Not Applicable,255.0,healthy,3.0,All,0.0,0.0,196.0,196,0,0,0,0
+NCT01894919,Phase 3,851.0,infectious diseases,27.0,All,0.9400705052878966,0.0,2614.0,1550,93,48,229,0
+NCT00518180,Phase 3,1620.0,infectious diseases,9.0,All,13.333333333333334,12.0,7753.0,4310,234,822,0,0
+NCT00430521,Phase 2,512.0,infectious diseases,20.0,All,12.3046875,21.0,2518.0,0,39,305,0,476
+NCT00465816,Phase 3,611.0,infectious diseases,12.0,All,0.32733224222585927,6.0,1396.0,864,0,200,0,0
+NCT00485732,Phase 3,225.0,infectious diseases,9.0,Female,7.555555555555555,3.0,1054.0,9,0,116,0,204
+NCT02193347,Phase 1,24.0,cancer,48.0,All,0.0,47.0,440.0,25,1,10,0,5
+NCT01827839,Phase 3,96.0,infectious diseases,8.0,All,3.125,5.0,322.0,0,19,37,0,70
+NCT01827371,Phase 2,435.0,infectious diseases,22.0,All,12.413793103448276,5.0,2256.0,1322,0,46,0,0
+NCT01483378,Not Applicable,170.0,infectious diseases,0.0,All,0.0,0.0,11.0,11,0,0,0,0
+NCT01492582,Phase 2,1499.0,infectious diseases,79.0,All,8.872581721147432,18.0,493.0,236,32,84,0,0
+NCT01570036,Phase 2,275.0,cancer,65.0,Female,87.27272727272727,318.0,2710.0,213,60,123,1,88
+NCT04786444,Phase 3,409.0,infectious diseases,5.0,All,10.757946210268948,5.0,797.0,96,53,148,0,0
+NCT04109222,Phase 4,90.0,infectious diseases,2.0,All,1.1111111111111112,1.0,0.0,0,0,0,0,0
+NCT01447407,Phase 1,164.0,infectious diseases,6.0,All,3.048780487804878,0.0,329.0,92,0,45,0,0
+NCT02677493,Phase 3,1794.0,infectious diseases,3.0,All,0.8918617614269788,3.0,0.0,0,0,0,0,0
+NCT01636102,Phase 2,126.0,infectious diseases,0.0,All,0.0,0.0,85.0,51,0,15,0,0
+NCT01691326,Phase 4,60.0,infectious diseases,3.0,All,0.0,0.0,119.0,58,5,6,9,0
+NCT01669096,Phase 2,20.0,infectious diseases,3.0,All,0.0,1.0,109.0,1,8,13,0,18
+NCT00550745,Phase 4,11999.0,infectious diseases,16.0,All,1.2251020918409867,969.0,0.0,0,3,0,0,0
+NCT01152814,Phase 2,64.0,infectious diseases,0.0,All,3.125,0.0,8.0,0,0,2,0,0
+NCT00508742,Phase 3,1866.0,infectious diseases,44.0,All,7.770632368703108,4549.0,4561.0,43,1681,0,2,0
+NCT00398073,Phase 1,35.0,cancer,53.0,All,2.857142857142857,4.0,13.0,0,0,0,0,0
+NCT00397215,Phase 2,437.0,infectious diseases,34.0,All,7.322654462242563,57.0,568.0,0,0,69,0,153
+NCT01767467,Phase 3,568.0,infectious diseases,34.0,All,25.880281690140844,522.0,1368.0,0,208,180,0,267
+NCT01897402,Phase 2,525.0,infectious diseases,10.0,All,6.666666666666667,3.0,1088.0,550,0,86,0,0
+NCT01766921,Phase 2,1393.0,infectious diseases,6.0,All,2.9432878679109833,1016.0,3656.0,1054,4,852,0,0
+NCT01751165,Phase 3,354.0,infectious diseases,14.0,All,2.2598870056497176,38.0,1341.0,0,97,149,0,284
+NCT03617523,Phase 4,240.0,infectious diseases,2.0,All,0.0,0.0,303.0,126,7,42,12,0
+NCT00299728,Phase 1,22.0,cancer,6.0,All,13.636363636363635,0.0,191.0,91,12,8,0,0
+NCT01150123,Phase 1,678.0,infectious diseases,18.0,Female,5.604719764011799,390.0,3508.0,1355,51,678,0,0
+NCT03562377,Phase 2,215.0,inflammatory diseases,14.0,All,66.04651162790698,14.0,61.0,0,0,5,0,0
+NCT01148017,Phase 3,433.0,infectious diseases,33.0,All,26.32794457274827,0.0,396.0,228,0,15,47,0
+NCT00053482,Phase 2,357.0,infectious diseases,2.0,All,0.0,2.0,1412.0,549,0,0,0,0
+NCT05101486,Phase 3,755.0,infectious diseases,4.0,All,7.28476821192053,23.0,0.0,0,0,0,0,0
+NCT05083585,Phase 3,250.0,infectious diseases,5.0,All,3.2,5.0,5.0,0,0,0,0,0
+NCT05071313,Phase 3,777.0,infectious diseases,6.0,All,8.622908622908623,40.0,41.0,0,0,0,0,0
+NCT00082641,Phase 1/Phase 2,24.0,cancer,64.0,Female,0.0,8.0,30.0,0,1,0,0,1
+NCT02097849,Phase 2,71.0,autoimmune diseases,14.0,All,0.0,0.0,51.0,32,4,3,0,4
+NCT00521586,Phase 3,1116.0,infectious diseases,76.0,All,36.200716845878134,126.0,14378.0,366,49,20,0,5
+NCT00344032,Phase 3,354.0,infectious diseases,16.0,Female,6.779661016949152,6.0,944.0,0,99,143,0,242
+NCT01700621,Phase 4,482.0,infectious diseases,8.0,All,4.149377593360995,19.0,149.0,0,0,0,0,0
+NCT02451514,Phase 2,129.0,infectious diseases,4.0,All,0.0,0.0,620.0,263,18,70,0,0
+NCT02539108,Phase 4,60.0,infectious diseases,4.0,All,0.0,1.0,155.0,70,6,2,15,0
+NCT02542462,Phase 4,144.0,infectious diseases,18.0,All,0.6944444444444444,0.0,112.0,0,12,0,61,0
+NCT00342628,Phase 2,301.0,infectious diseases,21.0,All,19.93355481727575,2.0,0.0,0,0,0,0,0
+NCT01688921,Phase 4,1250.0,infectious diseases,5.0,All,2.48,6.0,4285.0,0,0,284,0,696
+NCT00121173,Phase 1/Phase 2,16.0,cancer,75.0,Female,6.25,0.0,15.0,4,0,1,0,0
+NCT01567865,Phase 4,818.0,infectious diseases,7.0,All,11.124694376528117,67.0,757.0,25,210,0,30,11
+NCT00604175,Phase 2,319.0,infectious diseases,47.0,Female,11.598746081504702,33.0,1097.0,13,49,41,0,0
+NCT00452790,Phase 3,708.0,infectious diseases,28.0,All,44.2090395480226,225.0,7776.0,298,393,0,1381,0
+NCT01553279,Phase 3,284.0,infectious diseases,18.0,All,6.338028169014084,248.0,1742.0,563,37,0,240,0
+NCT01529645,Phase 1,420.0,infectious diseases,4.0,All,3.0952380952380953,15.0,987.0,456,14,146,0,0
+NCT00339040,Phase 2,130.0,infectious diseases,34.0,All,11.538461538461538,70.0,572.0,15,24,8,0,0
+NCT00133575,Phase 1/Phase 2,72.0,infectious diseases,30.0,All,15.277777777777779,3.0,747.0,338,1,8,0,1
+NCT01519817,Phase 1,34.0,cancer,50.0,All,5.88235294117647,49.0,292.0,28,5,3,0,5
+NCT00289341,Phase 1/Phase 2,24.0,cancer,81.0,Male,0.0,4.0,133.0,0,0,0,0,0
+NCT00308061,Phase 1,40.0,infectious diseases,14.0,All,0.0,2.0,404.0,42,12,38,0,0
+NCT00463476,Phase 4,305.0,infectious diseases,3.0,All,1.639344262295082,113.0,226.0,0,68,0,0,0
+NCT02550197,Phase 3,300.0,infectious diseases,7.0,All,0.0,0.0,537.0,205,0,53,0,0
+NCT00309166,Phase 2,270.0,infectious diseases,14.0,Male,2.9629629629629632,4.0,853.0,0,58,122,0,198
+NCT00349713,Phase 1,60.0,infectious diseases,13.0,All,0.0,0.0,622.0,123,14,42,0,0
+NCT01551745,Phase 2,5.0,cancer,49.0,All,60.0,3.0,2.0,2,0,0,0,0
+NCT00389610,Phase 2,56.0,cancer,183.0,All,39.285714285714285,1.0,449.0,0,7,5,0,0
+NCT00439335,Phase 1/Phase 2,227.0,infectious diseases,11.0,All,0.881057268722467,4.0,3072.0,2126,0,23,0,0
+NCT00471081,Phase 2,385.0,infectious diseases,15.0,All,7.792207792207792,79.0,1072.0,0,86,0,196,104
+NCT01505647,Phase 3,498.0,infectious diseases,3.0,All,1.4056224899598393,18.0,609.0,609,0,0,0,0
+NCT01466387,Phase 3,552.0,infectious diseases,5.0,All,0.9057971014492754,2.0,120.0,34,0,40,0,0
+NCT00463437,Phase 3,1437.0,infectious diseases,9.0,All,1.9485038274182327,118.0,4204.0,0,444,0,708,749
+NCT00545025,Phase 2,243.0,infectious diseases,1.0,All,0.0,1.0,699.0,0,29,94,0,200
+NCT01579916,Phase 4,303.0,infectious diseases,6.0,All,3.3003300330033,3.0,28.0,0,0,0,0,0
+NCT00449670,Phase 3,1206.0,infectious diseases,3.0,All,1.5754560530679935,696.0,4483.0,1649,414,898,0,0
+NCT01542632,Phase 1,140.0,healthy,23.0,All,5.714285714285714,0.0,372.0,7,0,73,0,7
+NCT01444781,Phase 3,1106.0,infectious diseases,19.0,All,0.9041591320072333,38.0,3081.0,1060,304,0,523,0
+NCT01575197,Phase 4,456.0,infectious diseases,5.0,All,3.9473684210526314,8.0,366.0,0,17,0,0,0
+NCT00623181,Phase 2,110.0,infectious diseases,4.0,All,0.0,0.0,652.0,497,9,50,0,0
+NCT00674583,Phase 3,414.0,infectious diseases,3.0,All,0.0,8.0,631.0,0,23,0,0,152
+NCT01439165,Phase 4,1330.0,infectious diseases,49.0,All,1.7293233082706767,9.0,3035.0,1314,0,534,0,0
+NCT01446289,Phase 2,86.0,infectious diseases,19.0,Female,2.3255813953488373,69.0,176.0,56,1,18,0,0
+NCT01416571,Phase 2,78.0,infectious diseases,3.0,All,2.564102564102564,3.0,254.0,0,0,28,0,71
+NCT01430611,Phase 4,666.0,infectious diseases,12.0,All,4.804804804804805,3.0,682.0,266,85,47,0,0
+NCT00661557,Phase 2,271.0,infectious diseases,7.0,All,3.3210332103321036,1.0,460.0,0,49,70,0,111
+NCT01412801,Phase 2,270.0,infectious diseases,13.0,Female,9.62962962962963,600.0,1352.0,158,0,192,0,22
+NCT00707967,Phase 2,37.0,infectious diseases,11.0,All,0.0,2.0,207.0,2,2,27,0,32
+NCT03934541,Phase 1,24.0,infectious diseases,17.0,All,4.166666666666666,29.0,55.0,1,0,1,0,0
+NCT00325156,Phase 4,2590.0,infectious diseases,34.0,All,4.324324324324325,1605.0,7691.0,0,1484,0,1217,855
+NCT00310804,Phase 3,1200.0,infectious diseases,1.0,All,0.4166666666666667,44.0,695.0,200,0,111,0,0
+NCT02908269,Phase 4,180.0,infectious diseases,2.0,All,0.0,6.0,193.0,75,6,28,0,0
+NCT00197054,Phase 2,255.0,infectious diseases,14.0,All,19.607843137254903,108.0,1980.0,0,79,249,0,15
+NCT00196976,Phase 2,461.0,infectious diseases,11.0,All,4.3383947939262475,5.0,682.0,0,85,0,0,0
+NCT00474266,Phase 3,1000.0,infectious diseases,8.0,All,3.8,205.0,2549.0,0,0,0,485,276
+NCT00441012,Phase 3,546.0,infectious diseases,18.0,All,5.677655677655678,9.0,2473.0,1169,329,0,248,0
+NCT01080716,Phase 1/Phase 2,30.0,infectious diseases,4.0,All,3.3333333333333335,0.0,135.0,0,8,16,0,0
+NCT03632720,Phase 3,788.0,infectious diseases,50.0,All,4.060913705583756,647.0,6685.0,2315,562,0,752,0
+NCT00464672,Phase 3,1893.0,infectious diseases,3.0,All,2.641310089804543,18.0,2008.0,957,0,298,0,0
+NCT01119625,Phase 3,238.0,infectious diseases,7.0,All,2.941176470588235,16.0,803.0,0,131,0,118,131
+NCT00359619,Phase 2,383.0,infectious diseases,4.0,Female,9.138381201044385,27.0,0.0,0,0,1,0,0
+NCT00345579,Phase 3,4432.0,infectious diseases,13.0,All,5.1669675090252705,260.0,0.0,0,3,0,0,0
+NCT00427908,Phase 2,613.0,infectious diseases,9.0,All,1.794453507340946,34.0,1420.0,0,105,37,146,291
+NCT00329901,Phase 3,1072.0,infectious diseases,13.0,All,1.6791044776119404,3.0,2627.0,1300,56,380,0,0
+NCT00323115,Phase 2,11.0,cancer,23.0,All,81.81818181818183,0.0,1.0,0,0,0,0,0
+NCT00453986,Phase 3,1352.0,infectious diseases,7.0,All,1.4053254437869822,11.0,818.0,0,0,209,0,259
+NCT00422292,Phase 3,1664.0,infectious diseases,25.0,All,7.8125,72.0,657.0,0,74,0,0,0
+NCT00325143,Phase 3,702.0,infectious diseases,38.0,All,3.7037037037037033,319.0,2378.0,0,426,0,381,301
+NCT02756208,Phase 1,65.0,infectious diseases,32.0,All,20.0,5.0,117.0,20,0,11,0,0
+NCT00392808,Phase 4,389.0,infectious diseases,16.0,All,3.8560411311053984,14.0,16.0,0,8,0,0,0
+NCT03546192,Phase 4,120.0,infectious diseases,1.0,All,0.0,0.0,64.0,33,0,11,0,0
+NCT00414050,Phase 3,1718.0,infectious diseases,12.0,All,1.8044237485448196,607.0,2484.0,1120,458,0,421,0
+NCT02580201,Phase 4,154.0,infectious diseases,8.0,All,0.0,0.0,60.0,0,12,0,6,0
+NCT01427309,Phase 4,31989.0,infectious diseases,20.0,All,4.739129075619744,3433.0,0.0,0,3,2,0,0
+NCT00290355,Phase 2,182.0,cancer,111.0,All,12.087912087912088,132.0,1211.0,1,53,106,0,152
+NCT00287469,Phase 2,2000.0,infectious diseases,30.0,All,21.7,877.0,976.0,1,301,162,0,11
+NCT00791037,Phase 1/Phase 2,23.0,cancer,57.0,All,0.0,1.0,319.0,17,5,0,0,0
+NCT01198756,Phase 3,3109.0,infectious diseases,9.0,All,4.3100675458346736,34.0,5954.0,0,69,498,292,1865
+NCT00360230,Phase 2,540.0,infectious diseases,12.0,All,4.62962962962963,1150.0,2633.0,0,352,0,275,357
+NCT00258856,Phase 2,234.0,infectious diseases,14.0,All,2.564102564102564,0.0,98.0,0,9,9,0,0
+NCT00258154,Phase 3,403.0,infectious diseases,9.0,All,3.970223325062035,440.0,717.0,0,444,0,11,6
+NCT00831675,Phase 4,30.0,infectious diseases,19.0,All,0.0,0.0,74.0,0,8,0,1,0
+NCT00831753,Phase 3,263.0,infectious diseases,12.0,All,0.0,5.0,1656.0,465,91,0,198,0
+NCT00831987,Phase 4,120.0,infectious diseases,18.0,All,0.0,1.0,226.0,100,0,44,0,0
+NCT03579459,Phase 3,1317.0,infectious diseases,12.0,All,7.517084282460136,137.0,2176.0,655,14,0,0,0
+NCT00398138,Phase 1,22.0,cancer,32.0,All,9.090909090909092,4.0,37.0,0,0,0,0,0
+NCT04449276,Phase 1,280.0,infectious diseases,18.0,All,6.071428571428571,17.0,332.0,8,5,44,0,0
+NCT00637195,Phase 3,152.0,infectious diseases,3.0,Female,2.631578947368421,5.0,665.0,212,0,116,0,0
+NCT00985465,Phase 3,218.0,infectious diseases,7.0,All,1.834862385321101,0.0,474.0,15,68,0,14,65
+NCT00985153,Phase 3,3927.0,infectious diseases,14.0,All,4.329004329004329,2973.0,9265.0,2577,2900,0,411,0
+NCT00980005,Phase 3,2116.0,infectious diseases,4.0,All,5.198487712665406,24.0,3377.0,0,122,272,173,1199
+NCT00366678,Phase 3,613.0,infectious diseases,25.0,All,9.29853181076672,329.0,8192.0,44,519,0,869,0
+NCT00373958,Phase 3,666.0,infectious diseases,21.0,All,22.52252252252252,884.0,10232.0,21,580,1,1687,0
+NCT00347958,Phase 4,545.0,infectious diseases,18.0,All,0.7339449541284404,7.0,1700.0,764,35,287,0,0
+NCT00390884,Phase 4,173.0,infectious diseases,8.0,All,2.312138728323699,1.0,290.0,0,30,0,0,0
+NCT00239577,Phase 2,86.0,infectious diseases,14.0,All,12.790697674418606,4.0,326.0,0,17,42,0,22
+NCT00262041,Phase 2,524.0,infectious diseases,17.0,All,2.2900763358778624,15.0,1027.0,495,0,204,0,0
+NCT00365378,Phase 2,2409.0,infectious diseases,54.0,Female,38.81278538812785,1235.0,4851.0,3125,0,1990,0,0
+NCT00369824,Phase 3,1330.0,infectious diseases,14.0,Female,6.7669172932330826,25.0,5621.0,171,174,810,0,1202
+NCT00630331,Phase 3,11404.0,infectious diseases,9.0,All,4.910557699052964,1859.0,10306.0,4868,0,3446,0,0
+NCT00368966,Phase 3,619.0,infectious diseases,21.0,All,6.623586429725363,696.0,7427.0,2,749,0,1041,0
+NCT00337428,Phase 3,843.0,cancer,12.0,All,0.8303677342823249,6.0,3288.0,2204,105,244,0,0
+NCT00972309,Phase 1,41.0,cancer,69.0,Male,60.97560975609756,2.0,142.0,40,0,0,0,0
+NCT00944073,Phase 2,583.0,infectious diseases,8.0,All,1.5437392795883362,7.0,1739.0,587,30,105,103,0
+NCT00988559,Phase 1,132.0,infectious diseases,83.0,Female,4.545454545454546,0.0,59.0,15,31,0,0,0
+NCT00323622,Phase 2,1737.0,infectious diseases,25.0,All,15.659182498560737,202.0,0.0,0,0,0,0,0
+NCT00970203,Phase 2,13.0,cancer,109.0,Male,0.0,0.0,91.0,3,0,1,0,0
+NCT00981669,Phase 1,80.0,infectious diseases,12.0,Male,1.25,0.0,19.0,0,0,5,0,0
+NCT00988143,Phase 2,600.0,infectious diseases,2.0,All,0.0,2.0,642.0,277,2,124,1,0
+NCT00992433,Phase 2,192.0,infectious diseases,12.0,All,5.729166666666666,13.0,460.0,128,0,62,0,0
+NCT01023711,Not Applicable,107.0,infectious diseases,12.0,All,0.0,0.0,14.0,0,0,0,0,0
+NCT02963714,Phase 4,352.0,infectious diseases,7.0,All,28.40909090909091,0.0,16.0,0,0,0,0,16
+NCT00319098,Phase 3,5075.0,infectious diseases,8.0,All,3.2906403940886704,65.0,19021.0,0,537,2049,0,4095
+NCT00985751,Phase 2,257.0,infectious diseases,10.0,All,0.38910505836575876,62.0,1571.0,0,1,0,0,0
+NCT00985673,Phase 2,611.0,infectious diseases,2.0,All,9.165302782324058,15.0,2200.0,0,0,328,0,488
+NCT01547715,Phase 3,180.0,infectious diseases,25.0,All,0.0,2.0,104.0,54,2,28,0,0
+NCT01556451,Phase 4,180.0,infectious diseases,6.0,All,0.0,3.0,199.0,199,0,0,0,0
+NCT01509105,Not Applicable,649.0,healthy,52.0,All,0.0,49.0,261.0,10,40,0,0,0
+NCT00326118,Phase 3,433.0,infectious diseases,17.0,All,1.1547344110854503,100.0,1418.0,17,208,0,232,133
+NCT00091273,Phase 1,9.0,cancer,20.0,Female,0.0,0.0,81.0,9,1,0,0,0
+NCT01654263,Phase 2,884.0,infectious diseases,34.0,All,0.5656108597285068,27.0,2310.0,1500,0,150,0,0
+NCT00053495,Phase 2,353.0,infectious diseases,5.0,All,0.0,3.0,2111.0,775,0,0,0,0
+NCT01666782,Phase 2,105.0,infectious diseases,34.0,All,4.761904761904762,0.0,198.0,43,5,32,0,0
+NCT01439360,Phase 3,12046.0,infectious diseases,37.0,All,3.3704134152415737,5242.0,18387.0,0,3662,0,2813,2727
+NCT01193907,Phase 2,88.0,infectious diseases,1.0,All,2.272727272727273,0.0,244.0,82,0,44,0,0
+NCT01299480,Phase 2,1714.0,infectious diseases,14.0,All,9.509918319719954,178.0,611.0,20,42,100,0,0
+NCT00084383,Phase 2,60.0,cancer,47.0,All,78.33333333333333,2.0,329.0,0,11,5,0,0
+NCT00258817,Phase 4,30.0,infectious diseases,5.0,All,0.0,0.0,57.0,8,11,0,9,0
+NCT01141491,Phase 2,136.0,cancer,39.0,All,69.85294117647058,12.0,1.0,0,0,0,0,0
+NCT00267085,Phase 2,11.0,cancer,31.0,All,0.0,5.0,45.0,10,1,0,0,0
+NCT02581410,Phase 3,430.0,infectious diseases,8.0,All,4.883720930232558,153.0,1424.0,0,68,169,0,370
+NCT00128219,Phase 2,667.0,infectious diseases,66.0,Female,20.98950524737631,103.0,2559.0,568,65,328,0,0
+NCT00366548,Phase 3,500.0,infectious diseases,19.0,All,3.2,490.0,6154.0,3,347,0,924,0
+NCT00283283,Phase 2,1316.0,infectious diseases,0.0,All,0.0,3.0,37.0,19,1,0,0,0
+NCT02263131,Phase 3,416.0,healthy,3.0,All,2.644230769230769,9.0,422.0,0,0,0,0,145
+NCT00290147,Phase 1,22.0,infectious diseases,11.0,All,0.0,1.0,249.0,0,1,18,0,0
+NCT01857297,Phase 4,120.0,infectious diseases,1.0,All,0.0,0.0,103.0,43,4,21,0,0
+NCT00304265,Phase 4,215.0,infectious diseases,7.0,All,0.0,0.0,599.0,263,20,90,0,0
+NCT00322231,Phase 3,101.0,infectious diseases,14.0,All,0.0,0.0,106.0,106,0,0,0,0
+NCT01432262,Phase 3,324.0,infectious diseases,5.0,All,0.9259259259259258,3.0,1941.0,437,32,1,0,0
+NCT00551031,Phase 2,2098.0,infectious diseases,8.0,All,0.905624404194471,135.0,4841.0,3621,64,353,0,1
+NCT00492557,Phase 3,1185.0,infectious diseases,5.0,All,3.9662447257383966,36.0,5180.0,9,92,520,0,0
+NCT00378560,Phase 2,1021.0,infectious diseases,39.0,Female,11.165523996082271,126.0,1997.0,1227,67,112,0,0
+NCT00389857,Phase 4,31.0,infectious diseases,11.0,All,0.0,0.0,71.0,15,4,3,10,0
+NCT00441259,Phase 2,96.0,infectious diseases,49.0,All,0.0,0.0,11.0,0,0,0,0,0
+NCT00460525,Phase 2,400.0,infectious diseases,26.0,All,4.0,299.0,3572.0,606,580,55,18,0
+NCT00490529,Phase 2,59.0,cancer,100.0,All,20.33898305084746,35.0,344.0,107,29,0,0,0
+NCT00312858,Phase 4,653.0,infectious diseases,23.0,All,24.655436447166924,18.0,1068.0,349,179,2,41,1
+NCT00411749,Phase 2,107.0,infectious diseases,33.0,Female,0.0,2.0,246.0,186,5,10,0,0
+NCT00534833,Phase 3,362.0,infectious diseases,12.0,All,0.0,21.0,952.0,418,86,0,109,0
+NCT00344318,Phase 3,806.0,infectious diseases,8.0,All,1.6129032258064515,1164.0,4425.0,0,1371,0,722,515
+NCT00538213,Phase 2,133.0,infectious diseases,0.0,All,0.0,0.0,268.0,3,0,29,0,86
+NCT00325130,Phase 3,1042.0,cancer,12.0,All,4.702495201535509,2.0,3705.0,3269,95,0,0,0
+NCT00500357,Phase 3,105.0,infectious diseases,26.0,All,0.9523809523809524,50.0,909.0,185,19,88,0,0
+NCT03190265,Phase 2,61.0,cancer,56.0,All,68.85245901639344,301.0,947.0,0,88,26,0,10
+NCT03008122,Phase 1,91.0,infectious diseases,53.0,All,29.67032967032967,6.0,100.0,0,3,13,0,0
+NCT00307034,Phase 3,351.0,infectious diseases,12.0,All,2.564102564102564,33.0,3194.0,0,398,0,0,0
+NCT05045144,Phase 3,1586.0,infectious diseases,7.0,Female,1.7654476670870116,19.0,3997.0,31,34,749,1,6
+NCT00319592,Phase 2,60.0,infectious diseases,16.0,All,3.3333333333333335,0.0,253.0,53,0,29,0,0
+NCT04657198,Phase 2,126.0,infectious diseases,5.0,All,0.7936507936507936,4.0,144.0,89,6,6,0,0
+NCT01422200,Phase 4,22.0,congenital disorders,4.0,All,0.0,0.0,19.0,0,0,1,1,0
+NCT01193920,Phase 1/Phase 2,380.0,infectious diseases,14.0,Female,11.842105263157894,640.0,2006.0,395,38,193,0,17
+NCT02993757,Phase 3,528.0,infectious diseases,30.0,All,64.77272727272727,21.0,1767.0,556,95,273,0,0
+NCT02979535,Phase 3,480.0,infectious diseases,28.0,Female,40.833333333333336,6.0,1793.0,691,62,215,0,0
+NCT02824198,Phase 2,118.0,infectious diseases,8.0,All,15.254237288135593,5.0,131.0,36,0,27,0,0
+NCT02628444,Phase 2,1050.0,infectious diseases,48.0,All,65.52380952380953,494.0,1865.0,373,87,852,0,0
+NCT02623725,Phase 2,251.0,infectious diseases,7.0,All,8.764940239043826,24.0,400.0,58,21,110,0,0
+NCT02587520,Phase 1/Phase 2,1363.0,infectious diseases,16.0,All,2.494497432134996,19.0,2804.0,846,0,309,0,0
+NCT00304096,Phase 1,12.0,cancer,18.0,All,0.0,1.0,2.0,0,1,0,0,0
+NCT01943825,Phase 2,90.0,infectious diseases,25.0,All,44.44444444444444,4.0,382.0,58,9,48,0,0
+NCT00474539,Phase 3,449.0,infectious diseases,20.0,All,4.67706013363029,248.0,24864.0,1,4276,0,1514,0
+NCT01436396,Phase 3,792.0,infectious diseases,25.0,All,9.343434343434344,290.0,3343.0,2680,1,0,0,0
+NCT00607243,Phase 2/Phase 3,123.0,infectious diseases,5.0,All,5.691056910569105,0.0,152.0,0,0,17,0,0
+NCT01411241,Phase 3,720.0,infectious diseases,31.0,All,4.583333333333333,209.0,2086.0,1489,1,0,0,0
+NCT01187433,Phase 2,150.0,infectious diseases,26.0,All,10.0,26.0,493.0,356,0,0,0,0
+NCT00316706,Phase 3,1245.0,infectious diseases,39.0,Female,6.907630522088354,43.0,0.0,0,1,0,0,0
+NCT00993447,Phase 2,600.0,infectious diseases,23.0,All,9.333333333333334,28.0,1887.0,404,126,398,0,0
+NCT00880893,Phase 2,1198.0,infectious diseases,67.0,All,12.687813021702837,166.0,2940.0,2725,3,0,0,0
+NCT00510497,Phase 1/Phase 2,11.0,infectious diseases,62.0,All,27.27272727272727,0.0,2.0,2,0,0,0,0
+NCT00514709,Phase 3,1843.0,infectious diseases,15.0,All,0.0,3.0,2597.0,1366,207,0,338,0
+NCT00314132,Phase 3,2004.0,infectious diseases,13.0,All,1.2974051896207583,7.0,3609.0,235,1,721,0,0
+NCT05310084,Phase 3,1134.0,infectious diseases,5.0,All,1.6754850088183422,12.0,3963.0,1282,32,784,0,0
+NCT00264576,Phase 2,613.0,infectious diseases,2.0,All,0.3262642740619902,8.0,1523.0,519,0,230,0,0
+NCT00464945,Phase 3,269.0,infectious diseases,15.0,All,2.973977695167286,170.0,3130.0,0,183,0,473,0
+NCT00726739,Phase 2,21.0,cancer,36.0,All,4.761904761904762,8.0,65.0,1,1,0,0,0
+NCT00090220,Phase 3,3819.0,infectious diseases,60.0,Female,15.187221785807804,75.0,5342.0,3643,451,1049,0,0
+NCT00461981,Phase 2,101.0,infectious diseases,7.0,All,19.801980198019802,0.0,87.0,0,15,0,3,0
+NCT00249769,Phase 3,600.0,infectious diseases,6.0,All,7.5,42.0,182.0,0,1,0,0,0
+NCT00248833,Phase 1,34.0,infectious diseases,12.0,All,23.52941176470588,0.0,241.0,0,1,11,0,34
+NCT02290509,Phase 3,1350.0,infectious diseases,7.0,All,4.666666666666667,14.0,87.0,0,0,25,0,0
+NCT01488188,Phase 1,40.0,healthy,17.0,All,0.0,0.0,13.0,0,2,3,0,0
+NCT00643097,Phase 2,40.0,cancer,52.0,All,0.0,28.0,280.0,4,4,13,0,1
+NCT00450437,Phase 3,3539.0,infectious diseases,5.0,All,2.740887256287087,35.0,5265.0,2482,0,980,0,0
+NCT02959775,Phase 4,480.0,infectious diseases,9.0,Male,18.75,0.0,36.0,0,0,0,0,19
+NCT01959945,Phase 3,219.0,infectious diseases,7.0,All,19.17808219178082,1.0,50.0,11,0,4,0,0
+NCT02991599,Phase 4,196.0,infectious diseases,9.0,All,38.265306122448976,0.0,26.0,0,0,0,0,9
+NCT00766753,Phase 1/Phase 2,22.0,cancer,33.0,All,0.0,19.0,164.0,13,9,0,0,0
+NCT01339923,Phase 3,1409.0,infectious diseases,33.0,All,4.9680624556423,4740.0,19150.0,6340,3328,194,1428,0
+NCT02153671,Phase 2,43.0,infectious diseases,4.0,All,0.0,0.0,89.0,0,0,1,0,0
+NCT01379937,Phase 3,520.0,infectious diseases,12.0,All,1.3461538461538463,7.0,1396.0,0,1,159,0,382
+NCT04084769,Phase 3,570.0,infectious diseases,12.0,All,1.7543859649122806,7.0,1054.0,387,0,212,0,0
+NCT00857545,Phase 2,171.0,cancer,62.0,Female,0.0,101.0,1243.0,140,38,22,1,14
+NCT00836407,Phase 1,30.0,cancer,41.0,All,63.33333333333333,10.0,137.0,0,8,3,0,0
+NCT01346592,Phase 3,6104.0,infectious diseases,15.0,All,5.242463958060288,2134.0,10731.0,2770,1353,374,0,0
+NCT01193335,Phase 4,200.0,infectious diseases,39.0,All,19.5,224.0,6113.0,2,360,0,8,0
+NCT01049035,Phase 2,580.0,infectious diseases,26.0,All,21.20689655172414,212.0,3523.0,967,218,0,463,0
+NCT03321968,Phase 3,1202.0,infectious diseases,2.0,All,0.6655574043261231,1.0,458.0,10,3,47,1,2
+NCT01042535,Phase 1/Phase 2,44.0,cancer,59.0,All,18.181818181818183,122.0,313.0,0,8,8,0,6
+NCT00956761,Phase 2,63.0,infectious diseases,0.0,All,0.0,0.0,3.0,3,0,0,0,0
+NCT00950833,Phase 3,466.0,infectious diseases,13.0,All,0.0,0.0,1222.0,0,50,0,157,309
+NCT02964910,Phase 4,475.0,infectious diseases,12.0,All,18.31578947368421,8.0,34.0,0,34,0,0,0
+NCT00963157,Phase 2,789.0,infectious diseases,15.0,All,2.915082382762991,49.0,3110.0,1126,24,274,0,0
+NCT00971737,Phase 2,63.0,cancer,81.0,All,0.0,0.0,623.0,0,22,26,0,0
+NCT03158038,Phase 4,300.0,infectious diseases,6.0,All,0.0,1.0,24.0,0,0,0,0,0
+NCT00992719,Phase 2,84.0,infectious diseases,15.0,Female,2.380952380952381,23.0,166.0,33,0,24,0,0
+NCT00633074,Phase 2,720.0,infectious diseases,1.0,All,0.1388888888888889,4.0,2181.0,105,72,216,0,483
+NCT00985790,Phase 2,599.0,infectious diseases,7.0,All,2.5041736227045077,2.0,1176.0,0,0,0,177,241
+NCT00985166,Phase 3,801.0,infectious diseases,21.0,All,2.4968789013732833,1.0,1504.0,726,80,44,16,0
+NCT04142242,Phase 3,471.0,infectious diseases,6.0,All,4.670912951167728,4.0,269.0,88,0,58,0,0
+NCT00943631,Phase 2,406.0,infectious diseases,7.0,All,1.477832512315271,14.0,888.0,327,0,116,0,0
+NCT02865135,Phase 1/Phase 2,11.0,cancer,30.0,All,100.0,12.0,131.0,1,6,0,0,3
+NCT01173211,Phase 2,183.0,infectious diseases,14.0,Female,2.73224043715847,72.0,447.0,40,3,56,0,0
+NCT01181323,Phase 2,240.0,infectious diseases,20.0,Female,3.3333333333333335,4.0,1338.0,139,54,101,143,0
+NCT00972725,Phase 2,28.0,infectious diseases,10.0,All,0.0,0.0,153.0,2,0,26,0,27
+NCT00101166,Phase 2,43.0,cancer,65.0,All,23.25581395348837,0.0,14.0,0,0,0,0,0
+NCT03890367,Phase 3,707.0,infectious diseases,13.0,All,1.5558698727015559,6.0,1968.0,644,126,0,309,0
+NCT01755689,Phase 3,1300.0,infectious diseases,15.0,Female,2.0,25.0,3615.0,0,156,479,0,1103
+NCT00282308,Phase 2,103.0,autoimmune diseases,24.0,All,33.980582524271846,32.0,232.0,0,0,12,0,0
+NCT00262002,Phase 2,601.0,infectious diseases,10.0,All,6.988352745424292,464.0,3533.0,1055,119,0,519,0
+NCT01365494,Phase 4,250.0,infectious diseases,4.0,All,2.0,0.0,11.0,11,0,0,0,0
+NCT01342796,Phase 2,84.0,infectious diseases,9.0,All,7.142857142857142,2.0,194.0,41,34,0,0,0
+NCT00085436,Phase 2,18.0,cancer,71.0,All,0.0,20.0,0.0,0,0,0,0,0
+NCT01326546,Phase 2,378.0,infectious diseases,43.0,All,7.936507936507936,1.0,98.0,0,0,0,0,0
+NCT01171963,Phase 3,3340.0,infectious diseases,20.0,All,9.461077844311378,1140.0,4527.0,0,840,0,0,23
+NCT01412281,Phase 3,440.0,infectious diseases,2.0,All,0.0,1.0,245.0,156,8,21,0,0
+NCT00118274,Phase 1/Phase 2,170.0,cancer,59.0,All,43.529411764705884,0.0,1756.0,164,71,0,0,0
+NCT00258830,Phase 4,120.0,infectious diseases,5.0,All,0.0,0.0,24.0,0,0,12,0,0
+NCT01035749,Phase 2,310.0,infectious diseases,7.0,All,0.0,10.0,1336.0,0,25,0,0,0
+NCT00258908,Phase 3,115.0,infectious diseases,9.0,All,0.0,0.0,10.0,0,0,0,0,0
+NCT01777295,Phase 2,81.0,infectious diseases,39.0,All,8.641975308641975,1.0,37.0,0,0,7,0,0
+NCT02425098,Phase 2,351.0,infectious diseases,27.0,All,8.262108262108262,8.0,128.0,12,0,6,0,0
+NCT04379713,Phase 3,1511.0,infectious diseases,27.0,All,9.927200529450694,78.0,6038.0,2145,499,0,0,0
+NCT00129129,Phase 2,756.0,infectious diseases,13.0,All,8.465608465608465,327.0,7472.0,0,703,0,1470,938
+NCT00128661,Phase 3,7466.0,cancer,79.0,Female,7.125636217519421,13189.0,23341.0,0,1935,5986,0,3513
+NCT00436046,Phase 1,95.0,infectious diseases,1.0,All,0.0,0.0,277.0,0,0,43,0,0
+NCT00445484,Phase 2,22.0,cancer,27.0,All,22.727272727272727,1.0,8.0,0,0,0,0,0
+NCT01323972,Phase 3,327.0,infectious diseases,6.0,All,2.4464831804281344,239.0,868.0,0,178,0,35,89
+NCT00561002,Phase 4,34.0,infectious diseases,7.0,All,0.0,0.0,84.0,22,8,0,15,0
+NCT01591837,Phase 4,120.0,infectious diseases,1.0,All,0.0,0.0,109.0,0,0,20,0,31
+NCT01090453,Phase 2,480.0,infectious diseases,17.0,All,5.625,65.0,2653.0,0,0,0,415,336
+NCT00006184,Phase 2,20.0,cancer,84.0,All,5.0,138.0,436.0,20,10,4,0,0
+NCT00440297,Phase 3,277.0,infectious diseases,17.0,All,14.801444043321299,36.0,235.0,126,10,16,0,0
+NCT00596102,Not Applicable,3258.0,infectious diseases,65.0,All,96.86924493554328,75.0,404.0,0,0,54,0,0
+NCT01113580,Phase 4,120.0,infectious diseases,0.0,All,0.8333333333333334,0.0,48.0,0,0,16,0,0
+NCT00601796,Phase 2,24.0,cancer,68.0,All,0.0,88.0,223.0,8,2,0,0,19
+NCT01073293,Phase 3,1054.0,infectious diseases,14.0,All,1.5180265654648957,16.0,2728.0,1987,160,307,0,0
+NCT00706550,Not Applicable,107.0,infectious diseases,35.0,All,32.71028037383177,23.0,4.0,0,0,0,0,0
+NCT00127803,Phase 1,50.0,infectious diseases,6.0,All,8.0,0.0,288.0,99,1,11,0,0
+NCT00262028,Phase 2,910.0,infectious diseases,19.0,All,18.461538461538463,120.0,1442.0,551,57,60,210,0
+NCT01264601,Not Applicable,31.0,allergy,19.0,All,0.0,0.0,3.0,0,0,0,0,0
+NCT00169442,Phase 3,745.0,infectious diseases,12.0,All,0.6711409395973155,1.0,3104.0,0,508,0,0,0
+NCT01106092,Phase 2,312.0,infectious diseases,3.0,All,0.3205128205128205,8.0,1429.0,0,239,0,235,266
+NCT03554798,Phase 2,1025.0,infectious diseases,14.0,All,2.1463414634146343,118.0,1934.0,0,124,0,158,0
+NCT00840801,Phase 3,302.0,infectious diseases,15.0,All,1.6556291390728477,96.0,1062.0,228,79,34,0,0
+NCT01027351,Phase 2,163.0,infectious diseases,8.0,All,14.11042944785276,13.0,950.0,471,22,20,107,1
+NCT01430819,Phase 4,300.0,infectious diseases,5.0,All,0.0,1.0,314.0,149,0,51,0,0
+NCT00427895,Phase 3,2141.0,infectious diseases,53.0,All,71.22839794488557,79.0,13580.0,26,111,1070,0,3
+NCT00231816,Phase 3,763.0,infectious diseases,6.0,All,3.669724770642202,18.0,1039.0,1003,0,0,0,0
+NCT01266993,Phase 3,271.0,infectious diseases,39.0,All,2.5830258302583027,0.0,460.0,0,25,53,0,148
+NCT01011049,Phase 2,1250.0,infectious diseases,8.0,All,0.5599999999999999,22.0,4101.0,2974,52,358,0,0
+NCT01578317,Phase 1/Phase 2,43.0,infectious diseases,47.0,All,2.3255813953488373,0.0,78.0,10,7,6,0,0
+NCT01045460,Phase 2,36.0,cancer,60.0,All,25.0,0.0,36.0,14,1,0,0,0
+NCT02492958,Phase 2,136.0,infectious diseases,15.0,All,2.2058823529411766,12.0,94.0,29,5,13,0,0
+NCT02461758,Phase 4,81.0,inflammatory diseases,20.0,All,2.4691358024691357,0.0,101.0,0,1,14,0,0
+NCT02459262,Phase 1,240.0,infectious diseases,22.0,Female,0.4166666666666667,1.0,327.0,132,0,53,0,0
+NCT01640327,Phase 3,126.0,infectious diseases,1.0,All,0.0,0.0,170.0,64,0,20,0,0
+NCT01691339,Phase 4,200.0,infectious diseases,2.0,All,0.0,2.0,232.0,98,0,40,0,0
+NCT00943202,Phase 2,531.0,infectious diseases,9.0,All,0.7532956685499058,6.0,2399.0,931,67,127,82,0
+NCT00950612,Phase 2,60.0,infectious diseases,9.0,All,0.0,0.0,234.0,0,0,33,0,45
+NCT04648241,Phase 3,165.0,infectious diseases,13.0,All,0.6060606060606061,3.0,355.0,134,16,0,0,0
+NCT01686503,Phase 2,231.0,infectious diseases,11.0,All,3.0303030303030303,1.0,118.0,110,0,0,0,0
+NCT01023776,Phase 4,20.0,infectious diseases,5.0,All,0.0,0.0,25.0,0,0,0,0,0
+NCT00989612,Phase 2,100.0,infectious diseases,6.0,All,0.0,3.0,420.0,0,10,53,0,99
+NCT01030822,Phase 3,282.0,infectious diseases,16.0,All,28.723404255319153,4.0,307.0,0,55,0,40,82
+NCT02474901,Phase 2,101.0,infectious diseases,32.0,All,0.9900990099009901,1.0,140.0,0,0,16,0,0
+NCT02434770,Phase 3,750.0,infectious diseases,9.0,All,10.133333333333333,261.0,1645.0,12,34,0,1,0
+NCT01262976,Phase 2,240.0,infectious diseases,18.0,All,51.24999999999999,7.0,405.0,0,31,37,0,58
+NCT03917654,Phase 2,1301.0,infectious diseases,27.0,All,11.068408916218294,792.0,4602.0,651,176,394,0,0
+NCT01797029,Phase 3,1761.0,infectious diseases,19.0,All,12.49290176036343,61.0,103.0,0,0,0,0,0
+NCT04674189,Phase 3,2357.0,infectious diseases,17.0,All,31.014000848536277,31.0,7989.0,1025,500,1151,0,155
+NCT02690181,Phase 2,80.0,infectious diseases,7.0,Female,0.0,0.0,226.0,97,0,25,0,0
+NCT04368429,Phase 3,360.0,infectious diseases,5.0,All,0.2777777777777778,0.0,334.0,182,0,53,0,0
+NCT00134082,Phase 1/Phase 2,31.0,cancer,87.0,All,9.67741935483871,18.0,153.0,30,3,12,0,0
+NCT01231503,Phase 2,480.0,infectious diseases,40.0,All,18.333333333333332,219.0,665.0,0,125,0,22,44
+NCT00129116,Phase 2,388.0,infectious diseases,9.0,All,3.0927835051546393,96.0,1852.0,0,218,0,312,141
+NCT04537234,Phase 3,165.0,infectious diseases,3.0,All,1.2121212121212122,0.0,164.0,102,0,14,0,0
+NCT01223235,Not Applicable,22.0,cancer,84.0,Female,4.545454545454546,14.0,26.0,8,10,1,0,0
+NCT00130832,Phase 3,735.0,infectious diseases,9.0,All,4.489795918367347,438.0,2009.0,37,812,6,57,9
+NCT01018732,Phase 2,155.0,infectious diseases,6.0,All,4.516129032258064,0.0,349.0,138,0,69,0,0
+NCT00992017,Phase 2,130.0,infectious diseases,13.0,Female,7.6923076923076925,45.0,433.0,0,8,31,0,0
+NCT00984295,Phase 3,1913.0,infectious diseases,16.0,All,7.004704652378463,777.0,7996.0,4277,1148,0,228,17
+NCT04024228,Phase 3,1539.0,infectious diseases,2.0,All,0.649772579597141,40.0,2233.0,1151,0,339,0,0
+NCT04546425,Phase 3,1258.0,infectious diseases,19.0,All,2.7821939586645468,90.0,5229.0,1892,432,0,0,0
+NCT00404651,Phase 3,1189.0,infectious diseases,17.0,All,11.185870479394449,29.0,3657.0,1392,277,0,662,0
+NCT00092456,Phase 3,793.0,infectious diseases,15.0,All,10.970996216897856,586.0,2786.0,94,408,0,147,0
+NCT00401531,Phase 3,412.0,infectious diseases,13.0,All,4.611650485436893,36.0,1852.0,583,177,0,256,0
+NCT00391391,Phase 2,520.0,infectious diseases,5.0,All,11.73076923076923,16.0,1949.0,828,57,47,76,0
+NCT00388583,Phase 2,817.0,infectious diseases,9.0,All,1.2239902080783354,75.0,1522.0,1130,0,0,0,0
+NCT00384059,Phase 3,286.0,infectious diseases,24.0,All,12.587412587412588,115.0,3248.0,10,67,0,513,0
+NCT00380393,Phase 2,894.0,infectious diseases,19.0,All,22.595078299776286,1391.0,1839.0,0,788,0,64,273
+NCT03567382,Phase 4,179.0,infectious diseases,17.0,All,40.78212290502793,0.0,2.0,0,0,0,0,0
+NCT00094653,Phase 3,1783.0,cancer,59.0,All,31.015143017386425,3114.0,3315.0,378,244,208,0,96
+NCT03583606,Phase 1,61.0,infectious diseases,14.0,All,3.278688524590164,0.0,511.0,4,32,38,0,0
+NCT01204671,Phase 3,4659.0,infectious diseases,8.0,All,1.2663661729984974,849.0,4631.0,0,0,1450,0,1655
+NCT02212106,Phase 4,402.0,infectious diseases,3.0,All,3.482587064676617,1.0,798.0,0,33,66,0,244
+NCT02222870,Phase 4,60.0,infectious diseases,4.0,All,0.0,1.0,187.0,98,11,3,16,0
+NCT00972517,Phase 3,245.0,infectious diseases,13.0,All,2.0408163265306123,8.0,1030.0,0,77,85,18,185
+NCT00971425,Phase 3,145.0,infectious diseases,2.0,All,2.0689655172413794,33.0,470.0,0,0,62,0,121
+NCT02013245,Phase 1,36.0,infectious diseases,17.0,All,2.7777777777777777,0.0,158.0,21,9,15,0,0
+NCT01981967,Phase 4,10000.0,infectious diseases,17.0,All,0.0,287.0,0.0,0,4,0,0,0
+NCT01352793,Phase 3,5715.0,infectious diseases,22.0,All,14.52318460192476,822.0,4175.0,1109,281,704,0,0
+NCT03278067,Not Applicable,23939.0,infectious diseases,2.0,All,0.0,38.0,3919.0,0,83,300,45,0
+NCT01854632,Phase 3,1761.0,infectious diseases,7.0,All,2.2146507666098807,14.0,89.0,0,0,0,0,0
+NCT02305446,Phase 3,55.0,infectious diseases,4.0,All,1.8181818181818181,1.0,0.0,0,0,0,0,0
+NCT03701061,Phase 4,12.0,infectious diseases,4.0,All,0.0,0.0,1.0,0,0,1,0,0
+NCT02648282,Phase 2,58.0,cancer,71.0,All,0.0,9.0,264.0,0,3,0,0,0
+NCT03481816,Phase 1,18.0,cancer,18.0,Male,72.22222222222221,7.0,87.0,17,1,1,0,3
+NCT03814590,Phase 1/Phase 2,1053.0,infectious diseases,10.0,All,3.133903133903134,159.0,2495.0,638,32,276,0,2
+NCT00968539,Phase 3,130.0,infectious diseases,12.0,All,0.7692307692307693,3.0,377.0,0,0,57,0,93
+NCT03409276,Phase 1,60.0,infectious diseases,26.0,All,8.333333333333332,0.0,254.0,4,0,1,0,0
+NCT01171989,Phase 2,391.0,infectious diseases,3.0,All,0.2557544757033248,11.0,1115.0,0,95,0,196,170
+NCT01631071,Not Applicable,110.0,infectious diseases,1.0,All,0.0,0.0,105.0,84,0,4,0,0
+NCT01251276,Phase 3,204.0,infectious diseases,4.0,All,0.9803921568627451,1.0,81.0,81,0,0,0,0
+NCT01168401,Phase 1,102.0,infectious diseases,28.0,All,5.88235294117647,5.0,95.0,4,0,4,0,0
+NCT00963235,Phase 3,331.0,infectious diseases,30.0,All,18.12688821752266,119.0,5429.0,2,58,22,0,2
+NCT01165203,Phase 2,123.0,infectious diseases,21.0,All,14.634146341463413,9.0,449.0,0,0,62,0,78
+NCT00958243,Phase 2,473.0,infectious diseases,3.0,All,9.30232558139535,7.0,306.0,0,58,17,12,0
+NCT00363545,Phase 3,1274.0,infectious diseases,7.0,All,7.927786499215071,517.0,3672.0,0,811,0,0,0
+NCT00397943,Phase 2,110.0,infectious diseases,37.0,All,19.090909090909093,4.0,589.0,12,40,80,0,102
+NCT01232868,Not Applicable,66.0,infectious diseases,12.0,All,9.090909090909092,4.0,65.0,0,0,10,0,0
+NCT03384316,Phase 1,11.0,cancer,3.0,All,9.090909090909092,10.0,76.0,10,13,2,0,9
+NCT02438423,Phase 1,100.0,infectious diseases,8.0,All,0.0,1.0,347.0,0,7,0,0,0
+NCT02566265,Phase 2,122.0,infectious diseases,25.0,All,12.295081967213115,10.0,0.0,0,0,0,0,0
+NCT00356369,Phase 2,500.0,infectious diseases,8.0,All,0.6,2.0,442.0,0,0,0,0,0
+NCT01153893,Phase 3,105.0,infectious diseases,4.0,All,0.9523809523809524,1.0,112.0,0,11,0,0,40
+NCT00348881,Phase 3,2133.0,infectious diseases,16.0,All,1.3595874355368025,579.0,8325.0,3426,1062,0,1294,0
+NCT02598089,Phase 1,60.0,infectious diseases,3.0,All,0.0,0.0,2.0,0,0,0,0,0
+NCT01843621,Phase 1/Phase 2,7.0,infectious diseases,0.0,All,0.0,0.0,19.0,0,1,2,0,0
+NCT00345683,Phase 3,4021.0,infectious diseases,14.0,All,0.845560805769709,112.0,0.0,0,1,0,0,0
+NCT00345293,Phase 1/Phase 2,13.0,cancer,91.0,Male,15.384615384615385,3.0,145.0,11,0,1,0,6
+NCT02737475,Phase 1/Phase 2,166.0,cancer,53.0,All,22.289156626506024,704.0,1328.0,0,68,10,0,12
+NCT00355121,Phase 2,882.0,infectious diseases,32.0,All,6.235827664399093,3.0,2185.0,1264,58,112,0,0
+NCT00343889,Phase 3,379.0,infectious diseases,15.0,All,1.0554089709762533,28.0,1898.0,711,238,0,230,0
+NCT02639351,Phase 1,80.0,infectious diseases,18.0,All,0.0,2.0,254.0,0,3,34,0,80
+NCT03390166,Phase 2/Phase 3,945.0,infectious diseases,8.0,All,2.328042328042328,2.0,387.0,0,36,56,0,0
+NCT02499835,Phase 1/Phase 2,66.0,cancer,74.0,Male,62.121212121212125,126.0,598.0,11,1,6,1,5
+NCT02692859,Phase 3,1992.0,infectious diseases,11.0,All,8.9859437751004,25.0,0.0,0,0,0,0,0
+NCT00322049,Phase 1/Phase 2,51.0,infectious diseases,64.0,All,3.9215686274509802,4.0,101.0,0,1,0,0,31
+NCT02748785,Phase 4,277.0,autoimmune diseases,11.0,All,30.324909747292416,2.0,96.0,6,0,5,0,0
+NCT00992836,Phase 2,155.0,infectious diseases,10.0,All,3.225806451612903,6.0,347.0,0,19,29,0,0
+NCT02340338,Phase 1,46.0,infectious diseases,11.0,All,0.0,0.0,35.0,0,0,0,0,0
+NCT03165617,Phase 3,4514.0,infectious diseases,28.0,All,0.39875941515285773,59.0,2499.0,0,6,0,0,0
+NCT03089879,Phase 1,35.0,infectious diseases,5.0,All,0.0,0.0,97.0,52,0,8,0,0
+NCT03101111,Phase 2,34.0,infectious diseases,20.0,All,11.76470588235294,0.0,75.0,0,0,0,0,0
+NCT03314662,Phase 3,1778.0,infectious diseases,1.0,All,1.0123734533183353,109.0,2168.0,0,0,200,0,509
+NCT00969436,Phase 3,450.0,infectious diseases,15.0,All,12.666666666666668,18.0,491.0,0,274,0,0,0
+NCT00310817,Phase 2,623.0,infectious diseases,14.0,All,5.617977528089887,95.0,1372.0,545,84,0,185,0
+NCT01216332,Phase 1,50.0,cancer,31.0,All,8.0,22.0,155.0,21,22,15,0,0
+NCT00057330,Phase 3,8323.0,infectious diseases,80.0,Female,24.654571668869398,7544.0,24423.0,0,665,6684,0,6461
+NCT01214850,Phase 3,2968.0,infectious diseases,16.0,All,16.442048517520217,102.0,1700.0,932,1,234,0,0
+NCT02548078,Phase 2,600.0,infectious diseases,18.0,All,1.8333333333333333,5.0,506.0,0,123,79,0,187
+NCT02063724,Phase 1,15.0,cancer,36.0,Female,6.666666666666667,0.0,32.0,1,2,0,0,0
+NCT00366899,Phase 3,605.0,infectious diseases,21.0,All,6.6115702479338845,588.0,6524.0,1,1092,0,1058,0
+NCT03702231,Phase 2,116.0,cancer,21.0,All,8.620689655172415,1.0,497.0,82,8,62,0,113
+NCT01258595,Phase 2,300.0,infectious diseases,4.0,All,0.6666666666666667,0.0,590.0,237,0,0,0,0
+NCT00306527,Phase 3,2235.0,infectious diseases,3.0,All,1.0738255033557047,82.0,1472.0,713,0,172,0,0
+NCT02935192,Phase 3,480.0,infectious diseases,1.0,All,2.5,2.0,21.0,0,0,0,0,0
+NCT00329849,Phase 3,1500.0,infectious diseases,10.0,All,0.6666666666666667,10.0,1229.0,830,124,197,0,0
+NCT03942406,Phase 2,300.0,infectious diseases,8.0,All,12.0,6.0,107.0,0,0,13,0,0
+NCT00688870,Phase 3,168.0,infectious diseases,19.0,All,2.380952380952381,202.0,2159.0,0,256,0,297,0
+NCT03220737,Phase 4,550.0,infectious diseases,26.0,All,10.545454545454545,6.0,830.0,0,13,151,0,0
+NCT00071981,Phase 2,175.0,cancer,76.0,All,96.57142857142857,255.0,375.0,182,7,0,0,0
+NCT03587207,Phase 2,520.0,infectious diseases,5.0,All,0.0,10.0,2345.0,470,32,259,0,0
+NCT02258334,Phase 4,208.0,infectious diseases,1.0,All,0.4807692307692308,1.0,306.0,161,0,46,0,0
+NCT03615911,Phase 1,26.0,infectious diseases,16.0,All,11.538461538461538,0.0,74.0,0,2,16,0,0
+NCT04428359,Not Applicable,66.0,infectious diseases,7.0,All,7.575757575757576,6.0,99.0,0,0,0,0,61
+NCT01345240,Phase 3,705.0,infectious diseases,13.0,All,8.794326241134751,1091.0,2164.0,0,542,0,97,215
+NCT00003222,Phase 2,40.0,cancer,65.0,All,2.5,60.0,396.0,30,44,21,0,0
+NCT02314923,Phase 1,513.0,infectious diseases,18.0,All,4.678362573099415,5.0,1347.0,0,85,185,0,0
+NCT04887948,Phase 3,570.0,infectious diseases,6.0,All,4.736842105263158,9.0,1345.0,520,42,0,0,0
+NCT02531698,Phase 2,400.0,infectious diseases,19.0,All,3.25,37.0,1831.0,632,106,126,4,0
+NCT02526550,Phase 4,50.0,infectious diseases,1.0,All,2.0,0.0,42.0,0,0,0,0,0
+NCT04382326,Phase 3,1997.0,infectious diseases,27.0,All,18.42764146219329,86.0,8413.0,3054,637,0,0,0
+NCT01092507,Phase 3,300.0,infectious diseases,18.0,All,0.6666666666666667,71.0,697.0,183,59,0,99,0
+NCT01250756,Phase 4,321.0,healthy,16.0,All,16.1993769470405,356.0,5118.0,3,391,0,178,0
+NCT00907777,Phase 3,52.0,infectious diseases,3.0,All,1.9230769230769231,0.0,124.0,0,9,0,14,27
+NCT01235975,Phase 3,400.0,infectious diseases,8.0,All,6.0,1.0,0.0,0,0,0,0,0
+NCT00847171,Phase 2,20.0,cancer,54.0,All,0.0,0.0,193.0,0,7,8,0,0
+NCT02956837,Phase 2,406.0,infectious diseases,9.0,Female,1.9704433497536946,11.0,954.0,10,26,195,0,166
+NCT02549365,Phase 4,276.0,infectious diseases,6.0,All,0.0,0.0,43.0,0,0,0,0,0
+NCT02563093,Phase 4,208.0,infectious diseases,3.0,All,0.0,3.0,275.0,146,0,40,0,0
+NCT02451358,Phase 3,400.0,infectious diseases,18.0,All,1.0,0.0,209.0,111,24,11,6,0
+NCT03039790,Phase 2,528.0,infectious diseases,53.0,All,10.037878787878787,21.0,0.0,0,0,0,0,0
+NCT00953524,Phase 2,849.0,infectious diseases,7.0,All,6.9493521790341575,30.0,937.0,267,0,248,0,0
+NCT00953056,Phase 1,144.0,infectious diseases,6.0,All,4.166666666666666,27.0,85.0,0,22,3,0,0
+NCT03493919,Phase 4,1021.0,infectious diseases,51.0,All,2.546523016650343,5.0,0.0,0,0,0,0,0
+NCT04041570,Phase 1,40.0,infectious diseases,14.0,All,5.0,0.0,189.0,0,3,26,0,0
+NCT02753413,Phase 2,102.0,infectious diseases,2.0,Female,0.0,0.0,216.0,0,5,43,0,73
+NCT02852005,Phase 1,27.0,infectious diseases,19.0,All,7.4074074074074066,0.0,68.0,0,0,1,0,0
+NCT01344057,Phase 2,63.0,infectious diseases,1.0,All,1.5873015873015872,0.0,16.0,11,0,0,0,0
+NCT00583024,Phase 2,32.0,cancer,158.0,Male,12.5,3.0,18.0,4,0,4,0,0
+NCT00952276,Phase 2,548.0,infectious diseases,14.0,All,0.36496350364963503,31.0,1044.0,200,0,188,0,0
+NCT01196988,Phase 3,3027.0,infectious diseases,8.0,All,2.708952758506772,102.0,6117.0,0,94,349,293,1401
+NCT00938392,Phase 3,726.0,infectious diseases,2.0,All,0.8264462809917356,3.0,1367.0,689,0,148,0,0
+NCT01436370,Phase 2,102.0,infectious diseases,16.0,All,0.9803921568627451,3.0,393.0,73,0,36,0,0
+NCT01162122,Phase 3,7109.0,infectious diseases,12.0,All,5.443803629202419,1382.0,6441.0,2362,3,918,0,0
+NCT01392378,Phase 4,908.0,infectious diseases,17.0,All,1.762114537444934,478.0,1803.0,0,1107,0,1,0
+NCT03476135,Phase 3,91.0,infectious diseases,6.0,All,0.0,0.0,254.0,145,7,24,0,0
+NCT02173704,Phase 3,225.0,infectious diseases,15.0,All,7.555555555555555,438.0,2105.0,553,374,0,177,0
+NCT02814643,Phase 3,103.0,chronic diseases,6.0,All,3.8834951456310676,8.0,52.0,0,0,6,0,0
+NCT02473510,Phase 4,301.0,infectious diseases,7.0,All,0.9966777408637874,1.0,19.0,0,0,0,0,0
+NCT03553940,Phase 1,43.0,infectious diseases,24.0,All,0.0,0.0,74.0,0,0,11,0,0
+NCT01021293,Phase 3,1101.0,infectious diseases,7.0,All,3.2697547683923704,208.0,1946.0,0,170,0,0,113
+NCT01410474,Phase 3,341.0,infectious diseases,5.0,All,0.2932551319648094,2.0,1112.0,624,0,84,0,0
+NCT01027845,Phase 3,360.0,infectious diseases,8.0,All,1.9444444444444444,515.0,2283.0,79,442,0,258,229
+NCT03510481,Phase 1,478.0,infectious diseases,18.0,All,7.949790794979079,2.0,174.0,26,1,36,0,0
+NCT03410953,Phase 4,67.0,infectious diseases,18.0,All,0.0,0.0,32.0,0,0,0,0,0
+NCT02719743,Phase 2,185.0,infectious diseases,19.0,All,3.783783783783784,180.0,738.0,2,86,1,103,88
+NCT02640404,Phase 2,224.0,infectious diseases,6.0,All,0.8928571428571428,42.0,354.0,51,31,17,16,0
+NCT01222403,Phase 4,767.0,infectious diseases,48.0,All,0.2607561929595828,0.0,592.0,329,0,46,0,0
+NCT01218113,Phase 2,191.0,infectious diseases,24.0,All,6.282722513089005,12.0,672.0,0,30,87,0,129
+NCT04453202,Phase 2,459.0,healthy,2.0,All,3.485838779956427,13.0,934.0,2,36,138,0,0
+NCT01214837,Phase 3,751.0,infectious diseases,18.0,All,23.96804260985353,566.0,5212.0,860,490,0,517,0
+NCT01396512,Phase 3,274.0,infectious diseases,20.0,All,0.36496350364963503,82.0,684.0,145,107,0,67,0
+NCT02842853,Phase 3,3344.0,infectious diseases,7.0,All,3.050239234449761,38.0,4052.0,1403,0,923,0,0
+NCT02142504,Phase 2,454.0,infectious diseases,20.0,All,25.55066079295154,26.0,128.0,15,0,26,0,0
+NCT01001325,Phase 3,468.0,infectious diseases,5.0,All,5.982905982905983,2.0,0.0,0,0,0,0,0
+NCT02106390,Phase 3,750.0,infectious diseases,28.0,All,18.666666666666668,285.0,5274.0,1640,306,0,450,0
+NCT01001169,Phase 2,60.0,infectious diseases,7.0,All,5.0,2.0,282.0,0,8,2,0,55
+NCT02040090,Phase 2/Phase 3,118.0,infectious diseases,16.0,All,4.23728813559322,1.0,164.0,72,0,17,0,0
+NCT02049138,Phase 2,493.0,autoimmune diseases,91.0,All,54.76673427991886,390.0,847.0,0,0,54,0,0
+NCT00995865,Phase 1,60.0,infectious diseases,4.0,All,5.0,0.0,400.0,186,6,29,0,0
+NCT01939158,Phase 3,803.0,infectious diseases,75.0,All,22.91407222914072,375.0,3047.0,3,56,0,14,328
+NCT03652610,Phase 2,996.0,infectious diseases,4.0,All,0.9036144578313252,16.0,1870.0,506,22,333,0,0
+NCT03571607,Phase 3,206.0,infectious diseases,4.0,All,0.0,0.0,916.0,348,30,90,0,0
+NCT04912700,Not Applicable,11834.0,infectious diseases,0.0,All,0.0,5049.0,0.0,0,0,0,0,0
+NCT00803569,Phase 1,13.0,cancer,26.0,Female,30.76923076923077,0.0,81.0,31,0,5,0,0
+NCT00112957,Phase 2,23.0,cancer,53.0,Female,82.6086956521739,20.0,119.0,6,3,2,0,2
+NCT01199861,Phase 3,138.0,autoimmune diseases,9.0,All,1.4492753623188406,3.0,104.0,0,0,22,0,0
+NCT01196975,Phase 3,1707.0,infectious diseases,3.0,All,2.8119507908611596,996.0,2483.0,120,0,361,0,1866
+NCT00992511,Phase 3,300.0,infectious diseases,13.0,All,3.0,23.0,1004.0,0,30,131,0,275
+NCT01177722,Phase 3,1375.0,infectious diseases,14.0,All,2.8363636363636364,742.0,4895.0,1303,566,0,815,0
+NCT00979407,Phase 3,336.0,infectious diseases,0.0,All,3.869047619047619,25.0,1298.0,0,22,163,0,304
+NCT03999554,Phase 1,206.0,infectious diseases,10.0,All,19.902912621359224,1.0,441.0,0,13,56,0,0
+NCT04526574,Phase 3,1796.0,infectious diseases,10.0,All,3.841870824053452,115.0,3103.0,1174,26,0,0,0
+NCT00975507,Phase 3,480.0,infectious diseases,10.0,All,5.0,34.0,1145.0,69,255,2,78,0
+NCT01154088,Phase 3,1170.0,infectious diseases,4.0,All,1.452991452991453,1.0,1839.0,0,0,327,0,559
+NCT04090658,Phase 1,40.0,infectious diseases,3.0,All,0.0,2.0,96.0,24,5,10,0,0
+NCT03557008,Phase 4,37.0,infectious diseases,47.0,All,21.62162162162162,0.0,3.0,0,0,0,0,0
+NCT02255409,Phase 3,607.0,infectious diseases,15.0,All,7.413509060955518,11.0,1256.0,520,92,0,132,0
+NCT01867086,Phase 2,1.0,cancer,34.0,All,100.0,0.0,0.0,0,0,0,0,0
+NCT01788228,Phase 3,50.0,infectious diseases,12.0,All,2.0,0.0,182.0,0,0,20,0,46
+NCT01777308,Phase 3,156.0,infectious diseases,14.0,All,10.897435897435898,0.0,326.0,0,8,37,0,84
+NCT01730118,Phase 1,33.0,cancer,82.0,All,90.9090909090909,184.0,406.0,28,6,4,0,10
+NCT04071158,Phase 2,713.0,infectious diseases,2.0,Female,2.524544179523142,1.0,1819.0,408,47,287,0,0
+NCT01165242,Phase 2,1013.0,infectious diseases,6.0,All,3.356367226061204,11.0,1586.0,0,0,256,0,516
+NCT01215734,Phase 1,44.0,transplant,18.0,All,2.272727272727273,63.0,27.0,0,2,0,0,0
+NCT01717638,Phase 3,805.0,infectious diseases,10.0,All,3.602484472049689,11.0,2829.0,1544,95,106,285,0
+NCT00918580,Phase 3,158.0,infectious diseases,40.0,All,44.936708860759495,205.0,2343.0,4,68,14,0,10
+NCT00920218,Phase 2,121.0,infectious diseases,21.0,All,18.181818181818183,136.0,488.0,0,78,34,0,80
+NCT02302066,Phase 2,1800.0,infectious diseases,51.0,All,17.833333333333336,194.0,168.0,0,10,20,0,0
+NCT01522248,Not Applicable,20.0,infectious diseases,0.0,All,5.0,0.0,23.0,10,0,0,0,0
+NCT01509846,Phase 1,82.0,infectious diseases,21.0,All,14.634146341463413,0.0,98.0,0,0,4,0,0
+NCT01461096,Phase 3,575.0,infectious diseases,45.0,All,21.391304347826086,248.0,566.0,0,124,33,0,0
+NCT00959049,Phase 3,1474.0,infectious diseases,3.0,All,3.1886024423337855,13.0,3793.0,1371,360,290,241,0
+NCT00952419,Phase 2,474.0,infectious diseases,7.0,All,3.375527426160337,2.0,1015.0,385,57,53,60,0
+NCT03600428,Phase 4,152.0,infectious diseases,17.0,All,6.578947368421052,0.0,18.0,0,0,0,0,0
+NCT00090285,Phase 3,4065.0,infectious diseases,59.0,Male,39.31119311193112,40.0,4274.0,3140,243,386,0,0
+NCT03589768,Phase 2,399.0,infectious diseases,17.0,Female,3.7593984962406015,57.0,75.0,19,0,0,0,0
+NCT04009824,Phase 1,51.0,infectious diseases,7.0,All,29.411764705882355,0.0,99.0,5,0,0,0,0
+NCT01165229,Phase 3,14819.0,infectious diseases,60.0,All,15.992981982589919,6443.0,7065.0,3643,1180,1660,0,488
+NCT03629886,Phase 4,3537.0,cancer,18.0,Female,5.089058524173027,1.0,1.0,0,0,0,0,0
+NCT01163747,Phase 4,91.0,autoimmune diseases,15.0,All,18.681318681318682,6.0,40.0,0,0,4,0,0
+NCT00595465,Phase 3,389.0,infectious diseases,2.0,All,4.370179948586118,7.0,425.0,18,14,97,0,0
+NCT03546842,Phase 3,201.0,infectious diseases,7.0,All,1.4925373134328357,1.0,101.0,101,0,0,0,0
+NCT01204658,Phase 2,576.0,infectious diseases,13.0,All,0.1736111111111111,267.0,4335.0,0,495,0,805,563
+NCT03560258,Phase 1/Phase 2,45.0,infectious diseases,22.0,All,11.11111111111111,1.0,44.0,28,0,1,0,0
+NCT01098474,Phase 2,301.0,infectious diseases,9.0,All,5.647840531561462,25.0,319.0,0,22,0,22,50
+NCT01148459,Phase 3,200.0,infectious diseases,34.0,All,11.5,814.0,1243.0,0,254,0,71,51
+NCT03636906,Phase 1/Phase 2,201.0,infectious diseases,9.0,All,4.477611940298507,41.0,656.0,3,77,0,111,0
+NCT00103116,Phase 2,32.0,cancer,42.0,All,0.0,0.0,16.0,16,0,0,0,0
+NCT01349569,Phase 2,19.0,cancer,57.0,All,21.052631578947366,1.0,48.0,15,0,0,0,0
+NCT00138294,Phase 4,29255.0,infectious diseases,142.0,All,0.0,57.0,1.0,0,0,0,0,0
+NCT00358332,Phase 1,100.0,infectious diseases,13.0,All,4.0,13.0,1114.0,286,24,10,0,0
+NCT01200368,Phase 3,551.0,healthy,14.0,All,11.252268602540836,705.0,8133.0,26,734,0,301,0
+NCT00305760,Phase 2,60.0,cancer,39.0,All,78.33333333333333,12.0,363.0,0,17,26,0,0
+NCT00368316,Phase 3,2799.0,infectious diseases,60.0,All,3.1439799928545913,0.0,522.0,0,236,0,0,0
+NCT01096056,Phase 1,40.0,infectious diseases,8.0,All,2.5,5.0,164.0,0,5,0,16,16
+NCT00839254,Phase 3,6181.0,infectious diseases,35.0,All,8.137841773175863,9096.0,30326.0,840,5468,0,5351,3722
+NCT00389532,Phase 4,116.0,infectious diseases,18.0,All,0.0,0.0,27.0,0,0,7,0,0
+NCT00574548,Phase 3,720.0,infectious diseases,27.0,All,10.694444444444445,69.0,10972.0,21,99,886,0,0
+NCT02915302,Phase 4,1950.0,infectious diseases,5.0,All,7.333333333333333,149.0,5365.0,1596,315,0,889,0
+NCT00857311,Phase 1,17.0,infectious diseases,20.0,All,5.88235294117647,5.0,64.0,6,4,3,0,2
+NCT00856297,Phase 3,389.0,infectious diseases,45.0,All,0.5141388174807198,2.0,251.0,100,0,42,0,0
+NCT00836953,Phase 4,33.0,infectious diseases,4.0,All,6.0606060606060606,0.0,35.0,0,5,0,0,0
+NCT00937521,Phase 2,1507.0,infectious diseases,16.0,All,3.64963503649635,9145.0,19167.0,8681,2892,0,2050,0
+NCT02547974,Phase 1,120.0,respiratory disorders,19.0,All,0.8333333333333334,6.0,294.0,89,10,40,0,0
+NCT01034358,Phase 4,15.0,inflammatory diseases,16.0,Female,13.333333333333334,0.0,32.0,0,0,6,0,0
+NCT01190228,Phase 3,454.0,infectious diseases,2.0,All,1.1013215859030838,3.0,411.0,152,61,54,0,0
+NCT01000974,Phase 3,4003.0,infectious diseases,17.0,All,13.589807644266799,4538.0,19876.0,0,3468,0,3425,2798
+NCT00654030,Phase 2,12.0,cancer,37.0,All,8.333333333333332,10.0,130.0,17,2,0,0,0
+NCT00755274,Phase 4,32.0,infectious diseases,4.0,All,0.0,0.0,13.0,0,0,0,0,0
+NCT00806676,Not Applicable,67.0,chronic diseases,81.0,Female,14.925373134328357,0.0,8.0,8,0,0,0,0
+NCT00835926,Phase 4,121.0,infectious diseases,2.0,All,0.0,0.0,10.0,0,0,10,0,0
+NCT00858468,Phase 1/Phase 2,394.0,infectious diseases,14.0,All,0.0,7.0,219.0,14,25,0,0,0
+NCT00868218,Phase 1,60.0,infectious diseases,16.0,All,0.0,0.0,46.0,0,0,0,0,0
+NCT00896064,Phase 2,43.0,infectious diseases,2.0,All,0.0,0.0,112.0,0,0,15,0,40
+NCT00943488,Phase 2,408.0,infectious diseases,7.0,All,0.7352941176470588,19.0,1023.0,369,0,110,0,0
+NCT00943878,Phase 2,805.0,infectious diseases,8.0,All,1.4906832298136645,44.0,2485.0,1119,0,246,0,0
+NCT00976404,Phase 2,28.0,infectious diseases,44.0,All,0.0,4.0,0.0,0,0,0,0,0
+NCT00992784,Phase 3,370.0,infectious diseases,7.0,All,1.6216216216216217,72.0,470.0,0,0,49,0,139
+NCT00986232,Phase 2,1551.0,infectious diseases,12.0,All,10.058027079303674,1383.0,5214.0,1208,1610,0,280,0
+NCT00978120,Phase 2,390.0,infectious diseases,11.0,All,1.7948717948717947,60.0,120.0,0,0,0,0,0
+NCT01055184,Phase 1/Phase 2,34.0,infectious diseases,13.0,All,0.0,1.0,12.0,0,0,0,0,0
+NCT00879814,Phase 1,48.0,infectious diseases,39.0,All,29.166666666666668,0.0,196.0,4,0,1,0,0
+NCT01246999,Phase 4,34.0,infectious diseases,27.0,All,8.823529411764707,0.0,75.0,23,3,1,0,0
+NCT01245751,Phase 3,600.0,infectious diseases,15.0,All,1.5,91.0,542.0,493,0,24,0,0
+NCT01245673,Phase 2,28.0,cancer,56.0,All,7.142857142857142,51.0,138.0,33,24,8,0,0
+NCT01403376,Phase 2,128.0,autoimmune diseases,4.0,All,0.0,0.0,26.0,5,0,5,0,0
+NCT03771963,Phase 3,200.0,infectious diseases,6.0,All,16.0,5.0,0.0,0,0,0,0,0
+NCT00819013,Phase 1,87.0,infectious diseases,18.0,All,14.942528735632186,3.0,290.0,97,20,22,0,0
+NCT00968526,Phase 3,240.0,infectious diseases,12.0,All,1.25,116.0,681.0,0,0,178,0,193
+NCT00964158,Phase 3,210.0,infectious diseases,14.0,All,4.285714285714286,1.0,1141.0,0,96,108,21,198
+NCT02866942,Phase 4,479.0,chronic diseases,5.0,All,0.20876826722338201,31.0,154.0,0,0,0,0,0
+NCT04977479,Phase 2,20.0,allergy,9.0,All,0.0,0.0,481.0,68,2,24,0,0
+NCT03382418,Phase 1,45.0,infectious diseases,21.0,All,13.333333333333334,46.0,101.0,1,0,0,0,0
+NCT01641042,Phase 3,86.0,infectious diseases,25.0,All,0.0,5.0,212.0,0,7,26,0,63
+NCT01651104,Phase 2,63.0,infectious diseases,1.0,All,0.0,0.0,49.0,39,0,4,0,0
+NCT03391232,Phase 1/Phase 2,11.0,cancer,14.0,All,27.27272727272727,4.0,14.0,4,0,0,0,0
+NCT00875524,Phase 2,180.0,infectious diseases,65.0,All,7.777777777777778,22.0,352.0,332,4,0,0,0
+NCT02728102,Phase 2,203.0,cancer,47.0,All,7.8817733990147785,8.0,9.0,0,1,0,0,0
+NCT00799825,Phase 3,346.0,infectious diseases,43.0,Female,13.872832369942195,8.0,0.0,0,0,0,0,0
+NCT01827462,Phase 4,136.0,infectious diseases,99.0,All,63.970588235294116,138.0,88.0,0,0,0,0,0
+NCT01876212,Phase 2,15.0,cancer,50.0,All,0.0,104.0,249.0,0,4,5,0,5
+NCT01933776,Phase 1,40.0,infectious diseases,3.0,All,0.0,0.0,45.0,37,3,2,0,0
+NCT01967784,Phase 3,100.0,infectious diseases,6.0,All,0.0,0.0,140.0,62,0,8,0,0
+NCT03603509,Phase 4,241.0,infectious diseases,4.0,All,2.904564315352697,0.0,79.0,0,0,4,0,0
+NCT02005536,Phase 4,60.0,infectious diseases,9.0,All,0.0,0.0,135.0,75,13,4,0,0
+NCT00888381,Phase 4,120.0,infectious diseases,0.0,All,0.8333333333333334,0.0,34.0,10,0,12,0,0
+NCT03205358,Phase 2,188.0,infectious diseases,4.0,All,0.0,2.0,551.0,152,19,0,102,0
+NCT02381418,Phase 3,120.0,infectious diseases,0.0,All,0.0,0.0,34.0,0,0,2,0,0
+NCT00842530,Phase 2,4002.0,infectious diseases,55.0,All,4.3478260869565215,842.0,3944.0,3602,42,2,0,0
+NCT05169905,Phase 3,9.0,infectious diseases,6.0,Female,0.0,0.0,19.0,0,0,3,0,0
+NCT02569632,Phase 4,18.0,infectious diseases,23.0,All,5.555555555555555,0.0,1.0,0,0,0,0,0
+NCT02585700,Phase 1,60.0,infectious diseases,4.0,All,0.0,0.0,6.0,0,0,0,0,0
+NCT01320696,Phase 1/Phase 2,353.0,infectious diseases,3.0,All,5.6657223796034,0.0,298.0,146,1,42,1,0
+NCT02649192,Phase 2,87.0,healthy,29.0,All,4.597701149425287,0.0,47.0,0,9,0,0,0
+NCT03301051,Phase 3,10160.0,infectious diseases,8.0,All,7.066929133858267,673.0,2971.0,56,51,450,0,7
+NCT01337167,Phase 3,1473.0,infectious diseases,25.0,All,16.08961303462322,1548.0,8825.0,2921,1554,0,1268,0
+NCT01964989,Phase 3,10644.0,infectious diseases,23.0,All,14.3836903419767,17614.0,31949.0,8640,3946,1,5292,0
+NCT02555618,Phase 2,400.0,infectious diseases,3.0,All,0.25,0.0,578.0,451,0,32,0,0
+NCT02545868,Phase 3,102.0,autoimmune diseases,15.0,All,100.0,0.0,170.0,13,0,9,0,0
+NCT03281876,Phase 2,606.0,respiratory disorders,28.0,All,10.231023102310232,399.0,1909.0,327,71,238,0,0
+NCT03945825,Phase 1,241.0,infectious diseases,15.0,All,6.639004149377594,2.0,850.0,0,27,76,0,0
+NCT02669121,Phase 2,4748.0,healthy,24.0,All,12.047177759056444,177.0,215.0,0,1,0,0,0
+NCT02743117,Phase 4,301.0,infectious diseases,7.0,All,0.6644518272425249,0.0,17.0,0,2,0,0,0
+NCT00735475,Phase 4,1268.0,infectious diseases,3.0,All,1.498422712933754,75.0,261.0,0,0,55,0,0
+NCT00743275,Phase 4,120.0,infectious diseases,3.0,All,0.8333333333333334,0.0,157.0,70,0,23,0,0
+NCT00742885,Phase 2,100.0,infectious diseases,6.0,All,1.0,0.0,549.0,56,11,60,0,98
+NCT02893878,Not Applicable,19334.0,infectious diseases,2.0,All,0.0,0.0,2681.0,0,174,203,17,0
+NCT00808444,Phase 3,466.0,infectious diseases,10.0,All,0.4291845493562232,103.0,2379.0,0,368,0,339,319
+NCT00727441,Phase 2,87.0,cancer,84.0,All,74.71264367816092,0.0,483.0,0,14,0,0,0
+NCT01026038,Phase 3,263.0,infectious diseases,7.0,All,0.7604562737642585,0.0,989.0,1,43,0,0,0
+NCT00718237,Phase 3,762.0,infectious diseases,12.0,All,3.674540682414698,177.0,543.0,0,124,0,0,0
+NCT00775450,Phase 2,807.0,infectious diseases,8.0,All,0.6195786864931847,44.0,1622.0,1201,0,130,0,0
+NCT02794870,Phase 1,33.0,infectious diseases,11.0,All,6.0606060606060606,7.0,103.0,0,15,0,5,0
+NCT02126579,Phase 1/Phase 2,50.0,cancer,67.0,All,4.0,0.0,321.0,45,15,15,0,5
+NCT00475033,Phase 3,603.0,infectious diseases,23.0,All,6.301824212271974,322.0,7440.0,54,433,1,1573,0
+NCT00474487,Phase 3,2831.0,infectious diseases,3.0,All,1.6248675379724478,22.0,4216.0,1843,0,757,0,0
+NCT00765076,Phase 3,192.0,infectious diseases,13.0,All,1.0416666666666665,21.0,299.0,0,0,43,0,93
+NCT04841577,Phase 3,976.0,infectious diseases,4.0,All,3.995901639344263,65.0,1500.0,493,20,202,0,3
+NCT03498300,Early Phase 1,129.0,infectious diseases,11.0,Female,8.527131782945736,0.0,24.0,0,0,0,0,0
+NCT03525210,Phase 3,271.0,infectious diseases,17.0,All,2.214022140221402,50.0,224.0,201,1,23,0,0
+NCT03564444,Phase 4,300.0,infectious diseases,6.0,All,0.0,1.0,27.0,0,0,0,0,0
+NCT00474526,Phase 3,4545.0,infectious diseases,18.0,All,15.203520352035206,8113.0,26758.0,7397,3285,0,2915,0
+NCT00975884,Phase 3,312.0,infectious diseases,7.0,All,9.935897435897436,23.0,1186.0,0,21,136,0,277
+NCT04644484,Phase 3,1000.0,infectious diseases,21.0,All,0.0,146.0,775.0,2,24,42,0,0
+NCT04258995,Phase 2,151.0,infectious diseases,7.0,All,1.3245033112582782,1.0,280.0,84,0,54,0,0
+NCT00710593,Phase 2,99.0,infectious diseases,36.0,Female,20.2020202020202,0.0,75.0,0,12,0,0,0
+NCT04232943,Phase 1,87.0,infectious diseases,12.0,All,10.344827586206897,0.0,244.0,53,2,46,0,0
+NCT04094883,Phase 4,11.0,infectious diseases,10.0,All,9.090909090909092,0.0,35.0,17,2,2,0,0
+NCT05028374,Phase 2,119.0,cancer,2.0,All,0.8403361344537815,1.0,312.0,92,10,14,1,1
+NCT00962780,Phase 3,303.0,infectious diseases,37.0,All,7.920792079207921,16.0,4301.0,993,181,7,0,0
+NCT00955682,Phase 3,342.0,infectious diseases,3.0,All,0.5847953216374269,2.0,584.0,0,27,8,51,172
+NCT03682107,Phase 1,48.0,infectious diseases,19.0,All,2.083333333333333,1.0,347.0,21,3,26,0,0
+NCT00199849,Phase 1,18.0,cancer,23.0,All,16.666666666666664,6.0,113.0,17,6,5,0,0
+NCT00721396,Phase 2,1885.0,infectious diseases,23.0,All,4.562334217506631,5974.0,16724.0,5591,2818,0,1579,0
+NCT00197002,Phase 3,521.0,infectious diseases,28.0,All,10.9404990403071,32.0,1297.0,0,106,0,207,195
+NCT00718666,Phase 2,387.0,infectious diseases,61.0,All,2.0671834625323,1.0,254.0,5,8,20,0,85
+NCT01031069,Phase 4,873.0,infectious diseases,63.0,Female,11.225658648339062,35.0,2184.0,5,93,288,0,458
+NCT00584194,Phase 2,278.0,infectious diseases,72.0,All,48.561151079136685,11.0,258.0,0,3,17,0,2
+NCT01646398,Phase 3,764.0,infectious diseases,4.0,All,0.13089005235602094,1.0,2063.0,8,26,77,0,0
+NCT02285998,Phase 3,9003.0,infectious diseases,7.0,All,5.5425969121403975,367.0,2328.0,0,0,288,0,1
+NCT00166517,Phase 3,178.0,infectious diseases,11.0,All,3.932584269662921,173.0,676.0,1,42,0,149,0
+NCT00970307,Phase 2,421.0,infectious diseases,5.0,All,1.9002375296912115,16.0,1722.0,0,0,0,322,221
+NCT01367158,Phase 2,440.0,infectious diseases,6.0,All,2.727272727272727,5.0,1438.0,704,30,145,0,0
+NCT00657709,Phase 3,3630.0,infectious diseases,22.0,All,3.608815426997245,9136.0,31291.0,10679,5040,0,6424,0
+NCT00652951,Phase 3,780.0,infectious diseases,13.0,All,0.2564102564102564,1177.0,5334.0,35,1080,0,741,654
+NCT00654901,Phase 3,881.0,infectious diseases,14.0,All,0.681044267877412,3.0,3001.0,1297,110,0,552,0
+NCT00914732,Phase 2,523.0,infectious diseases,14.0,All,5.353728489483748,4.0,3205.0,1633,0,234,0,0
+NCT00911144,Phase 3,450.0,infectious diseases,7.0,All,4.666666666666667,14.0,1004.0,488,67,0,183,0
+NCT00644059,Phase 3,4902.0,infectious diseases,29.0,All,6.364749082007344,8046.0,21909.0,5607,3458,404,0,0
+NCT00971321,Phase 2,157.0,infectious diseases,14.0,All,8.9171974522293,55.0,877.0,0,124,0,99,91
+NCT02783170,Phase 4,81.0,pregnancy,18.0,Female,1.2345679012345678,1.0,4.0,0,0,0,0,0
+NCT01656200,Phase 4,17.0,infectious diseases,17.0,All,5.88235294117647,0.0,6.0,0,4,0,0,0
+NCT00130793,Phase 3,368.0,infectious diseases,3.0,All,1.9021739130434785,1.0,368.0,368,0,0,0,0
+NCT02270944,Phase 2,1053.0,infectious diseases,5.0,Female,1.519468186134853,183.0,2641.0,1034,0,396,0,0
+NCT00470574,Not Applicable,7.0,cancer,156.0,All,0.0,5.0,52.0,7,1,0,0,0
+NCT00620815,Phase 2,601.0,infectious diseases,2.0,All,3.6605657237936775,44.0,2077.0,650,29,238,0,0
+NCT02514746,Phase 4,561.0,infectious diseases,16.0,All,6.59536541889483,0.0,182.0,2,22,2,2,2
+NCT02752906,Phase 3,810.0,infectious diseases,8.0,All,1.4814814814814816,9.0,1189.0,374,0,292,0,0
+NCT00109343,Phase 3,1027.0,infectious diseases,18.0,All,12.755598831548198,20.0,2857.0,1350,359,0,56,0
+NCT01081223,Phase 1/Phase 2,12.0,cancer,11.0,All,0.0,35.0,49.0,0,1,4,0,0
+NCT01059617,Phase 1,133.0,infectious diseases,11.0,All,16.541353383458645,6.0,378.0,0,0,58,0,107
+NCT00617851,Phase 3,1507.0,infectious diseases,1.0,All,10.41804910418049,23.0,0.0,0,1,1,0,0
+NCT02228980,Phase 4,602.0,infectious diseases,3.0,All,5.3156146179401995,4.0,416.0,127,80,19,14,0
+NCT00092495,Phase 3,3055.0,cancer,21.0,All,6.710310965630114,404.0,5304.0,3772,778,738,0,0
+NCT00092417,Phase 3,695.0,healthy,8.0,All,0.8633093525179856,5.0,1050.0,991,0,59,0,0
+NCT02297698,Phase 2,100.0,cancer,87.0,All,33.0,11.0,83.0,16,10,9,0,0
+NCT02447432,Phase 3,320.0,infectious diseases,7.0,All,5.625,20.0,894.0,0,98,0,161,203
+NCT02475278,Phase 2,50.0,infectious diseases,1.0,All,4.0,1.0,3.0,0,0,0,0,0
+NCT01640314,Phase 3,126.0,infectious diseases,1.0,All,0.7936507936507936,0.0,153.0,51,0,17,0,0
+NCT03090191,Phase 3,17535.0,infectious diseases,57.0,All,36.6581123467351,2093.0,26722.0,9447,4,1,0,0
+NCT00951041,Phase 2,130.0,infectious diseases,12.0,All,4.615384615384616,3.0,413.0,0,0,48,0,98
+NCT00797511,Phase 3,132.0,infectious diseases,5.0,All,0.7575757575757576,2.0,337.0,203,14,28,0,0
+NCT00792909,Phase 3,172.0,infectious diseases,7.0,All,0.5813953488372093,14.0,604.0,0,44,0,68,134
+NCT00030823,Not Applicable,14.0,cancer,96.0,All,7.142857142857142,2.0,33.0,13,1,1,0,0
+NCT01051661,Phase 3,6154.0,infectious diseases,18.0,All,4.7773805654858625,2708.0,10886.0,0,2128,622,989,2998
+NCT01051349,Phase 2,410.0,autoimmune diseases,77.0,All,42.19512195121951,748.0,838.0,0,0,90,0,0
+NCT01366534,Phase 2,67.0,infectious diseases,6.0,All,5.970149253731343,0.0,353.0,0,0,0,0,0
+NCT01323946,Phase 2,113.0,infectious diseases,14.0,All,5.3097345132743365,52.0,561.0,4,73,0,73,67
+NCT01310413,Phase 3,842.0,infectious diseases,4.0,All,7.007125890736342,17.0,2060.0,0,108,142,0,585
+NCT04785794,Phase 1,122.0,infectious diseases,5.0,All,3.278688524590164,0.0,7.0,0,0,3,0,0
+NCT04761822,Phase 2,746.0,infectious diseases,12.0,All,5.361930294906166,597.0,1525.0,7,3,14,0,3
+NCT01245764,Phase 3,250.0,infectious diseases,25.0,Female,10.8,1.0,448.0,263,29,85,0,0
+NCT03104075,Phase 4,40.0,infectious diseases,32.0,All,2.5,0.0,1.0,0,0,0,0,0
+NCT00771849,Phase 2,103.0,infectious diseases,7.0,All,5.825242718446602,1.0,45.0,0,4,0,0,0
+NCT01240746,Phase 3,4363.0,infectious diseases,13.0,All,8.022003208801284,362.0,11614.0,4923,1015,628,500,0
+NCT00771615,Phase 2,469.0,infectious diseases,7.0,All,1.7057569296375266,11.0,905.0,0,9,137,0,285
+NCT04969263,Phase 2,81.0,transplant,15.0,All,11.11111111111111,16.0,138.0,3,2,9,0,2
+NCT03771157,Early Phase 1,33.0,cancer,19.0,All,3.0303030303030303,1.0,0.0,0,0,0,0,0
+NCT00101101,Phase 2,43.0,cancer,100.0,All,46.51162790697674,6.0,58.0,11,2,0,0,0
+NCT00923351,Phase 1/Phase 2,44.0,cancer,63.0,All,27.27272727272727,35.0,330.0,26,35,0,0,0
+NCT02735915,Phase 3,70.0,infectious diseases,16.0,All,15.714285714285714,9.0,219.0,1,15,18,0,46
+NCT03312231,Phase 2,720.0,infectious diseases,19.0,All,3.0555555555555554,129.0,2565.0,1325,101,195,0,0
+NCT04247282,Phase 1/Phase 2,21.0,cancer,14.0,All,9.523809523809524,4.0,162.0,5,1,0,0,2
+NCT01521897,Not Applicable,1143.0,infectious diseases,28.0,All,2.012248468941382,269.0,1037.0,148,176,0,0,0
+NCT00885105,Phase 3,242.0,infectious diseases,3.0,All,4.545454545454546,22.0,183.0,0,14,0,0,0
+NCT00892775,Phase 2,501.0,infectious diseases,15.0,All,1.1976047904191618,67.0,1518.0,0,512,0,0,0
+NCT01266460,Phase 2,54.0,cancer,89.0,Female,62.96296296296296,397.0,688.0,0,46,18,0,22
+NCT01808456,Phase 4,62.0,infectious diseases,38.0,All,9.67741935483871,0.0,180.0,0,20,18,0,0
+NCT04032093,Phase 2,1153.0,infectious diseases,26.0,Female,9.800520381613183,758.0,2352.0,281,66,24,0,0
+NCT01262872,Phase 2,1320.0,infectious diseases,25.0,All,3.6363636363636362,20.0,3405.0,0,668,0,854,713
+NCT01209325,Phase 2,149.0,cancer,78.0,Male,28.859060402684566,8.0,78.0,37,0,0,0,0
+NCT03475056,Phase 1,40.0,infectious diseases,14.0,All,7.5,2.0,127.0,0,3,18,0,0
+NCT00566345,Phase 3,3670.0,infectious diseases,7.0,All,8.71934604904632,3.0,3131.0,738,0,327,0,0
+NCT03101462,Phase 4,38.0,infectious diseases,2.0,All,5.263157894736842,0.0,1.0,0,0,0,0,0
+NCT01205581,Phase 2,85.0,infectious diseases,35.0,All,1.1764705882352942,1.0,0.0,0,0,0,0,0
+NCT02374814,Phase 4,60.0,infectious diseases,18.0,All,8.333333333333332,0.0,68.0,35,2,3,0,0
+NCT01229371,Phase 3,440.0,infectious diseases,2.0,All,0.22727272727272727,0.0,229.0,171,0,0,0,0
+NCT01229176,Phase 2,200.0,infectious diseases,15.0,All,5.5,82.0,658.0,180,44,28,28,0
+NCT01218646,Phase 3,739.0,infectious diseases,5.0,All,0.5412719891745602,3.0,546.0,232,0,98,0,0
+NCT02646891,Phase 1/Phase 2,618.0,healthy,18.0,All,6.634304207119741,636.0,1616.0,2,12,1,7,0
+NCT00873912,Phase 4,300.0,healthy,0.0,All,1.0,3.0,27.0,0,0,0,0,0
+NCT00866619,Phase 3,15459.0,infectious diseases,23.0,All,29.982534445953814,17115.0,20433.0,4,5600,0,1362,1702
+NCT00853749,Phase 3,89.0,infectious diseases,7.0,All,1.1235955056179776,0.0,358.0,0,3,0,13,0
+NCT00851643,Phase 1,158.0,cancer,20.0,Female,12.658227848101266,0.0,714.0,387,23,72,0,5
+NCT00849381,Phase 3,1239.0,infectious diseases,44.0,Female,11.702986279257466,11.0,0.0,0,0,0,0,0
+NCT00710866,Phase 3,262.0,infectious diseases,7.0,All,5.7251908396946565,1.0,780.0,0,30,0,151,0
+NCT03443427,Phase 2,200.0,respiratory disorders,21.0,All,11.5,37.0,785.0,267,24,80,0,0
+NCT00708682,Phase 3,225.0,infectious diseases,22.0,All,18.666666666666668,59.0,2727.0,0,153,0,443,0
+NCT04530838,Phase 3,668.0,infectious diseases,18.0,All,2.694610778443114,76.0,3085.0,1334,384,0,0,0
+NCT03341637,Phase 3,400.0,infectious diseases,13.0,All,2.25,4.0,175.0,0,0,0,0,0
+NCT01272180,Phase 2,484.0,infectious diseases,2.0,All,13.429752066115702,9.0,1832.0,746,36,164,0,0
+NCT02636582,Phase 2,43.0,cancer,37.0,Female,2.3255813953488373,2.0,74.0,13,2,2,0,3
+NCT00822237,Phase 3,598.0,infectious diseases,9.0,All,11.036789297658862,2.0,764.0,352,139,0,42,0
+NCT00508261,Phase 3,793.0,infectious diseases,9.0,All,2.269861286254729,509.0,2175.0,0,560,0,301,228
+NCT00693706,Phase 1,200.0,infectious diseases,9.0,All,0.5,1.0,207.0,0,0,45,0,96
+NCT03318315,Phase 2,149.0,infectious diseases,17.0,All,7.38255033557047,1.0,662.0,300,0,50,0,0
+NCT00861744,Phase 2,1259.0,infectious diseases,13.0,All,8.18109610802224,368.0,3393.0,16,8,0,626,289
+NCT00496015,Phase 3,750.0,infectious diseases,8.0,All,0.26666666666666666,467.0,2117.0,0,684,0,374,276
+NCT00861380,Phase 3,41188.0,infectious diseases,33.0,All,99.98300475866758,37.0,0.0,1,2,0,1,0
+NCT00601835,Phase 4,3651.0,infectious diseases,14.0,All,2.026841961106546,134.0,3783.0,1770,135,502,0,0
+NCT00464815,Phase 3,1025.0,infectious diseases,11.0,All,0.878048780487805,7.0,807.0,0,68,129,0,268
+NCT00835380,Phase 3,80.0,infectious diseases,7.0,All,2.5,0.0,113.0,19,34,0,0,0
+NCT00825162,Phase 4,1992.0,infectious diseases,11.0,All,2.7610441767068274,460.0,1304.0,0,135,66,0,0
+NCT00824850,Phase 2,75.0,infectious diseases,8.0,All,1.3333333333333335,0.0,302.0,9,5,5,12,0
+NCT03077438,Phase 3,1000.0,infectious diseases,7.0,All,2.6,12.0,1622.0,828,47,124,0,0
+NCT02787044,Phase 4,5388.0,heart diseases,46.0,All,0.6310319227913883,6.0,3882.0,1382,1,518,0,0
+NCT03982199,Phase 2,5815.0,infectious diseases,34.0,All,55.83834909716251,552.0,45.0,0,0,0,0,0
+NCT00680914,Phase 3,503.0,infectious diseases,11.0,All,2.783300198807157,262.0,2147.0,1,148,0,392,282
+NCT00805389,Phase 2,713.0,infectious diseases,21.0,All,7.5736325385694245,45.0,2820.0,0,129,415,0,661
+NCT00678652,Phase 1,36.0,infectious diseases,16.0,All,11.11111111111111,0.0,272.0,49,0,22,0,0
+NCT00814710,Phase 3,360.0,infectious diseases,8.0,All,3.0555555555555554,12.0,1588.0,0,268,0,266,314
+NCT00849680,Phase 1,317.0,infectious diseases,23.0,All,29.33753943217666,31.0,1322.0,289,52,115,0,25
+NCT05070546,Phase 3,1124.0,infectious diseases,10.0,All,3.113879003558719,29.0,212.0,0,1,12,0,0
+NCT00802464,Phase 2,410.0,infectious diseases,17.0,All,5.609756097560976,38.0,859.0,0,45,110,0,247
+NCT00450619,Phase 2,44.0,cancer,70.0,Male,11.363636363636363,170.0,560.0,11,6,10,0,36
+NCT00788151,Phase 2,300.0,infectious diseases,16.0,All,8.0,6.0,240.0,240,0,0,0,0
+NCT00829010,Phase 3,489.0,infectious diseases,28.0,All,6.5439672801636,658.0,4924.0,1,245,0,550,670
+NCT00066729,Phase 1,9.0,cancer,35.0,Female,22.22222222222222,0.0,74.0,0,0,1,0,0
+NCT00847145,Phase 3,2249.0,infectious diseases,18.0,All,2.0898176967541127,2995.0,14198.0,5287,2702,0,1588,0
+NCT00621322,Phase 2,180.0,infectious diseases,12.0,All,6.111111111111111,6.0,966.0,0,22,154,0,162
+NCT00779766,Phase 3,6081.0,infectious diseases,34.0,Female,22.693635915145535,172.0,15223.0,0,1452,1381,0,4800
+NCT00845429,Phase 2,729.0,infectious diseases,10.0,All,6.721536351165981,16.0,1498.0,790,33,249,0,0
+NCT00841763,Phase 3,3647.0,infectious diseases,6.0,All,6.306553331505346,63.0,13647.0,6155,0,1356,0,0
+NCT00761631,Phase 3,1200.0,healthy,19.0,All,5.666666666666666,66.0,4855.0,4,168,17,556,2
+NCT00760617,Phase 3,526.0,infectious diseases,7.0,All,2.2813688212927756,55.0,657.0,0,0,76,0,187
+NCT00831311,Phase 2,624.0,infectious diseases,13.0,All,3.205128205128205,482.0,4074.0,1564,776,0,411,0
+NCT00743652,Phase 3,373.0,infectious diseases,20.0,All,5.093833780160858,68.0,24.0,2,32,0,0,0
+NCT00808028,Phase 2,538.0,infectious diseases,61.0,All,16.91449814126394,99.0,452.0,12,3,32,0,0
+NCT03205371,Phase 3,1183.0,infectious diseases,20.0,All,2.0287404902789516,29.0,2167.0,866,133,0,275,0
+NCT00444457,Phase 3,1712.0,infectious diseases,25.0,All,17.990654205607477,7203.0,26684.0,43,1644,0,8776,0
+NCT00454909,Phase 2,873.0,infectious diseases,6.0,All,1.3745704467353952,14.0,2786.0,0,115,0,0,0
+NCT00723489,Phase 1/Phase 2,82.0,inflammatory diseases,32.0,All,9.75609756097561,0.0,267.0,7,0,10,0,0
+NCT00719043,Phase 2,841.0,infectious diseases,21.0,All,22.473246135552913,795.0,2616.0,0,28,361,0,1360
+NCT00806195,Phase 3,7744.0,infectious diseases,27.0,All,13.584710743801654,16273.0,27936.0,2479,3244,0,1551,0
+NCT00736476,Phase 1,63.0,infectious diseases,17.0,All,1.5873015873015872,1.0,212.0,100,0,24,0,2
+NCT00714285,Phase 1,420.0,infectious diseases,6.0,All,0.9523809523809524,1.0,801.0,0,0,115,0,281
+NCT00772928,Phase 3,1167.0,infectious diseases,31.0,All,7.28363324764353,884.0,2619.0,0,156,0,0,0
+NCT00772070,Phase 2,173.0,infectious diseases,5.0,All,6.9364161849710975,0.0,331.0,163,13,0,52,0
+NCT00758264,Phase 3,363.0,infectious diseases,7.0,All,1.6528925619834711,19.0,1586.0,0,0,0,0,0
+NCT00753272,Phase 3,43695.0,infectious diseases,21.0,All,22.631880077812106,15383.0,11127.0,0,8,1386,0,6292
+NCT00746798,Phase 2,479.0,infectious diseases,8.0,All,1.2526096033402923,16.0,452.0,65,0,129,0,0
+NCT00579345,Phase 3,1522.0,infectious diseases,8.0,All,0.7227332457293035,87.0,1371.0,738,0,115,0,0
+NCT00584844,Phase 2,484.0,infectious diseases,60.0,All,16.32231404958678,52.0,1696.0,671,21,112,0,18
+NCT00584454,Phase 2,10.0,infectious diseases,41.0,All,40.0,4.0,23.0,6,1,1,0,0
+NCT00578175,Phase 2,1851.0,infectious diseases,15.0,All,7.401404646137223,219.0,2771.0,0,778,0,80,315
+NCT00735644,Phase 3,1200.0,infectious diseases,9.0,All,0.33333333333333337,124.0,2717.0,635,271,0,342,0
+NCT00694551,Not Applicable,29.0,cancer,51.0,Male,6.896551724137931,1.0,141.0,23,15,0,0,0
+NCT05091307,Phase 3,861.0,infectious diseases,7.0,All,16.957026713124275,120.0,113.0,0,0,0,0,0
+NCT03589807,Phase 2,180.0,infectious diseases,22.0,All,8.88888888888889,7.0,795.0,397,0,50,0,0
+NCT00667563,Phase 1,150.0,cancer,39.0,Female,16.0,14.0,515.0,0,1,34,0,0
+NCT00583752,Phase 2,50.0,cancer,158.0,Male,20.0,0.0,69.0,3,0,4,0,0
+NCT00426361,Phase 3,751.0,infectious diseases,13.0,Female,1.8641810918774968,10.0,3207.0,0,113,395,0,695
+NCT00772889,Phase 3,971.0,infectious diseases,14.0,All,5.76725025746653,273.0,1037.0,0,0,123,0,330
+NCT03527173,Phase 2,71.0,infectious diseases,8.0,All,19.718309859154928,4.0,491.0,44,9,44,0,0
+NCT02177032,Phase 3,885.0,infectious diseases,4.0,All,1.1299435028248588,87.0,2181.0,920,103,159,0,0
+NCT00772109,Phase 3,4292.0,infectious diseases,7.0,All,2.096924510717614,76.0,13491.0,9770,0,1,0,0
+NCT02109484,Phase 1/Phase 2,204.0,infectious diseases,20.0,All,5.88235294117647,50.0,284.0,0,2,0,0,0
+NCT02587221,Phase 3,6790.0,infectious diseases,22.0,All,3.74079528718704,711.0,860.0,0,2,123,0,183
+NCT02046148,Phase 2,75.0,infectious diseases,21.0,Female,5.333333333333334,38.0,199.0,67,0,13,0,0
+NCT02045836,Phase 3,865.0,infectious diseases,16.0,All,2.6589595375722546,56.0,3436.0,0,209,419,0,729
+NCT02067676,Phase 1,48.0,infectious diseases,5.0,All,2.083333333333333,2.0,177.0,0,1,12,0,0
+NCT02035696,Phase 1/Phase 2,671.0,infectious diseases,6.0,All,1.7883755588673622,874.0,3494.0,820,420,0,268,0
+NCT02699099,Phase 3,699.0,infectious diseases,10.0,All,2.432045779685265,2063.0,2991.0,135,225,0,0,0
+NCT02690207,Phase 3,8687.0,infectious diseases,36.0,All,2.9123978358466673,4397.0,14066.0,6215,2083,1358,1,183
+NCT05144945,Phase 3,301.0,infectious diseases,8.0,All,0.33222591362126247,0.0,588.0,167,0,61,0,0
+NCT01437267,Phase 2,120.0,infectious diseases,10.0,All,1.6666666666666667,21.0,478.0,142,39,0,37,0
+NCT00617344,Phase 2,260.0,infectious diseases,20.0,All,21.153846153846153,8.0,688.0,205,41,147,0,0
+NCT00652743,Phase 3,845.0,infectious diseases,39.0,All,5.562130177514793,226.0,1856.0,0,42,215,0,464
+NCT00546819,Phase 2,309.0,infectious diseases,34.0,All,4.53074433656958,48.0,98.0,98,0,0,0,0
+NCT02018458,Phase 1/Phase 2,10.0,cancer,64.0,Female,40.0,8.0,168.0,0,4,10,0,1
+NCT02362464,Phase 2,14.0,cancer,83.0,Male,42.857142857142854,1.0,65.0,13,1,1,0,0
+NCT00289783,Phase 3,4441.0,infectious diseases,18.0,All,9.952713352848457,8295.0,34589.0,0,3363,0,11366,5051
+NCT01964716,Phase 3,500.0,infectious diseases,8.0,All,2.1999999999999997,1.0,2484.0,2,87,0,0,0
+NCT00614614,Phase 3,1558.0,infectious diseases,17.0,All,11.0397946084724,1296.0,5343.0,0,176,0,1978,929
+NCT00645411,Phase 2/Phase 3,3604.0,infectious diseases,4.0,All,7.574916759156493,28.0,5826.0,3144,285,567,0,0
+NCT00402649,Phase 1/Phase 2,35.0,infectious diseases,8.0,All,5.714285714285714,0.0,76.0,38,0,2,0,0
+NCT00399529,Phase 2,22.0,cancer,41.0,All,9.090909090909092,8.0,138.0,0,5,1,0,0
+NCT02004262,Phase 2,303.0,cancer,24.0,All,100.0,893.0,2164.0,0,242,39,0,36
+NCT02676895,Phase 2,74.0,infectious diseases,7.0,All,10.81081081081081,6.0,396.0,169,3,36,0,0
+NCT00393523,Phase 3,1478.0,infectious diseases,21.0,All,2.165087956698241,29.0,1555.0,772,93,67,1,3
+NCT00560950,Phase 3,143.0,infectious diseases,10.0,All,0.6993006993006993,0.0,355.0,97,5,31,0,42
+NCT00363649,Phase 2,36.0,cancer,133.0,All,22.22222222222222,2.0,534.0,40,10,0,0,0
+NCT01973218,Phase 3,264.0,infectious diseases,5.0,All,0.7575757575757576,4.0,1550.0,664,36,218,0,0
+NCT00617409,Phase 2,69.0,cancer,97.0,All,88.40579710144928,217.0,633.0,7,10,0,0,0
+NCT00384397,Phase 3,1128.0,infectious diseases,23.0,All,9.840425531914894,132.0,954.0,0,182,0,0,0
+NCT00677820,Phase 4,300.0,infectious diseases,1.0,All,0.33333333333333337,4.0,18.0,0,0,0,0,0
+NCT00540592,Phase 2,2007.0,infectious diseases,8.0,All,0.4982561036372696,547.0,3132.0,0,0,778,0,879
+NCT04176133,Phase 2,61.0,healthy,29.0,All,0.0,1.0,250.0,30,1,18,0,1
+NCT03739112,Phase 3,12794.0,infectious diseases,8.0,All,2.9388775988744724,1381.0,3129.0,56,51,127,0,14
+NCT00344305,Phase 2,200.0,healthy,2.0,All,1.5,1.0,79.0,0,0,0,0,0
+NCT00323557,Phase 2,39.0,cancer,84.0,All,2.564102564102564,0.0,10.0,7,2,0,0,0
+NCT00652938,Phase 3,744.0,infectious diseases,16.0,Female,1.747311827956989,6.0,2722.0,0,0,441,0,664
+NCT00321763,Phase 2,3124.0,infectious diseases,2.0,All,0.6081946222791293,203.0,12339.0,0,289,1139,0,2920
+NCT00321373,Phase 2,1220.0,infectious diseases,1.0,All,0.4098360655737705,159.0,1713.0,1,28,208,0,364
+NCT01863433,Phase 4,120.0,infectious diseases,1.0,All,0.8333333333333334,0.0,150.0,84,0,32,0,0
+NCT00317473,Phase 1,135.0,infectious diseases,13.0,All,17.037037037037038,14.0,414.0,29,34,3,6,1
+NCT00529516,Phase 3,1252.0,infectious diseases,2.0,All,0.4792332268370607,70.0,1792.0,718,0,205,0,0
+NCT00316693,Phase 2,1046.0,infectious diseases,34.0,Female,15.487571701720842,684.0,4603.0,173,69,518,0,722
+NCT00315055,Phase 3,310.0,infectious diseases,12.0,All,2.5806451612903225,5.0,818.0,212,65,0,157,0
+NCT01776554,Phase 2,662.0,infectious diseases,5.0,All,6.042296072507553,464.0,3228.0,1324,164,176,192,0
+NCT05059301,Phase 3,770.0,infectious diseases,3.0,All,1.5584415584415585,35.0,1534.0,624,26,184,0,1
+NCT00778895,Phase 2,390.0,infectious diseases,9.0,All,9.743589743589745,4.0,1017.0,0,67,0,186,117
+NCT00744263,Phase 4,84496.0,infectious diseases,61.0,All,12.492899072145427,967.0,3808.0,77,48,8,0,0
+NCT00506350,Phase 2,350.0,infectious diseases,26.0,All,10.857142857142858,30.0,1281.0,18,7,163,0,326
+NCT02612909,Phase 2/Phase 3,930.0,infectious diseases,5.0,All,0.967741935483871,50.0,265.0,1,3,9,0,1
+NCT00518206,Phase 2,46.0,cancer,74.0,All,36.95652173913043,66.0,317.0,41,5,12,0,2
+NCT00609492,Phase 3,245.0,infectious diseases,10.0,All,4.489795918367347,4.0,569.0,0,73,0,85,114
+NCT01359449,Phase 3,123.0,infectious diseases,14.0,All,6.504065040650407,3.0,589.0,138,77,0,94,0
+NCT00572832,Not Applicable,200.0,infectious diseases,19.0,Female,6.0,0.0,113.0,112,0,0,0,0
+NCT00643916,Phase 2,378.0,infectious diseases,15.0,All,5.555555555555555,17.0,452.0,30,40,0,0,0
+NCT02446743,Phase 3,531.0,infectious diseases,10.0,All,1.8832391713747645,1.0,2425.0,802,26,276,0,0
+NCT00568334,Phase 2,244.0,infectious diseases,4.0,All,0.819672131147541,9.0,598.0,0,223,0,0,0
+NCT04969276,Phase 2,306.0,infectious diseases,6.0,All,4.248366013071895,6.0,1136.0,388,26,125,0,0
+NCT04498832,Phase 3,2100.0,infectious diseases,2.0,All,0.2380952380952381,7.0,2348.0,1677,0,183,0,0
+NCT04490018,Phase 3,463.0,infectious diseases,14.0,All,3.2397408207343417,1.0,1141.0,517,31,194,0,0
+NCT00538473,Phase 2,68.0,infectious diseases,1.0,All,1.4705882352941175,0.0,108.0,2,0,11,0,24
+NCT00621764,Phase 2,300.0,infectious diseases,21.0,All,0.33333333333333337,123.0,731.0,183,76,21,56,0
+NCT00005780,Phase 2,26.0,cancer,255.0,All,3.8461538461538463,57.0,597.0,0,5,10,0,0
+NCT00619502,Phase 3,254.0,infectious diseases,7.0,All,7.086614173228346,6.0,667.0,270,65,0,112,0
+NCT02564471,Phase 4,103.0,infectious diseases,21.0,All,8.737864077669903,0.0,155.0,43,0,23,0,0
+NCT03965962,Phase 3,640.0,infectious diseases,18.0,All,7.187499999999999,12.0,813.0,272,0,229,0,0
+NCT00412516,Phase 3,519.0,infectious diseases,39.0,All,0.0,33.0,0.0,0,1,0,0,0
+NCT03894969,Phase 2,541.0,respiratory disorders,16.0,All,6.469500924214418,42.0,1784.0,588,56,208,0,0
+NCT00485134,Phase 1/Phase 2,113.0,infectious diseases,26.0,All,15.929203539823009,1.0,345.0,15,7,21,0,0
+NCT00500266,Phase 3,1053.0,infectious diseases,11.0,All,1.2345679012345678,103.0,4065.0,5,26,3,0,3
+NCT03674177,Phase 1,502.0,infectious diseases,5.0,Female,0.9960159362549801,3.0,1004.0,268,7,197,0,1
+NCT00483574,Phase 3,1378.0,infectious diseases,20.0,All,8.34542815674891,216.0,987.0,103,82,0,0,0
+NCT02955797,Phase 3,918.0,infectious diseases,8.0,All,0.8714596949891068,28.0,2458.0,780,131,0,383,0
+NCT00616928,Phase 3,4561.0,infectious diseases,8.0,All,2.2802017101512826,202.0,11006.0,0,0,1491,0,3032
+NCT02946385,Phase 2,604.0,infectious diseases,15.0,All,0.9933774834437087,281.0,2373.0,1018,33,548,0,1
+NCT02914184,Phase 3,1612.0,infectious diseases,20.0,All,3.411910669975186,418.0,3007.0,8,78,0,806,4
+NCT00496054,Phase 3,110.0,infectious diseases,5.0,All,7.2727272727272725,2.0,73.0,0,14,0,1,0
+NCT04952402,Phase 4,43.0,infectious diseases,7.0,All,11.627906976744185,0.0,39.0,1,0,3,0,0
+NCT03673462,Phase 3,2797.0,infectious diseases,54.0,All,13.836253128351805,1599.0,15620.0,5279,2120,0,2142,0
+NCT02199691,Phase 2,1715.0,infectious diseases,14.0,All,4.314868804664723,16.0,3174.0,1257,0,538,0,0
+NCT02561195,Phase 2,300.0,infectious diseases,20.0,All,50.0,225.0,2724.0,565,17,270,0,7
+NCT01732627,Phase 2,301.0,infectious diseases,2.0,All,0.33222591362126247,0.0,369.0,138,0,76,0,0
+NCT02661490,Phase 2,320.0,infectious diseases,9.0,All,3.4375000000000004,94.0,158.0,11,0,9,0,0
+NCT02534935,Phase 2,396.0,infectious diseases,24.0,All,5.05050505050505,658.0,2654.0,800,185,29,620,0
+NCT02360475,Phase 2,507.0,infectious diseases,3.0,Female,5.9171597633136095,16.0,919.0,0,37,191,0,338
+NCT00127855,Phase 2,409.0,infectious diseases,11.0,All,2.2004889975550124,41.0,3947.0,1336,526,0,703,0
+NCT05301322,Phase 3,1471.0,infectious diseases,6.0,All,1.699524133242692,58.0,3085.0,281,37,13,0,2
+NCT02538341,Phase 2,617.0,autoimmune diseases,43.0,All,16.693679092382496,20.0,194.0,54,17,0,0,0
+NCT00466726,Phase 2,57.0,cancer,89.0,All,24.561403508771928,0.0,4.0,0,4,0,0,0
+NCT00463684,Phase 4,278.0,infectious diseases,4.0,All,1.4388489208633095,146.0,281.0,0,82,1,0,0
+NCT00452452,Phase 3,355.0,infectious diseases,8.0,All,0.8450704225352111,76.0,2137.0,3,37,0,159,0
+NCT03525119,Phase 3,900.0,healthy,4.0,All,13.555555555555557,22.0,28.0,0,0,0,0,0
+NCT00504231,Phase 2,257.0,infectious diseases,4.0,All,0.38910505836575876,6.0,0.0,0,0,0,0,0
+NCT00459316,Phase 1/Phase 2,384.0,infectious diseases,70.0,All,8.854166666666668,86.0,964.0,0,42,72,0,0
+NCT00092443,Phase 3,1312.0,infectious diseases,21.0,All,8.536585365853659,1165.0,3349.0,123,1100,0,327,0
+NCT02971670,Phase 1,23.0,infectious diseases,5.0,All,34.78260869565217,1.0,9.0,0,0,0,0,0
+NCT00540228,Phase 2,1006.0,infectious diseases,7.0,All,0.3976143141153081,20.0,3230.0,0,60,427,0,796
+NCT00562484,Phase 4,7500.0,infectious diseases,20.0,All,4.133333333333333,1844.0,4578.0,0,0,3374,0,0
+NCT03954743,Phase 3,1351.0,infectious diseases,16.0,All,3.0347890451517396,735.0,3277.0,4,332,0,999,2
+NCT00560066,Phase 4,1398.0,infectious diseases,8.0,All,2.0028612303290414,36.0,1649.0,447,0,271,0,0
+NCT00549900,Phase 1,30.0,infectious diseases,7.0,Female,3.3333333333333335,1.0,82.0,0,0,8,0,26
+NCT00695669,Phase 2,312.0,infectious diseases,2.0,All,4.807692307692308,8.0,904.0,7,8,102,0,254
+NCT00434512,Phase 2,180.0,infectious diseases,15.0,All,2.2222222222222223,6.0,1023.0,0,85,140,0,159
+NCT00689351,Phase 2,180.0,infectious diseases,18.0,All,4.444444444444445,195.0,2088.0,2,84,0,233,0
+NCT00502593,Phase 2,138.0,infectious diseases,28.0,All,26.08695652173913,20.0,1184.0,2,72,69,43,272
+NCT03058692,Phase 2,120.0,infectious diseases,9.0,All,4.166666666666666,1.0,256.0,100,0,35,0,0
+NCT03316807,Phase 4,182.0,infectious diseases,9.0,All,31.318681318681318,0.0,38.0,0,0,0,0,10
+NCT03370289,Phase 4,55.0,infectious diseases,1.0,All,9.090909090909092,0.0,64.0,12,2,6,0,0
+NCT03698279,Phase 2,665.0,infectious diseases,12.0,All,3.007518796992481,15.0,1883.0,799,82,81,87,0
+NCT03308825,Phase 4,240.0,infectious diseases,2.0,All,2.9166666666666665,3.0,265.0,121,11,20,14,0
+NCT03328325,Phase 4,152.0,infectious diseases,26.0,All,7.236842105263158,1.0,24.0,0,0,0,0,0
+NCT03201211,Phase 1,81.0,respiratory disorders,33.0,All,4.938271604938271,13.0,0.0,0,1,0,0,0
+NCT00492063,Phase 3,2654.0,infectious diseases,3.0,All,1.6955538809344386,57.0,2231.0,836,0,325,0,0
+NCT03181789,Phase 1,56.0,infectious diseases,24.0,All,19.642857142857142,0.0,167.0,0,0,1,0,1
+NCT00384670,Phase 1/Phase 2,7.0,infectious diseases,9.0,All,0.0,0.0,35.0,0,0,5,0,0
+NCT02986854,Phase 3,704.0,infectious diseases,7.0,All,2.556818181818182,23.0,1776.0,344,11,210,0,1
+NCT03170609,Phase 2,365.0,infectious diseases,12.0,All,4.657534246575342,3.0,702.0,153,0,136,0,0
+NCT02880865,Phase 4,628.0,infectious diseases,7.0,All,0.6369426751592357,269.0,1193.0,1,24,0,1,0
+NCT03439657,Phase 3,913.0,infectious diseases,12.0,All,1.2048192771084338,56.0,3754.0,1429,52,447,0,1
+NCT02921997,Phase 2,30.0,infectious diseases,4.0,All,0.0,1.0,110.0,42,2,11,0,0
+NCT02842866,Phase 3,907.0,infectious diseases,7.0,All,1.1025358324145533,39.0,613.0,179,0,151,0,0
+NCT01991067,Phase 2,34.0,infectious diseases,51.0,All,32.35294117647059,4.0,40.0,0,2,3,0,0
+NCT01340898,Phase 3,753.0,infectious diseases,30.0,All,6.640106241699867,358.0,3337.0,0,438,0,522,560
+NCT02927873,Phase 1/Phase 2,107.0,infectious diseases,25.0,All,5.607476635514018,60.0,197.0,35,66,0,3,0
+NCT02214225,Phase 3,3484.0,infectious diseases,3.0,All,2.755453501722158,89.0,2570.0,0,1,470,0,1217
+NCT01934140,Phase 3,311.0,infectious diseases,46.0,All,37.29903536977492,0.0,156.0,77,0,30,0,0
+NCT02519855,Phase 3,882.0,infectious diseases,4.0,All,0.7936507936507936,10.0,983.0,983,0,0,0,0
+NCT02492165,Phase 3,250.0,infectious diseases,9.0,All,0.4,2.0,294.0,70,24,33,21,0
+NCT02286895,Phase 4,600.0,infectious diseases,5.0,All,14.499999999999998,60.0,383.0,0,13,0,3,0
+NCT02485301,Phase 2,3024.0,infectious diseases,17.0,All,2.876984126984127,35.0,1528.0,0,131,481,0,416
+NCT02089347,Phase 3,534.0,infectious diseases,6.0,All,0.18726591760299627,0.0,55.0,27,0,0,0,0
+NCT01823536,Phase 4,465.0,infectious diseases,5.0,All,1.935483870967742,2.0,777.0,468,0,86,0,0
+NCT01651949,Phase 3,2520.0,cancer,21.0,All,6.746031746031746,52.0,3557.0,3111,1,446,0,0
+NCT03630705,Phase 3,525.0,infectious diseases,40.0,All,3.8095238095238098,15.0,1554.0,489,142,0,244,0
+NCT01767376,Phase 3,692.0,infectious diseases,12.0,All,1.0115606936416186,3.0,1516.0,0,43,199,0,491
+NCT01764256,Phase 1,48.0,infectious diseases,6.0,All,10.416666666666668,1.0,55.0,0,0,2,0,0
+NCT01962207,Phase 3,243.0,infectious diseases,50.0,All,40.32921810699588,1.0,403.0,208,5,8,0,0
+NCT01755598,Phase 2,3575.0,infectious diseases,51.0,All,15.328671328671328,477.0,5413.0,1037,300,961,0,73
+NCT01961115,Phase 2,11.0,cancer,38.0,All,54.54545454545454,4.0,104.0,10,1,1,0,1
+NCT01960725,Phase 4,66.0,infectious diseases,22.0,All,16.666666666666664,3.0,75.0,0,5,0,10,0
+NCT01635283,Phase 2,5.0,cancer,52.0,All,80.0,0.0,17.0,0,0,2,0,0
+NCT02207413,Phase 3,1886.0,infectious diseases,8.0,All,1.166489925768823,372.0,4459.0,0,232,217,322,776
+NCT01644149,Phase 4,83.0,infectious diseases,0.0,All,6.024096385542169,0.0,336.0,0,13,24,0,49
+NCT01706458,Phase 2,18.0,cancer,49.0,Male,38.88888888888889,11.0,91.0,4,2,0,0,1
+NCT02203357,Phase 4,353.0,infectious diseases,27.0,All,54.95750708215298,0.0,9.0,9,0,0,0,0
+NCT01642589,Phase 3,300.0,infectious diseases,6.0,All,0.6666666666666667,0.0,372.0,159,0,61,0,0
+NCT01954251,Phase 3,829.0,infectious diseases,8.0,All,3.8600723763570564,781.0,3398.0,0,1,353,0,1326
+NCT01629589,Phase 4,423.0,infectious diseases,9.0,All,3.546099290780142,0.0,144.0,77,0,52,0,0
+NCT02915016,Phase 1/Phase 2,334.0,infectious diseases,32.0,All,15.269461077844312,364.0,773.0,10,1,10,0,0
+NCT02255279,Phase 3,287.0,infectious diseases,7.0,All,4.878048780487805,0.0,582.0,198,38,0,49,0
+NCT02290691,Phase 4,985.0,infectious diseases,2.0,All,1.7258883248730965,2.0,2157.0,0,12,148,0,396
+NCT02154061,Not Applicable,33.0,infectious diseases,25.0,All,6.0606060606060606,0.0,17.0,0,0,0,0,0
+NCT02207816,Phase 3,3084.0,infectious diseases,28.0,All,6.614785992217899,172.0,0.0,0,2,0,0,0
+NCT02914275,Phase 3,2250.0,infectious diseases,5.0,All,7.244444444444445,15.0,581.0,0,116,0,0,0
+NCT02158364,Not Applicable,3331.0,infectious diseases,47.0,All,1.8012608826178327,2.0,376.0,214,162,0,0,0
+NCT01527370,Phase 3,250.0,infectious diseases,5.0,All,2.4,2.0,88.0,88,0,0,0,0
+NCT01890759,Phase 3,300.0,infectious diseases,34.0,All,4.666666666666667,4.0,425.0,134,31,0,63,0
+NCT02118961,Phase 3,446.0,infectious diseases,4.0,All,0.2242152466367713,0.0,1548.0,1473,18,30,0,0
+NCT01627340,Phase 4,667.0,infectious diseases,17.0,All,2.39880059970015,33.0,963.0,0,0,168,0,275
+NCT01480258,Phase 3,1315.0,infectious diseases,22.0,All,2.585551330798479,1044.0,9244.0,3000,1888,0,1187,0
+NCT01453348,Phase 3,252.0,infectious diseases,3.0,All,1.1904761904761905,2.0,69.0,10,0,23,0,0
+NCT01625689,Phase 2,309.0,infectious diseases,8.0,All,0.9708737864077669,6.0,313.0,0,0,0,0,0
+NCT02124161,Phase 4,882.0,infectious diseases,8.0,All,3.5147392290249435,63.0,450.0,38,6,11,0,0
+NCT02117570,Phase 2,185.0,infectious diseases,17.0,All,8.108108108108109,39.0,109.0,23,0,4,0,2
+NCT02151773,Not Applicable,3493.0,infectious diseases,38.0,All,1.8322359003721727,1271.0,2151.0,141,1276,0,0,0
+NCT02052596,Phase 3,935.0,infectious diseases,16.0,All,10.481283422459892,541.0,2953.0,0,138,312,0,703
+NCT02058589,Phase 3,265.0,infectious diseases,26.0,All,1.509433962264151,85.0,606.0,0,46,79,0,125
+NCT00194714,Phase 1/Phase 2,22.0,cancer,58.0,Female,4.545454545454546,4.0,301.0,23,4,0,0,0
+NCT02034877,Phase 4,1200.0,infectious diseases,11.0,All,0.5,0.0,107.0,0,22,1,0,0
+NCT02075515,Phase 3,651.0,infectious diseases,8.0,All,2.61136712749616,86.0,2393.0,0,153,298,0,569
+NCT02116205,Phase 2,130.0,infectious diseases,29.0,All,14.615384615384617,1.0,525.0,167,0,41,0,0
+NCT01981616,Phase 1,127.0,inflammatory diseases,8.0,All,1.574803149606299,1.0,59.0,0,0,20,0,0
+NCT01978262,Phase 4,103.0,healthy,46.0,Female,10.679611650485436,0.0,139.0,0,0,23,0,62
+NCT02058563,Phase 3,996.0,infectious diseases,10.0,All,5.220883534136546,11.0,295.0,157,36,0,0,0
+NCT02055365,Not Applicable,10.0,infectious diseases,10.0,All,10.0,0.0,3.0,0,0,0,0,0
+NCT02038907,Phase 2,420.0,infectious diseases,14.0,All,0.4761904761904762,28.0,156.0,10,0,35,0,0
+NCT01946438,Phase 4,208.0,infectious diseases,3.0,All,1.9230769230769231,2.0,233.0,110,0,34,0,0
+NCT01946425,Phase 4,60.0,infectious diseases,3.0,All,3.3333333333333335,0.0,188.0,80,8,4,17,0
+NCT00423046,Phase 3,1106.0,infectious diseases,13.0,Female,61.93490054249548,109.0,3362.0,0,134,470,0,862
+NCT00546572,Phase 3,938.0,infectious diseases,32.0,All,15.884861407249467,237.0,7051.0,21,74,356,0,0
+NCT00466947,Phase 3,23802.0,infectious diseases,38.0,All,120.8637929585749,50684.0,58645.0,1017,9061,0,1541,1495
+NCT00676091,Phase 3,354.0,infectious diseases,17.0,All,12.711864406779661,225.0,4311.0,14,314,0,856,0
+NCT00536120,Phase 4,60.0,autoimmune diseases,22.0,All,15.0,15.0,102.0,22,2,2,0,0
+NCT00535730,Phase 3,473.0,infectious diseases,8.0,All,1.9027484143763214,7.0,950.0,815,6,17,0,0
+NCT00532298,Phase 2,1596.0,infectious diseases,1.0,All,0.43859649122807015,421.0,3130.0,66,0,316,0,687
+NCT00534248,Phase 3,22439.0,infectious diseases,27.0,All,5.945006461963546,2516.0,20998.0,19038,1,3920,0,0
+NCT00390910,Phase 3,286.0,infectious diseases,9.0,All,5.594405594405594,398.0,1076.0,14,282,0,352,149
+NCT01609257,Phase 1/Phase 2,132.0,infectious diseases,19.0,All,10.606060606060606,0.0,19.0,0,0,0,0,0
+NCT00385840,Phase 2,678.0,infectious diseases,3.0,All,2.6548672566371683,5.0,1617.0,0,36,155,0,309
+NCT01974817,Phase 4,25.0,chronic diseases,7.0,All,32.0,0.0,4.0,0,0,0,0,2
+NCT02979639,Phase 3,404.0,infectious diseases,2.0,All,3.4653465346534658,27.0,1631.0,556,88,189,0,2
+NCT01949090,Phase 2,363.0,infectious diseases,2.0,All,3.581267217630854,67.0,606.0,4,0,78,0,149
+NCT01424644,Phase 4,801.0,infectious diseases,15.0,All,7.490636704119851,9.0,1488.0,579,0,233,0,0
+NCT01423084,Phase 3,344.0,infectious diseases,4.0,All,1.744186046511628,0.0,1594.0,848,0,164,0,0
+NCT01385566,Phase 1,223.0,infectious diseases,20.0,All,0.8968609865470852,0.0,293.0,273,0,8,0,0
+NCT00366340,Phase 3,604.0,infectious diseases,22.0,All,4.801324503311259,1549.0,9480.0,49,1195,0,963,1
+NCT00365716,Phase 2,1158.0,infectious diseases,48.0,Female,38.255613126079446,9.0,3144.0,1863,151,523,0,0
+NCT01857206,Phase 3,2055.0,infectious diseases,13.0,All,1.119221411192214,133.0,4662.0,2133,137,351,0,0
+NCT01610414,Phase 3,1877.0,infectious diseases,52.0,All,25.57272242940863,3517.0,4428.0,0,534,474,0,1686
+NCT03629080,Phase 2,83.0,infectious diseases,42.0,All,26.506024096385545,68.0,88.0,0,2,0,0,0
+NCT01603875,Not Applicable,105.0,infectious diseases,12.0,All,22.857142857142858,0.0,171.0,0,14,0,0,70
+NCT01388985,Phase 3,500.0,infectious diseases,51.0,All,17.4,7.0,0.0,0,0,0,0,0
+NCT01545375,Phase 2,1806.0,infectious diseases,50.0,All,10.35437430786268,1149.0,2039.0,0,389,0,335,354
+NCT01513551,Phase 2,692.0,infectious diseases,11.0,All,2.167630057803468,16.0,1249.0,676,0,123,0,0
+NCT01489527,Not Applicable,406.0,infectious diseases,19.0,Female,11.822660098522167,0.0,169.0,1,0,6,0,21
+NCT00108732,Phase 2,50.0,cancer,56.0,Male,38.0,38.0,123.0,28,30,0,0,0
+NCT01859143,Phase 4,300.0,infectious diseases,7.0,All,0.6666666666666667,3.0,42.0,0,0,0,0,0
+NCT01381575,Phase 3,1447.0,infectious diseases,12.0,Female,5.874222529371113,93.0,5699.0,0,139,635,0,1341
+NCT00214461,Phase 1,48.0,infectious diseases,3.0,All,6.25,6.0,248.0,47,1,8,0,1
