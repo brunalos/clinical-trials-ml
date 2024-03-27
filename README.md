@@ -11,10 +11,10 @@ To address this problem, I have gathered information from various public dataset
 ## Table of Contents
 1. [Data Gathering](#1-data-gathering)
 2. [Data Preprocessing](#2-data-preprocessing)
-3. [Data Analysis and Visualization](#3-data-analysis-and-visualization)
+3. [Exploratory Data Analysis and Visualization](#3-exploratory-data-analysis-and-visualization)
 4. [Machine Learning Model Building](#4-machine-learning-model-building)
-5. [Python libraries](#5-python-libraries)
-[References](#References)
+5. [Python Libraries Used](#5-python-libraries-used)
+6. [References](#references)
 
 
 ## 1. Data Gathering:
@@ -54,8 +54,6 @@ Download the AACT (Aggregate Analysis of ClinicalTrials.gov) database from the o
 
 ## 3. Data Analysis and Visualization:
 
-### Exploration and Analysis:
-
 Uncover insights, patterns, and trends that contribute to understanding patient dropout rates in vaccine clinical trials.
 
 For example:
@@ -77,7 +75,7 @@ For this project, five algorithms were used to make predictions:
 4. Random Forests
 5. XGBoost
 
-## 5. Python Libraries
+## 5. Python Libraries Used
 
 #### Requirements
 
