@@ -1,6 +1,19 @@
 # Predicting Patient Dropout Rates in Vaccine Clinical Trials
 
+Clinical trials often face challenges in proving the effectiveness of a treatment or vaccine. One significant issue is that participants sometimes drop out of the trials before the trial ends, which can prolong the trial duration. This can happen because, for example, participants choose to withdraw or stop being involved without notice.
+
+To address this problem, I have compiled information from various public datasets to identify the main reasons why people drop out of trials. It examines factors such as the trial duration, number of participants, trial phase, participants' demographics, geographic location, trial sponsors, and more. By analyzing these factors before initiating a trial, researchers can gain insights into the likelihood of participant dropouts and develop strategies to prevent them.
+
 **Work in Progress**
+
+## Table of Contents
+1. [Data Gathering](#1-data-gathering)
+2. [Data Preprocessing](#2-data-preprocessing)
+3. [Data Analysis and Visualization](#3-data-analysis-and-visualization)
+4. [Machine Learning Model Building](#4-machine-learning-model-building)
+5. [Python libraries](#5-python-libraries)
+[References](#References)
+
 
 ## 1. Data Gathering:
 
@@ -29,10 +42,10 @@ Download the AACT (Aggregate Analysis of ClinicalTrials.gov) database from the o
 - Standardize data formats as needed.
 
 **Data Encoding:**
-- Encode categorical variables into numerical representations using techniques like one-hot encoding or label encoding.
+- Encode categorical variables into numerical representations using techniques like one-hot encoding, label encoding, binary encoding.
 
 **Normalization and Scaling:**
-- Normalize or scale numerical features to ensure uniformity and improve model performance. Techniques include Min-Max scaling or Standardization.
+- Normalize or scale numerical features to ensure uniformity and improve model performance. 
 
 **Data Splitting:**
 - Split the dataset into training and testing sets for machine learning models.
@@ -54,12 +67,29 @@ For example:
 
 ## 4. Machine Learning Model Building:
 
-For this project, four algorithms were used to make predictions:
+For this project, five algorithms were used to make predictions:
 
 1. Linear Regression
 2. K Nearest Neighbor
 3. Decision Trees
 4. Random Forests
+5. XGBoost
+
+## 5. Python Libraries
+
+#### Requirements
+
+- Python 3.9.7 
+- Jupyter Notebook
+
+#### Installation
+
+```bash
+pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit-learn==0.24.2  xgboost==2.0.3
+```
+
+For initial data preprocessing steps, analysis and visualization please refer to: `vaccines.ipynb`.
+For ML model building please refer to: `dropout_rates_model.ipynb`.
 
 ## References
 ```
