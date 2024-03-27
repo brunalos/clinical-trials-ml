@@ -1,10 +1,12 @@
 # Predicting Patient Dropout Rates in Vaccine Clinical Trials
 
+**Work in Progress**
+
+# Project overview
+
 Clinical trials often face challenges in proving the effectiveness of treatments, such as vaccines. One significant issue in successfully executing a trial is participants dropping out, which can extend the trial duration.
 
 To address this problem, I have gathered information from various public datasets to identify the main reasons why people drop out of trials, specifically vaccine trials. It examines factors such as the trial duration, number of participants, trial phase, participants' demographics, geographic location, trial sponsors, and more. By analyzing these factors before initiating a trial, researchers can gain insights into the likelihood of participant dropouts and develop strategies to prevent them.
-
-**Work in Progress**
 
 ## Table of Contents
 1. [Data Gathering](#1-data-gathering)
