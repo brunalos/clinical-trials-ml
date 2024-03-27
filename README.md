@@ -1,4 +1,4 @@
-# Predicting Patient Dropout Rates in Vaccine Clinical Trials
+# Predicting Participant's Dropout Rates in Vaccine Clinical Trials
 
 **Work in Progress**
 
