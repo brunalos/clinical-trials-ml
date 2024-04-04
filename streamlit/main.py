@@ -55,7 +55,7 @@ mean_age = col2.number_input(
 
 
 # Load the model
-with open('model.pkl', 'rb') as model_file:
+with open('./model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Function to predict the input
