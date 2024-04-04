@@ -13,8 +13,9 @@ To address this problem, I have gathered information from various public dataset
 2. [Data Preprocessing](#2-data-preprocessing)
 3. [Exploratory Data Analysis and Visualization](#3-exploratory-data-analysis-and-visualization)
 4. [Machine Learning Model Building](#4-machine-learning-model-building)
-5. [Python Libraries Used](#5-python-libraries-used)
-6. [References](#references)
+5. [Deployment](#5-deployment)
+6. [Python Libraries Used](#6-python-libraries-used)
+7. [References](#references)
 
 
 ## 1. Data Gathering:
@@ -75,7 +76,13 @@ For this project, five algorithms were used to make predictions:
 4. Random Forests
 5. XGBoost
 
-## 5. Python Libraries Used
+## 4. Deployment:
+
+The Machine Learning model has been deployed on Streamlit. For details, refer to: `main.py`.
+
+You can access it here: [Dropout Predictor App](https://dropout-rates-predictor.streamlit.app/)
+
+## 6. Python Libraries Used
 
 #### Requirements
 
@@ -85,7 +92,7 @@ For this project, five algorithms were used to make predictions:
 #### Installation
 
 ```bash
-pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit-learn==0.24.2  xgboost==2.0.3
+pip install pandas==1.3.3 numpy==1.21.2 seaborn==0.11.2 matplotlib==3.4.3 scikit-learn==0.24.2  xgboost==2.0.3 streamlit==1.32.0
 ```
 
 For initial data preprocessing steps, analysis and visualization please refer to: `vaccines.ipynb`.
