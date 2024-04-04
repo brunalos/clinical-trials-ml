@@ -53,9 +53,11 @@ duration = col2.number_input(
 mean_age = col2.number_input(
     "Enter Mean Age of the Participants", min_value=0)
 
+path = Path(__file__).parents[1] / 'streamlit/model.pkl'
+
 
 # Load the model
-with open(Path(__file__).parent / 'model.pkl', 'rb') as model_file:
+with open(path, 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Function to predict the input
