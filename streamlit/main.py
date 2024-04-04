@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import pandas as pd
-from pathlib import Path
 
 # Create columns
 col1, col2 = st.columns([3, 1])
@@ -52,8 +51,6 @@ duration = col2.number_input(
 # Mean Age: Numeric input for the mean age of the participants
 mean_age = col2.number_input(
     "Enter Mean Age of the Participants", min_value=0)
-
-path = Path(__file__).parents[1] / 'streamlit/model.pkl'
 
 
 # Load the model
