@@ -57,7 +57,7 @@ path = Path(__file__).parents[1] / 'streamlit/model.pkl'
 
 
 # Load the model
-with open(path, 'rb') as model_file:
+with open('streamlit/model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Function to predict the input
