@@ -25,7 +25,8 @@ phase_options = {
 st.write("##### Input Data")
 col1, col2 = st.columns(2)
 enrollment = col1.number_input("Enrollment", min_value=0)
-AE_total = col1.number_input("Total Number of Serious Adverse Events", min_value=0)
+AE_total = col1.number_input(
+    "Total Number of Serious Adverse Events", min_value=0)
 phase = col1.selectbox("Select Phase", list(phase_options.keys()))
 duration = col2.number_input("Duration of the Trial (in months)", min_value=0)
 mean_age = col2.number_input("Mean Age of the Cohort", min_value=0)
@@ -36,24 +37,40 @@ with open('model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Function to predict the input
+
+
 def prediction(enrollment, phase, AE_total, duration, mean_age):
     # Convert phase to numerical value
-    phase_encoded = phase_options.get(phase, 0)  # Default value is 0 if phase is not found
-    
+    # Default value is 0 if phase is not found
+    phase_encoded = phase_options.get(phase, 0)
+
     # Create a df with input data
     df_input = pd.DataFrame({
         'enrollment': [enrollment],
         'actual_duration': [duration],
         'AE_total_serious': [AE_total],
         'mean_age_imp': [mean_age],
-        'phase_encoded': [phase_encoded],  
+        'phase_encoded': [phase_encoded],
     })
-    
+
     prediction = model.predict(df_input)
     return prediction
+
 
 # Botton to predict
 if st.button('Run'):
     predict = prediction(enrollment, phase, AE_total, duration, mean_age)
     predicted_dropout_rate = predict[0]
     st.success(f"Predicted Dropout Rate: {predicted_dropout_rate:.2f}")
+
+st.write("\n\n")
+st.write("\n\n")
+st.write("###### Disclaimer")
+st.write("\n\n")
+st.write("The Random Forest model was the most promising predictor for dropout rates in vaccine clinical trials.")
+st.write("\n\n")
+st.write("**Current Metrics:**")
+st.write("- Mean Absolute Error: 6.73")
+st.write("- Root Mean Squared Error: 11.09")
+st.write("\n\n")
+st.write("Improvements are currently being pursued. :)")
