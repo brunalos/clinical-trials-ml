@@ -76,7 +76,7 @@ For this project, five algorithms were used to make predictions:
 4. Random Forests
 5. XGBoost
 
-## 4. Deployment:
+## 5. Deployment:
 
 The Machine Learning model has been deployed on Streamlit. For details, refer to: `main.py`.
 
