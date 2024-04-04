@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-
+from pathlib import Path
 
 # Create columns
 col1, col2 = st.columns([3, 1])
@@ -55,7 +55,7 @@ mean_age = col2.number_input(
 
 
 # Load the model
-with open('./model.pkl', 'rb') as model_file:
+with open(Path(__file__).parent / 'model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Function to predict the input
