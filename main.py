@@ -31,26 +31,26 @@ phase_options = {
 }
 
 # Input Data Section: Add interactive elements for user input
-st.write("##### Input Data")
+st.write("**Provide your data below:**")
 col1, col2 = st.columns(2)
 
 # Enrollment: Numeric input for the number of participants enrolled in the trial
-enrollment = col1.number_input("Enter Enrollment Count", min_value=0)
+enrollment = col1.number_input("Enter Enrollment Count", min_value=0, max_value=100000)
 
 # AE Total: Numeric input for the total number of Serious Adverse Events reported
 AE_total = col1.number_input(
-    "Enter Total Number of Serious Adverse Events", min_value=0)
+    "Enter Total Number of Serious Adverse Events", min_value=0, max_value=100000)
 
 # Phase: Dropdown selection box to choose the phase of the clinical trial
 phase = col1.selectbox("Select Phase", list(phase_options.keys()))
 
 # Duration: Numeric input for the duration of the trial in months
 duration = col2.number_input(
-    "Enter Duration of the Trial (in months)", min_value=0)
+    "Enter Duration of the Trial (in months)", min_value=0, max_value=300)
 
 # Mean Age: Numeric input for the mean age of the participants
 mean_age = col2.number_input(
-    "Enter Mean Age of the Participants", min_value=0)
+    "Enter Mean Age of the Participants", min_value=0, max_value=100)
 
 
 # Load the model
@@ -89,8 +89,8 @@ st.write("#### Disclaimer")
 st.write("\n\n")
 st.write("The Random Forest model was the most promising predictor for dropout rates in vaccine clinical trials.")
 st.write("\n\n")
-st.write("**Current Metrics:**")
+st.write("**Current Metrics :chart_with_upwards_trend::**")
 st.write("- Mean Absolute Error: 6.73")
 st.write("- Root Mean Squared Error: 11.09")
 st.write("\n\n")
-st.write("Improvements are currently being pursued. :)")
+st.write("Improvements are currently being pursued. :blush:")
